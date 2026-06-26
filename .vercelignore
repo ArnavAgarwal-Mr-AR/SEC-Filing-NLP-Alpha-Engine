@@ -1,16 +1,16 @@
 # Local Python backend code, dependencies, and testing
-backend/
-data/
+/backend/
+/data/
 
 # Local Next.js build caches and node_modules
-frontend/.next/
-frontend/node_modules/
-node_modules/
+/frontend/.next/
+/frontend/node_modules/
+/node_modules/
 
 # Documentation and git metadata
-docs/
-.git/
-.github/
-*.md
-basic_idea.md
-nlp.md
+/docs/
+/.git/
+/.github/
+/*.md
+/basic_idea.md
+/nlp.md
