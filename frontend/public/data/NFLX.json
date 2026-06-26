@@ -1,0 +1,1393 @@
+[
+  {
+    "ticker": "NFLX",
+    "accession": "000106528023000120",
+    "form": "10-Q",
+    "filing_date": "2023-04-21",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/nflx-20230331.htm",
+    "lm_sentiment_score": -0.0022766079,
+    "lm_uncertainty_score": 0.0173591349,
+    "lm_pos_words": 42,
+    "lm_neg_words": 50,
+    "lm_unc_words": 61,
+    "total_words": 3514,
+    "fog_index": 20.8190307482,
+    "flesch_reading_ease": 20.2928700685,
+    "risk_word_count": 176,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        7
+      ],
+      [
+        "benefits",
+        4
+      ],
+      [
+        "gains",
+        4
+      ],
+      [
+        "gain",
+        3
+      ],
+      [
+        "improve",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        24
+      ],
+      [
+        "expense",
+        13
+      ],
+      [
+        "discontinue",
+        2
+      ],
+      [
+        "effect",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        18
+      ],
+      [
+        "may",
+        9
+      ],
+      [
+        "fluctuations",
+        4
+      ],
+      [
+        "could",
+        4
+      ],
+      [
+        "risk",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0031709278,
+    "fwd_return_5d": 0.0059454751,
+    "fwd_return_21d": 0.1068052417,
+    "fwd_return_63d": 0.3060857785,
+    "event_date": "2023-04-21",
+    "fwd_return_1d_bench": 0.0010431614,
+    "fwd_return_5d_bench": 0.0090490624,
+    "fwd_return_21d_bench": 0.0159875049,
+    "fwd_return_63d_bench": 0.105985474,
+    "alpha_1d": 0.0021277664,
+    "alpha_5d": -0.0031035873,
+    "alpha_21d": 0.0908177368,
+    "alpha_63d": 0.2001003045
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528023000198",
+    "form": "10-Q",
+    "filing_date": "2023-07-21",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/nflx-20230630.htm",
+    "lm_sentiment_score": -0.0034752389,
+    "lm_uncertainty_score": 0.0149869679,
+    "lm_pos_words": 50,
+    "lm_neg_words": 66,
+    "lm_unc_words": 69,
+    "total_words": 4604,
+    "fog_index": 21.4284045125,
+    "flesch_reading_ease": 22.8124456084,
+    "risk_word_count": 251,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        9
+      ],
+      [
+        "gains",
+        5
+      ],
+      [
+        "benefits",
+        4
+      ],
+      [
+        "favorable",
+        4
+      ],
+      [
+        "improvements",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        34
+      ],
+      [
+        "expense",
+        18
+      ],
+      [
+        "discontinue",
+        2
+      ],
+      [
+        "effect",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        23
+      ],
+      [
+        "may",
+        12
+      ],
+      [
+        "could",
+        4
+      ],
+      [
+        "risk",
+        4
+      ],
+      [
+        "fluctuations",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0020351298,
+    "fwd_return_5d": -0.0040234125,
+    "fwd_return_21d": -0.0449357061,
+    "fwd_return_63d": -0.060187178,
+    "event_date": "2023-07-21",
+    "fwd_return_1d_bench": 0.0044672008,
+    "fwd_return_5d_bench": 0.010482594,
+    "fwd_return_21d_bench": -0.0283958113,
+    "fwd_return_63d_bench": -0.0536199297,
+    "alpha_1d": -0.0024320709,
+    "alpha_5d": -0.0145060065,
+    "alpha_21d": -0.0165398948,
+    "alpha_63d": -0.0065672484
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528023000273",
+    "form": "10-Q",
+    "filing_date": "2023-10-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/nflx-20230930.htm",
+    "lm_sentiment_score": -0.0010475592,
+    "lm_uncertainty_score": 0.0142468049,
+    "lm_pos_words": 59,
+    "lm_neg_words": 64,
+    "lm_unc_words": 68,
+    "total_words": 4773,
+    "fog_index": 21.6825979311,
+    "flesch_reading_ease": 18.5967916695,
+    "risk_word_count": 265,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        13
+      ],
+      [
+        "gains",
+        9
+      ],
+      [
+        "benefits",
+        5
+      ],
+      [
+        "gain",
+        5
+      ],
+      [
+        "favorable",
+        4
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        33
+      ],
+      [
+        "expense",
+        15
+      ],
+      [
+        "discontinue",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "discontinuance",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        22
+      ],
+      [
+        "may",
+        12
+      ],
+      [
+        "fluctuations",
+        4
+      ],
+      [
+        "could",
+        4
+      ],
+      [
+        "risk",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0146647403,
+    "fwd_return_5d": -0.0077065522,
+    "fwd_return_21d": 0.1833349412,
+    "fwd_return_63d": 0.2275289542,
+    "event_date": "2023-10-20",
+    "fwd_return_1d_bench": -0.0017333044,
+    "fwd_return_5d_bench": -0.0249532724,
+    "fwd_return_21d_bench": 0.0785154347,
+    "fwd_return_63d_bench": 0.155834089,
+    "alpha_1d": 0.0163980446,
+    "alpha_5d": 0.0172467202,
+    "alpha_21d": 0.1048195065,
+    "alpha_63d": 0.0716948651
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528024000030",
+    "form": "10-K",
+    "filing_date": "2024-01-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/nflx-20231231.htm",
+    "lm_sentiment_score": -0.0237191651,
+    "lm_uncertainty_score": 0.0547365348,
+    "lm_pos_words": 133,
+    "lm_neg_words": 458,
+    "lm_unc_words": 750,
+    "total_words": 13702,
+    "fog_index": 22.3653255572,
+    "flesch_reading_ease": 12.8976361263,
+    "risk_word_count": 10536,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        22
+      ],
+      [
+        "gain",
+        9
+      ],
+      [
+        "effectively",
+        6
+      ],
+      [
+        "successfully",
+        6
+      ],
+      [
+        "favorable",
+        5
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        63
+      ],
+      [
+        "expenses",
+        41
+      ],
+      [
+        "affected",
+        24
+      ],
+      [
+        "claims",
+        18
+      ],
+      [
+        "affect",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        302
+      ],
+      [
+        "may",
+        162
+      ],
+      [
+        "could",
+        107
+      ],
+      [
+        "if",
+        60
+      ],
+      [
+        "risks",
+        26
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.009414094,
+    "fwd_return_5d": -0.0101328691,
+    "fwd_return_21d": 0.0547841943,
+    "fwd_return_63d": -0.0161109134,
+    "event_date": "2024-01-26",
+    "fwd_return_1d_bench": 0.0079193728,
+    "fwd_return_5d_bench": 0.0142385524,
+    "fwd_return_21d_bench": 0.0400483676,
+    "fwd_return_63d_bench": 0.046017116,
+    "alpha_1d": 0.0014947212,
+    "alpha_5d": -0.0243714215,
+    "alpha_21d": 0.0147358266,
+    "alpha_63d": -0.0621280294
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528024000128",
+    "form": "10-Q",
+    "filing_date": "2024-04-22",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/nflx-20240331.htm",
+    "lm_sentiment_score": -0.0031609195,
+    "lm_uncertainty_score": 0.0195402299,
+    "lm_pos_words": 40,
+    "lm_neg_words": 51,
+    "lm_unc_words": 68,
+    "total_words": 3480,
+    "fog_index": 20.7580794499,
+    "flesch_reading_ease": 22.1371776301,
+    "risk_word_count": 256,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        10
+      ],
+      [
+        "gains",
+        7
+      ],
+      [
+        "improve",
+        2
+      ],
+      [
+        "profitability",
+        1
+      ],
+      [
+        "adequacy",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        25
+      ],
+      [
+        "expense",
+        8
+      ],
+      [
+        "exclude",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "discontinued",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        21
+      ],
+      [
+        "may",
+        10
+      ],
+      [
+        "hedging",
+        6
+      ],
+      [
+        "fluctuations",
+        4
+      ],
+      [
+        "could",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0008843116,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.4545454545,
+    "uncertainty_change": 0.002181095,
+    "readability_change": -0.0609512983,
+    "sentiment_yoy_change_z": -0.0303891079,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0638024968,
+    "uncertainty_change_z": 0.0428924452,
+    "readability_change_z": -0.1491578072,
+    "composite_signal": 0.0698393754,
+    "fwd_return_1d": 0.0417418406,
+    "fwd_return_5d": 0.0088172058,
+    "fwd_return_21d": 0.1731157245,
+    "fwd_return_63d": 0.1589614504,
+    "event_date": "2024-04-22",
+    "fwd_return_1d_bench": 0.0118665121,
+    "fwd_return_5d_bench": 0.0206915125,
+    "fwd_return_21d_bench": 0.0633154511,
+    "fwd_return_63d_bench": 0.1117558672,
+    "alpha_1d": 0.0298753284,
+    "alpha_5d": -0.0118743066,
+    "alpha_21d": 0.1098002734,
+    "alpha_63d": 0.0472055831
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528024000200",
+    "form": "10-Q",
+    "filing_date": "2024-07-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/nflx-20240630.htm",
+    "lm_sentiment_score": -0.0056683987,
+    "lm_uncertainty_score": 0.0172413793,
+    "lm_pos_words": 39,
+    "lm_neg_words": 63,
+    "lm_unc_words": 73,
+    "total_words": 4234,
+    "fog_index": 22.0391052919,
+    "flesch_reading_ease": 21.7191923077,
+    "risk_word_count": 256,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        8
+      ],
+      [
+        "gains",
+        7
+      ],
+      [
+        "improve",
+        2
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "gain",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        35
+      ],
+      [
+        "expense",
+        8
+      ],
+      [
+        "unfavorable",
+        3
+      ],
+      [
+        "exclude",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        25
+      ],
+      [
+        "may",
+        10
+      ],
+      [
+        "hedging",
+        7
+      ],
+      [
+        "fluctuations",
+        4
+      ],
+      [
+        "could",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0021931598,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0199203187,
+    "uncertainty_change": 0.0022544114,
+    "readability_change": 0.6107007794,
+    "sentiment_yoy_change_z": -0.1708845559,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1316125899,
+    "uncertainty_change_z": 0.048249361,
+    "readability_change_z": 0.0615163207,
+    "composite_signal": -0.0745188238,
+    "fwd_return_1d": 0.0223576653,
+    "fwd_return_5d": -0.0031104714,
+    "fwd_return_21d": 0.0871411442,
+    "fwd_return_63d": 0.0857517256,
+    "event_date": "2024-07-19",
+    "fwd_return_1d_bench": 0.0103099682,
+    "fwd_return_5d_bench": -0.0082879216,
+    "fwd_return_21d_bench": 0.0193445915,
+    "fwd_return_63d_bench": 0.0640199066,
+    "alpha_1d": 0.0120476971,
+    "alpha_5d": 0.0051774502,
+    "alpha_21d": 0.0677965527,
+    "alpha_63d": 0.021731819
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528024000287",
+    "form": "10-Q",
+    "filing_date": "2024-10-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/nflx-20240930.htm",
+    "lm_sentiment_score": -0.0029967727,
+    "lm_uncertainty_score": 0.0175195943,
+    "lm_pos_words": 46,
+    "lm_neg_words": 59,
+    "lm_unc_words": 76,
+    "total_words": 4338,
+    "fog_index": 20.8552244311,
+    "flesch_reading_ease": 21.4577528284,
+    "risk_word_count": 260,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        10
+      ],
+      [
+        "gains",
+        10
+      ],
+      [
+        "improve",
+        2
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "gain",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        31
+      ],
+      [
+        "expense",
+        9
+      ],
+      [
+        "exclude",
+        2
+      ],
+      [
+        "unfavorable",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        23
+      ],
+      [
+        "hedging",
+        11
+      ],
+      [
+        "may",
+        10
+      ],
+      [
+        "fluctuations",
+        4
+      ],
+      [
+        "could",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0019492135,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0188679245,
+    "uncertainty_change": 0.0032727894,
+    "readability_change": -0.8273735,
+    "sentiment_yoy_change_z": -0.1446986737,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1376643209,
+    "uncertainty_change_z": 0.1226578863,
+    "readability_change_z": -0.3895580594,
+    "composite_signal": 0.1299329102,
+    "fwd_return_1d": 0.0107083585,
+    "fwd_return_5d": -0.0120566786,
+    "fwd_return_21d": 0.1088638665,
+    "fwd_return_63d": 0.248857848,
+    "event_date": "2024-10-18",
+    "fwd_return_1d_bench": -0.0016421735,
+    "fwd_return_5d_bench": -0.0094939619,
+    "fwd_return_21d_bench": 0.0060897444,
+    "fwd_return_63d_bench": 0.0408681911,
+    "alpha_1d": 0.0123505319,
+    "alpha_5d": -0.0025627167,
+    "alpha_21d": 0.1027741221,
+    "alpha_63d": 0.2079896569
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528025000044",
+    "form": "10-K",
+    "filing_date": "2025-01-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/nflx-20241231.htm",
+    "lm_sentiment_score": -0.0242468773,
+    "lm_uncertainty_score": 0.0561351947,
+    "lm_pos_words": 136,
+    "lm_neg_words": 466,
+    "lm_unc_words": 764,
+    "total_words": 13610,
+    "fog_index": 22.4798737189,
+    "flesch_reading_ease": 12.8735969407,
+    "risk_word_count": 10539,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        20
+      ],
+      [
+        "successfully",
+        7
+      ],
+      [
+        "gain",
+        6
+      ],
+      [
+        "effectively",
+        6
+      ],
+      [
+        "value",
+        6
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        63
+      ],
+      [
+        "expenses",
+        44
+      ],
+      [
+        "affected",
+        24
+      ],
+      [
+        "claims",
+        18
+      ],
+      [
+        "affect",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        303
+      ],
+      [
+        "may",
+        163
+      ],
+      [
+        "could",
+        109
+      ],
+      [
+        "if",
+        59
+      ],
+      [
+        "risks",
+        27
+      ]
+    ],
+    "sentiment_yoy_change": -0.0005277122,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.000284738,
+    "uncertainty_change": 0.0013986599,
+    "readability_change": 0.1145481617,
+    "sentiment_yoy_change_z": 0.0078892749,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1346761278,
+    "uncertainty_change_z": -0.0142767414,
+    "readability_change_z": -0.0941096701,
+    "composite_signal": 0.1254759071,
+    "fwd_return_1d": -6.178e-05,
+    "fwd_return_5d": 0.0072538475,
+    "fwd_return_21d": 0.0186954661,
+    "fwd_return_63d": 0.1424955355,
+    "event_date": "2025-01-27",
+    "fwd_return_1d_bench": 0.0085924189,
+    "fwd_return_5d_bench": -0.0026694522,
+    "fwd_return_21d_bench": -0.008058487,
+    "fwd_return_63d_bench": -0.0781869932,
+    "alpha_1d": -0.0086541989,
+    "alpha_5d": 0.0099232996,
+    "alpha_21d": 0.0267539532,
+    "alpha_63d": 0.2206825287
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528025000176",
+    "form": "10-Q",
+    "filing_date": "2025-04-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/nflx-20250331.htm",
+    "lm_sentiment_score": -0.0049627792,
+    "lm_uncertainty_score": 0.0204025365,
+    "lm_pos_words": 34,
+    "lm_neg_words": 52,
+    "lm_unc_words": 74,
+    "total_words": 3627,
+    "fog_index": 21.6722740177,
+    "flesch_reading_ease": 18.0064278654,
+    "risk_word_count": 260,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "gains",
+        9
+      ],
+      [
+        "growth",
+        4
+      ],
+      [
+        "improve",
+        2
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "effective",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        28
+      ],
+      [
+        "expense",
+        8
+      ],
+      [
+        "unfavorable",
+        2
+      ],
+      [
+        "exclude",
+        2
+      ],
+      [
+        "disputes",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        21
+      ],
+      [
+        "may",
+        12
+      ],
+      [
+        "hedging",
+        8
+      ],
+      [
+        "fluctuations",
+        4
+      ],
+      [
+        "could",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0018018597,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.015625,
+    "uncertainty_change": 0.0008623066,
+    "readability_change": 0.9141945678,
+    "sentiment_yoy_change_z": -0.1288813023,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1322827443,
+    "uncertainty_change_z": -0.0534657832,
+    "readability_change_z": 0.156711871,
+    "composite_signal": -0.0499223228,
+    "fwd_return_1d": 0.0530715976,
+    "fwd_return_5d": 0.1239687988,
+    "fwd_return_21d": 0.2066079201,
+    "fwd_return_63d": 0.204644176,
+    "event_date": "2025-04-18",
+    "fwd_return_1d_bench": 0.0260178215,
+    "fwd_return_5d_bench": 0.0719429672,
+    "fwd_return_21d_bench": 0.1536738954,
+    "fwd_return_63d_bench": 0.2273666163,
+    "alpha_1d": 0.027053776,
+    "alpha_5d": 0.0520258316,
+    "alpha_21d": 0.0529340247,
+    "alpha_63d": -0.0227224403
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528025000323",
+    "form": "10-Q",
+    "filing_date": "2025-07-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/nflx-20250630.htm",
+    "lm_sentiment_score": -0.0046265697,
+    "lm_uncertainty_score": 0.0178453404,
+    "lm_pos_words": 42,
+    "lm_neg_words": 63,
+    "lm_unc_words": 81,
+    "total_words": 4539,
+    "fog_index": 22.3397342193,
+    "flesch_reading_ease": 19.8462840532,
+    "risk_word_count": 300,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "gains",
+        12
+      ],
+      [
+        "growth",
+        8
+      ],
+      [
+        "improve",
+        2
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "effective",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        33
+      ],
+      [
+        "expense",
+        9
+      ],
+      [
+        "unfavorable",
+        3
+      ],
+      [
+        "discontinued",
+        2
+      ],
+      [
+        "exclude",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        22
+      ],
+      [
+        "may",
+        12
+      ],
+      [
+        "hedging",
+        10
+      ],
+      [
+        "approximately",
+        7
+      ],
+      [
+        "fluctuations",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": 0.001041829,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.171875,
+    "uncertainty_change": 0.0006039611,
+    "readability_change": 0.3006289274,
+    "sentiment_yoy_change_z": 0.1763682429,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1079046627,
+    "uncertainty_change_z": -0.0723419841,
+    "readability_change_z": -0.0357425417,
+    "composite_signal": 0.1961787157,
+    "fwd_return_1d": 0.0198719841,
+    "fwd_return_5d": -0.0237752631,
+    "fwd_return_21d": 0.0296467118,
+    "fwd_return_63d": -0.0212116897,
+    "event_date": "2025-07-18",
+    "fwd_return_1d_bench": 0.001896242,
+    "fwd_return_5d_bench": 0.0151693461,
+    "fwd_return_21d_bench": 0.0250486057,
+    "fwd_return_63d_bench": 0.0555970409,
+    "alpha_1d": 0.0179757421,
+    "alpha_5d": -0.0389446092,
+    "alpha_21d": 0.0045981061,
+    "alpha_63d": -0.0768087306
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528025000406",
+    "form": "10-Q",
+    "filing_date": "2025-10-22",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/nflx-20250930.htm",
+    "lm_sentiment_score": -0.0044294453,
+    "lm_uncertainty_score": 0.0170850032,
+    "lm_pos_words": 42,
+    "lm_neg_words": 63,
+    "lm_unc_words": 81,
+    "total_words": 4741,
+    "fog_index": 22.7032534453,
+    "flesch_reading_ease": 16.191629523,
+    "risk_word_count": 256,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        10
+      ],
+      [
+        "gains",
+        9
+      ],
+      [
+        "improve",
+        2
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "effective",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        35
+      ],
+      [
+        "expense",
+        10
+      ],
+      [
+        "discontinued",
+        2
+      ],
+      [
+        "exclude",
+        2
+      ],
+      [
+        "disputes",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        22
+      ],
+      [
+        "hedging",
+        11
+      ],
+      [
+        "may",
+        11
+      ],
+      [
+        "fluctuations",
+        4
+      ],
+      [
+        "could",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0014326726,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0153846154,
+    "uncertainty_change": -0.0004345911,
+    "readability_change": 1.8480290142,
+    "sentiment_yoy_change_z": -0.0892517203,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1371208559,
+    "uncertainty_change_z": -0.1482245519,
+    "readability_change_z": 0.4496235794,
+    "composite_signal": -0.126764946,
+    "fwd_return_1d": -0.0024902127,
+    "fwd_return_5d": -0.0142963413,
+    "fwd_return_21d": -0.0534500462,
+    "fwd_return_63d": -0.2285711552,
+    "event_date": "2025-10-22",
+    "fwd_return_1d_bench": 0.0059299627,
+    "fwd_return_5d_bench": 0.0293351978,
+    "fwd_return_21d_bench": -0.0228660387,
+    "fwd_return_63d_bench": 0.0351401068,
+    "alpha_1d": -0.0084201754,
+    "alpha_5d": -0.0436315391,
+    "alpha_21d": -0.0305840076,
+    "alpha_63d": -0.263711262
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528026000034",
+    "form": "10-K",
+    "filing_date": "2026-01-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm",
+    "lm_sentiment_score": -0.0234729261,
+    "lm_uncertainty_score": 0.056415044,
+    "lm_pos_words": 143,
+    "lm_neg_words": 495,
+    "lm_unc_words": 846,
+    "total_words": 14996,
+    "fog_index": 22.7825223436,
+    "flesch_reading_ease": 12.4103144654,
+    "risk_word_count": 11286,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        21
+      ],
+      [
+        "benefits",
+        10
+      ],
+      [
+        "value",
+        10
+      ],
+      [
+        "successfully",
+        8
+      ],
+      [
+        "gain",
+        6
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        64
+      ],
+      [
+        "expenses",
+        44
+      ],
+      [
+        "affected",
+        24
+      ],
+      [
+        "affect",
+        19
+      ],
+      [
+        "claims",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        323
+      ],
+      [
+        "may",
+        186
+      ],
+      [
+        "could",
+        117
+      ],
+      [
+        "if",
+        60
+      ],
+      [
+        "risks",
+        30
+      ]
+    ],
+    "sentiment_yoy_change": 0.0007739512,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0708795901,
+    "uncertainty_change": 0.0002798493,
+    "readability_change": 0.3026486247,
+    "sentiment_yoy_change_z": 0.1476134862,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1236619385,
+    "uncertainty_change_z": -0.0960234472,
+    "readability_change_z": -0.0351090322,
+    "composite_signal": 0.2012039521,
+    "fwd_return_1d": -0.0048769831,
+    "fwd_return_5d": -0.0305388388,
+    "fwd_return_21d": -0.0938225914,
+    "fwd_return_63d": 0.0733859672,
+    "event_date": "2026-01-23",
+    "fwd_return_1d_bench": 0.0050781427,
+    "fwd_return_5d_bench": 0.0039754644,
+    "fwd_return_21d_bench": -0.0027276733,
+    "fwd_return_63d_bench": 0.0386806319,
+    "alpha_1d": -0.0099551258,
+    "alpha_5d": -0.0345143032,
+    "alpha_21d": -0.0910949181,
+    "alpha_63d": 0.0347053353
+  },
+  {
+    "ticker": "NFLX",
+    "accession": "000106528026000138",
+    "form": "10-Q",
+    "filing_date": "2026-04-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/nflx-20260331.htm",
+    "lm_sentiment_score": -0.0048244438,
+    "lm_uncertainty_score": 0.0190297507,
+    "lm_pos_words": 35,
+    "lm_neg_words": 53,
+    "lm_unc_words": 71,
+    "total_words": 3731,
+    "fog_index": 21.347308793,
+    "flesch_reading_ease": 18.6847550374,
+    "risk_word_count": 256,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        7
+      ],
+      [
+        "gains",
+        5
+      ],
+      [
+        "benefits",
+        3
+      ],
+      [
+        "improve",
+        2
+      ],
+      [
+        "favorable",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        28
+      ],
+      [
+        "expense",
+        10
+      ],
+      [
+        "exclude",
+        2
+      ],
+      [
+        "unsecured",
+        2
+      ],
+      [
+        "disputes",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        21
+      ],
+      [
+        "may",
+        13
+      ],
+      [
+        "hedging",
+        5
+      ],
+      [
+        "fluctuations",
+        4
+      ],
+      [
+        "could",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": 0.0001383354,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0153846154,
+    "uncertainty_change": -0.0013727858,
+    "readability_change": -0.3249652247,
+    "sentiment_yoy_change_z": 0.0793846981,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1371208559,
+    "uncertainty_change_z": -0.2167744263,
+    "readability_change_z": -0.2319698843,
+    "composite_signal": 0.3326249323,
+    "fwd_return_1d": -0.0254855183,
+    "fwd_return_5d": -0.050046195,
+    "fwd_return_21d": -0.078717462,
+    "fwd_return_63d": null,
+    "event_date": "2026-04-17",
+    "fwd_return_1d_bench": -0.0019997351,
+    "fwd_return_5d_bench": 0.0053510385,
+    "fwd_return_21d_bench": 0.0401469638,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": -0.0234857832,
+    "alpha_5d": -0.0553972336,
+    "alpha_21d": -0.1188644257,
+    "alpha_63d": null
+  }
+]

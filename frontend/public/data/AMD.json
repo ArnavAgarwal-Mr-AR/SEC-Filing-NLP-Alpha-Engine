@@ -1,0 +1,1638 @@
+[
+  {
+    "ticker": "AMD",
+    "accession": "000000248821000116",
+    "form": "10-Q",
+    "filing_date": "2021-07-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/amd-20210626.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0,
+    "lm_pos_words": 0,
+    "lm_neg_words": 0,
+    "lm_unc_words": 0,
+    "total_words": 0,
+    "fog_index": 0.0,
+    "flesch_reading_ease": 100.0,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [],
+    "top_uncertainty": [],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0512610704,
+    "fwd_return_5d": 0.2128050268,
+    "fwd_return_21d": 0.0953742092,
+    "fwd_return_63d": 0.255284386,
+    "event_date": "2021-07-28",
+    "fwd_return_1d_bench": 0.0041476693,
+    "fwd_return_5d_bench": 0.0003418258,
+    "fwd_return_21d_bench": 0.0169315357,
+    "fwd_return_63d_bench": 0.0423645175,
+    "alpha_1d": 0.0471134011,
+    "alpha_5d": 0.212463201,
+    "alpha_21d": 0.0784426735,
+    "alpha_63d": 0.2129198685
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248821000178",
+    "form": "10-Q",
+    "filing_date": "2021-10-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/amd-20210925.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0,
+    "lm_pos_words": 0,
+    "lm_neg_words": 0,
+    "lm_unc_words": 0,
+    "total_words": 0,
+    "fog_index": 0.0,
+    "flesch_reading_ease": 100.0,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [],
+    "top_uncertainty": [],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0091592667,
+    "fwd_return_5d": 0.0674681067,
+    "fwd_return_21d": 0.2660287791,
+    "fwd_return_63d": -0.1609421042,
+    "event_date": "2021-10-27",
+    "fwd_return_1d_bench": 0.0096489577,
+    "fwd_return_5d_bench": 0.0237475797,
+    "fwd_return_21d_bench": 0.0110807459,
+    "fwd_return_63d_bench": -0.0466688822,
+    "alpha_1d": -0.0188082244,
+    "alpha_5d": 0.043720527,
+    "alpha_21d": 0.2549480331,
+    "alpha_63d": -0.114273222
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248822000016",
+    "form": "10-K",
+    "filing_date": "2022-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/amd-20211225.htm",
+    "lm_sentiment_score": -0.0205856451,
+    "lm_uncertainty_score": 0.0410887274,
+    "lm_pos_words": 403,
+    "lm_neg_words": 1151,
+    "lm_unc_words": 1493,
+    "total_words": 36336,
+    "fog_index": 19.8032635535,
+    "flesch_reading_ease": 22.0764063599,
+    "risk_word_count": 17027,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        87
+      ],
+      [
+        "benefit",
+        28
+      ],
+      [
+        "effective",
+        20
+      ],
+      [
+        "respect",
+        16
+      ],
+      [
+        "benefits",
+        16
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        97
+      ],
+      [
+        "effect",
+        62
+      ],
+      [
+        "adverse",
+        59
+      ],
+      [
+        "affect",
+        55
+      ],
+      [
+        "affected",
+        43
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        553
+      ],
+      [
+        "may",
+        243
+      ],
+      [
+        "could",
+        198
+      ],
+      [
+        "if",
+        147
+      ],
+      [
+        "risks",
+        39
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0293137624,
+    "fwd_return_5d": 0.0473850327,
+    "fwd_return_21d": -0.1426549352,
+    "fwd_return_63d": -0.2182711416,
+    "event_date": "2022-02-03",
+    "fwd_return_1d_bench": 0.0047022467,
+    "fwd_return_5d_bench": 0.0060904509,
+    "fwd_return_21d_bench": -0.0608373322,
+    "fwd_return_63d_bench": -0.0705430693,
+    "alpha_1d": 0.0246115157,
+    "alpha_5d": 0.0412945818,
+    "alpha_21d": -0.081817603,
+    "alpha_63d": -0.1477280723
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248822000078",
+    "form": "10-Q",
+    "filing_date": "2022-05-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/amd-20220326.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0,
+    "lm_pos_words": 0,
+    "lm_neg_words": 0,
+    "lm_unc_words": 0,
+    "total_words": 0,
+    "fog_index": 0.0,
+    "flesch_reading_ease": 100.0,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [],
+    "top_uncertainty": [],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0558237329,
+    "fwd_return_5d": -0.1156708933,
+    "fwd_return_21d": 0.0692014183,
+    "fwd_return_63d": 0.0451619953,
+    "event_date": "2022-05-04",
+    "fwd_return_1d_bench": -0.0355427185,
+    "fwd_return_5d_bench": -0.0846269951,
+    "fwd_return_21d_bench": -0.0431641827,
+    "fwd_return_63d_bench": -0.0305339358,
+    "alpha_1d": -0.0202810144,
+    "alpha_5d": -0.0310438982,
+    "alpha_21d": 0.1123656011,
+    "alpha_63d": 0.0756959311
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248822000123",
+    "form": "10-Q",
+    "filing_date": "2022-08-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/amd-20220625.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0,
+    "lm_pos_words": 0,
+    "lm_neg_words": 0,
+    "lm_unc_words": 0,
+    "total_words": 0,
+    "fog_index": 0.0,
+    "flesch_reading_ease": 100.0,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [],
+    "top_uncertainty": [],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0593333423,
+    "fwd_return_5d": 0.0097869992,
+    "fwd_return_21d": -0.1606687236,
+    "fwd_return_63d": -0.3917830352,
+    "event_date": "2022-08-03",
+    "fwd_return_1d_bench": -0.0006756564,
+    "fwd_return_5d_bench": 0.0133670908,
+    "fwd_return_21d_bench": -0.0435034797,
+    "fwd_return_63d_bench": -0.0684050462,
+    "alpha_1d": 0.0600089987,
+    "alpha_5d": -0.0035800916,
+    "alpha_21d": -0.1171652439,
+    "alpha_63d": -0.3233779891
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248822000170",
+    "form": "10-Q",
+    "filing_date": "2022-11-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/amd-20220924.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0,
+    "lm_pos_words": 0,
+    "lm_neg_words": 0,
+    "lm_unc_words": 0,
+    "total_words": 0,
+    "fog_index": 0.0,
+    "flesch_reading_ease": 100.0,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [],
+    "top_uncertainty": [],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0252430414,
+    "fwd_return_5d": 0.022002338,
+    "fwd_return_21d": 0.2788675079,
+    "fwd_return_63d": 0.4683608182,
+    "event_date": "2022-11-02",
+    "fwd_return_1d_bench": -0.0102969365,
+    "fwd_return_5d_bench": -0.0019741141,
+    "fwd_return_21d_bench": 0.0854696191,
+    "fwd_return_63d_bench": 0.1050323444,
+    "alpha_1d": 0.0355399778,
+    "alpha_5d": 0.0239764521,
+    "alpha_21d": 0.1933978889,
+    "alpha_63d": 0.3633284738
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248823000047",
+    "form": "10-K",
+    "filing_date": "2023-02-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/amd-20221231.htm",
+    "lm_sentiment_score": -0.0158765214,
+    "lm_uncertainty_score": 0.0396544955,
+    "lm_pos_words": 490,
+    "lm_neg_words": 1137,
+    "lm_unc_words": 1616,
+    "total_words": 40752,
+    "fog_index": 19.7489930209,
+    "flesch_reading_ease": 21.3894279122,
+    "risk_word_count": 17647,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        129
+      ],
+      [
+        "benefit",
+        31
+      ],
+      [
+        "values",
+        24
+      ],
+      [
+        "growth",
+        21
+      ],
+      [
+        "effective",
+        21
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        97
+      ],
+      [
+        "adverse",
+        64
+      ],
+      [
+        "effect",
+        64
+      ],
+      [
+        "expense",
+        56
+      ],
+      [
+        "affect",
+        55
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        596
+      ],
+      [
+        "may",
+        266
+      ],
+      [
+        "could",
+        202
+      ],
+      [
+        "if",
+        136
+      ],
+      [
+        "risks",
+        42
+      ]
+    ],
+    "sentiment_yoy_change": 0.0047091237,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0364127562,
+    "uncertainty_change": -0.0014342319,
+    "readability_change": -0.0542705326,
+    "sentiment_yoy_change_z": 0.5700259731,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1290394444,
+    "uncertainty_change_z": -0.22126403,
+    "readability_change_z": -0.147062281,
+    "composite_signal": 0.5336958643,
+    "fwd_return_1d": -0.0024120201,
+    "fwd_return_5d": 0.030341591,
+    "fwd_return_21d": 0.200457047,
+    "fwd_return_63d": 0.6126698514,
+    "event_date": "2023-02-27",
+    "fwd_return_1d_bench": -0.0036958631,
+    "fwd_return_5d_bench": 0.0169460665,
+    "fwd_return_21d_bench": -0.0015594092,
+    "fwd_return_63d_bench": 0.0600732432,
+    "alpha_1d": 0.0012838431,
+    "alpha_5d": 0.0133955245,
+    "alpha_21d": 0.2020164561,
+    "alpha_63d": 0.5525966082
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248823000076",
+    "form": "10-Q",
+    "filing_date": "2023-05-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/amd-20230401.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0,
+    "lm_pos_words": 0,
+    "lm_neg_words": 0,
+    "lm_unc_words": 0,
+    "total_words": 0,
+    "fog_index": 0.0,
+    "flesch_reading_ease": 100.0,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [],
+    "top_uncertainty": [],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0364127562,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1290394444,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.220042577,
+    "fwd_return_1d": 0.061136948,
+    "fwd_return_5d": 0.1886791642,
+    "fwd_return_21d": 0.4440087803,
+    "fwd_return_63d": 0.3863023489,
+    "event_date": "2023-05-03",
+    "fwd_return_1d_bench": -0.0070829284,
+    "fwd_return_5d_bench": 0.0118377127,
+    "fwd_return_21d_bench": 0.0487721119,
+    "fwd_return_63d_bench": 0.1041303848,
+    "alpha_1d": 0.0682198764,
+    "alpha_5d": 0.1768414515,
+    "alpha_21d": 0.3952366684,
+    "alpha_63d": 0.2821719641
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248823000139",
+    "form": "10-Q",
+    "filing_date": "2023-08-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/amd-20230701.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0,
+    "lm_pos_words": 0,
+    "lm_neg_words": 0,
+    "lm_unc_words": 0,
+    "total_words": 0,
+    "fog_index": 0.0,
+    "flesch_reading_ease": 100.0,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [],
+    "top_uncertainty": [],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0364127562,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1290394444,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.220042577,
+    "fwd_return_1d": 0.0347508286,
+    "fwd_return_5d": 0.0102423664,
+    "fwd_return_21d": -0.0331961345,
+    "fwd_return_63d": -0.0992226669,
+    "event_date": "2023-08-02",
+    "fwd_return_1d_bench": -0.0028657999,
+    "fwd_return_5d_bench": -0.0097304756,
+    "fwd_return_21d_bench": 0.0004887405,
+    "fwd_return_63d_bench": -0.0676578752,
+    "alpha_1d": 0.0376166285,
+    "alpha_5d": 0.019972842,
+    "alpha_21d": -0.033684875,
+    "alpha_63d": -0.0315647917
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248823000195",
+    "form": "10-Q",
+    "filing_date": "2023-11-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/amd-20230930.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0,
+    "lm_pos_words": 0,
+    "lm_neg_words": 0,
+    "lm_unc_words": 0,
+    "total_words": 0,
+    "fog_index": 0.0,
+    "flesch_reading_ease": 100.0,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [],
+    "top_uncertainty": [],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0364127562,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1290394444,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.220042577,
+    "fwd_return_1d": -0.0019437161,
+    "fwd_return_5d": 0.0513698202,
+    "fwd_return_21d": 0.123565331,
+    "fwd_return_63d": 0.6443909863,
+    "event_date": "2023-11-01",
+    "fwd_return_1d_bench": 0.019164189,
+    "fwd_return_5d_bench": 0.0345193792,
+    "fwd_return_21d_bench": 0.0862156989,
+    "fwd_return_63d_bench": 0.1743582275,
+    "alpha_1d": -0.0211079051,
+    "alpha_5d": 0.016850441,
+    "alpha_21d": 0.0373496321,
+    "alpha_63d": 0.4700327587
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248824000012",
+    "form": "10-K",
+    "filing_date": "2024-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/amd-20231230.htm",
+    "lm_sentiment_score": -0.0159956727,
+    "lm_uncertainty_score": 0.0423717899,
+    "lm_pos_words": 452,
+    "lm_neg_words": 1073,
+    "lm_unc_words": 1645,
+    "total_words": 38823,
+    "fog_index": 20.0588397639,
+    "flesch_reading_ease": 20.439571074,
+    "risk_word_count": 19067,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        115
+      ],
+      [
+        "effective",
+        27
+      ],
+      [
+        "benefit",
+        24
+      ],
+      [
+        "values",
+        17
+      ],
+      [
+        "respect",
+        16
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        87
+      ],
+      [
+        "adverse",
+        66
+      ],
+      [
+        "effect",
+        61
+      ],
+      [
+        "affect",
+        51
+      ],
+      [
+        "expense",
+        48
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        627
+      ],
+      [
+        "may",
+        283
+      ],
+      [
+        "could",
+        219
+      ],
+      [
+        "if",
+        125
+      ],
+      [
+        "risks",
+        52
+      ]
+    ],
+    "sentiment_yoy_change": -0.0001191513,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0804669349,
+    "uncertainty_change": 0.0027172944,
+    "readability_change": 0.309846743,
+    "sentiment_yoy_change_z": 0.0517453513,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1221661237,
+    "uncertainty_change_z": 0.0820702422,
+    "readability_change_z": -0.0328512304,
+    "composite_signal": 0.0623462316,
+    "fwd_return_1d": 0.0166378034,
+    "fwd_return_5d": 0.0193810004,
+    "fwd_return_21d": 0.2084202781,
+    "fwd_return_63d": -0.1396624595,
+    "event_date": "2024-01-31",
+    "fwd_return_1d_bench": 0.0130882454,
+    "fwd_return_5d_bench": 0.0315193175,
+    "fwd_return_21d_bench": 0.0620651759,
+    "fwd_return_63d_bench": 0.0393982679,
+    "alpha_1d": 0.0035495579,
+    "alpha_5d": -0.0121383171,
+    "alpha_21d": 0.1463551022,
+    "alpha_63d": -0.1790607274
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248824000056",
+    "form": "10-Q",
+    "filing_date": "2024-05-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/amd-20240330.htm",
+    "lm_sentiment_score": -0.033033033,
+    "lm_uncertainty_score": 0.0643500644,
+    "lm_pos_words": 184,
+    "lm_neg_words": 800,
+    "lm_unc_words": 1200,
+    "total_words": 18648,
+    "fog_index": 21.3521060008,
+    "flesch_reading_ease": 15.8456616925,
+    "risk_word_count": 18571,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        14
+      ],
+      [
+        "success",
+        11
+      ],
+      [
+        "able",
+        11
+      ],
+      [
+        "achieve",
+        10
+      ],
+      [
+        "effective",
+        10
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        83
+      ],
+      [
+        "adverse",
+        58
+      ],
+      [
+        "effect",
+        53
+      ],
+      [
+        "affect",
+        44
+      ],
+      [
+        "affected",
+        40
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        478
+      ],
+      [
+        "may",
+        227
+      ],
+      [
+        "could",
+        204
+      ],
+      [
+        "if",
+        85
+      ],
+      [
+        "risks",
+        42
+      ]
+    ],
+    "sentiment_yoy_change": -0.033033033,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0523601745,
+    "uncertainty_change": 0.0643500644,
+    "readability_change": 21.3521060008,
+    "sentiment_yoy_change_z": -3.4813233065,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1265513326,
+    "uncertainty_change_z": 4.585313167,
+    "readability_change_z": 6.5673808901,
+    "composite_signal": -7.2537330155,
+    "fwd_return_1d": 0.0131004321,
+    "fwd_return_5d": 0.0648089732,
+    "fwd_return_21d": 0.1568585912,
+    "fwd_return_63d": -0.0813059585,
+    "event_date": "2024-05-01",
+    "fwd_return_1d_bench": 0.009353387,
+    "fwd_return_5d_bench": 0.0336562833,
+    "fwd_return_21d_bench": 0.0540023508,
+    "fwd_return_63d_bench": 0.0887611844,
+    "alpha_1d": 0.003747045,
+    "alpha_5d": 0.0311526899,
+    "alpha_21d": 0.1028562404,
+    "alpha_63d": -0.1700671429
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248824000123",
+    "form": "10-Q",
+    "filing_date": "2024-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/amd-20240629.htm",
+    "lm_sentiment_score": -0.0331482865,
+    "lm_uncertainty_score": 0.0645350699,
+    "lm_pos_words": 185,
+    "lm_neg_words": 806,
+    "lm_unc_words": 1209,
+    "total_words": 18734,
+    "fog_index": 21.4800869245,
+    "flesch_reading_ease": 15.3308123464,
+    "risk_word_count": 18640,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        14
+      ],
+      [
+        "able",
+        12
+      ],
+      [
+        "success",
+        11
+      ],
+      [
+        "achieve",
+        10
+      ],
+      [
+        "effective",
+        10
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        86
+      ],
+      [
+        "adverse",
+        58
+      ],
+      [
+        "effect",
+        53
+      ],
+      [
+        "affect",
+        44
+      ],
+      [
+        "affected",
+        41
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        482
+      ],
+      [
+        "may",
+        229
+      ],
+      [
+        "could",
+        206
+      ],
+      [
+        "if",
+        85
+      ],
+      [
+        "risks",
+        42
+      ]
+    ],
+    "sentiment_yoy_change": -0.0331482865,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0562701876,
+    "uncertainty_change": 0.0645350699,
+    "readability_change": 21.4800869245,
+    "sentiment_yoy_change_z": -3.4936949414,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1259412935,
+    "uncertainty_change_z": 4.5988307277,
+    "readability_change_z": 6.6075240987,
+    "composite_signal": -7.2870542372,
+    "fwd_return_1d": -0.0826412154,
+    "fwd_return_5d": -0.1094268966,
+    "fwd_return_21d": 0.0069906547,
+    "fwd_return_63d": 0.1506783286,
+    "event_date": "2024-07-31",
+    "fwd_return_1d_bench": -0.0141609833,
+    "fwd_return_5d_bench": -0.0583687396,
+    "fwd_return_21d_bench": 0.0136888749,
+    "fwd_return_63d_bench": 0.059447885,
+    "alpha_1d": -0.0684802321,
+    "alpha_5d": -0.0510581571,
+    "alpha_21d": -0.0066982202,
+    "alpha_63d": 0.0912304436
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248824000163",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/amd-20240928.htm",
+    "lm_sentiment_score": -0.0327180338,
+    "lm_uncertainty_score": 0.0647620035,
+    "lm_pos_words": 198,
+    "lm_neg_words": 829,
+    "lm_unc_words": 1249,
+    "total_words": 19286,
+    "fog_index": 21.6388420071,
+    "flesch_reading_ease": 14.877817429,
+    "risk_word_count": 19195,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        14
+      ],
+      [
+        "able",
+        12
+      ],
+      [
+        "success",
+        11
+      ],
+      [
+        "achieve",
+        11
+      ],
+      [
+        "effective",
+        10
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        87
+      ],
+      [
+        "adverse",
+        57
+      ],
+      [
+        "effect",
+        52
+      ],
+      [
+        "affect",
+        46
+      ],
+      [
+        "affected",
+        41
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        499
+      ],
+      [
+        "may",
+        235
+      ],
+      [
+        "could",
+        212
+      ],
+      [
+        "if",
+        88
+      ],
+      [
+        "risks",
+        45
+      ]
+    ],
+    "sentiment_yoy_change": -0.0327180338,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0877202924,
+    "uncertainty_change": 0.0647620035,
+    "readability_change": 21.6388420071,
+    "sentiment_yoy_change_z": -3.4475104062,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1210344568,
+    "uncertainty_change_z": 4.6154117953,
+    "readability_change_z": 6.6573201013,
+    "composite_signal": -7.299603923,
+    "fwd_return_1d": -0.0304845127,
+    "fwd_return_5d": -0.0235531619,
+    "fwd_return_21d": -0.0768506929,
+    "fwd_return_63d": -0.2310229344,
+    "event_date": "2024-10-30",
+    "fwd_return_1d_bench": -0.0196032989,
+    "fwd_return_5d_bench": 0.0190166111,
+    "fwd_return_21d_bench": 0.0388613295,
+    "fwd_return_63d_bench": 0.0340887856,
+    "alpha_1d": -0.0108812138,
+    "alpha_5d": -0.042569773,
+    "alpha_21d": -0.1157120223,
+    "alpha_63d": -0.26511172
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248825000012",
+    "form": "10-K",
+    "filing_date": "2025-02-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/amd-20241228.htm",
+    "lm_sentiment_score": -0.0171503254,
+    "lm_uncertainty_score": 0.0438760269,
+    "lm_pos_words": 424,
+    "lm_neg_words": 1067,
+    "lm_unc_words": 1645,
+    "total_words": 37492,
+    "fog_index": 20.106805047,
+    "flesch_reading_ease": 20.1722298876,
+    "risk_word_count": 19069,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        97
+      ],
+      [
+        "effective",
+        26
+      ],
+      [
+        "benefit",
+        20
+      ],
+      [
+        "values",
+        15
+      ],
+      [
+        "able",
+        15
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        87
+      ],
+      [
+        "adverse",
+        62
+      ],
+      [
+        "effect",
+        58
+      ],
+      [
+        "affect",
+        51
+      ],
+      [
+        "impairment",
+        47
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        650
+      ],
+      [
+        "may",
+        276
+      ],
+      [
+        "could",
+        223
+      ],
+      [
+        "if",
+        120
+      ],
+      [
+        "risks",
+        50
+      ]
+    ],
+    "sentiment_yoy_change": -0.0011546527,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0001048933,
+    "uncertainty_change": 0.001504237,
+    "readability_change": 0.0479652831,
+    "sentiment_yoy_change_z": -0.0594082821,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347041871,
+    "uncertainty_change_z": -0.0065626742,
+    "readability_change_z": -0.1149944262,
+    "composite_signal": 0.0984265027,
+    "fwd_return_1d": -0.0165163685,
+    "fwd_return_5d": -0.0025890627,
+    "fwd_return_21d": -0.1044549983,
+    "fwd_return_63d": -0.1040085823,
+    "event_date": "2025-02-05",
+    "fwd_return_1d_bench": 0.0034756295,
+    "fwd_return_5d_bench": -0.0014232121,
+    "fwd_return_21d_bench": -0.0468371596,
+    "fwd_return_63d_bench": -0.0684881289,
+    "alpha_1d": -0.0199919981,
+    "alpha_5d": -0.0011658505,
+    "alpha_21d": -0.0576178386,
+    "alpha_63d": -0.0355204534
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248825000047",
+    "form": "10-Q",
+    "filing_date": "2025-05-07",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/amd-20250329.htm",
+    "lm_sentiment_score": -0.0325797216,
+    "lm_uncertainty_score": 0.0647645375,
+    "lm_pos_words": 205,
+    "lm_neg_words": 865,
+    "lm_unc_words": 1312,
+    "total_words": 20258,
+    "fog_index": 21.4867364805,
+    "flesch_reading_ease": 15.139747638,
+    "risk_word_count": 20155,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        14
+      ],
+      [
+        "able",
+        14
+      ],
+      [
+        "success",
+        11
+      ],
+      [
+        "benefits",
+        10
+      ],
+      [
+        "successfully",
+        10
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        88
+      ],
+      [
+        "adverse",
+        57
+      ],
+      [
+        "effect",
+        50
+      ],
+      [
+        "affect",
+        46
+      ],
+      [
+        "affected",
+        45
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        529
+      ],
+      [
+        "may",
+        249
+      ],
+      [
+        "could",
+        219
+      ],
+      [
+        "if",
+        88
+      ],
+      [
+        "risks",
+        45
+      ]
+    ],
+    "sentiment_yoy_change": 0.0004533114,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.085294276,
+    "uncertainty_change": 0.0004144731,
+    "readability_change": 0.1346304797,
+    "sentiment_yoy_change_z": 0.113195108,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1214129632,
+    "uncertainty_change_z": -0.0861870619,
+    "readability_change_z": -0.0878105385,
+    "composite_signal": 0.2043028358,
+    "fwd_return_1d": 0.0133518965,
+    "fwd_return_5d": 0.1729772868,
+    "fwd_return_21d": 0.1577321815,
+    "fwd_return_63d": 0.7178157916,
+    "event_date": "2025-05-07",
+    "fwd_return_1d_bench": 0.0069677626,
+    "fwd_return_5d_bench": 0.0471176579,
+    "fwd_return_21d_bench": 0.0677001983,
+    "fwd_return_63d_bench": 0.1300347164,
+    "alpha_1d": 0.0063841339,
+    "alpha_5d": 0.1258596289,
+    "alpha_21d": 0.0900319832,
+    "alpha_63d": 0.5877810752
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248825000108",
+    "form": "10-Q",
+    "filing_date": "2025-08-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/amd-20250628.htm",
+    "lm_sentiment_score": -0.0336275107,
+    "lm_uncertainty_score": 0.0654290931,
+    "lm_pos_words": 194,
+    "lm_neg_words": 857,
+    "lm_unc_words": 1290,
+    "total_words": 19716,
+    "fog_index": 21.4370498944,
+    "flesch_reading_ease": 15.4384092764,
+    "risk_word_count": 19624,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        14
+      ],
+      [
+        "success",
+        11
+      ],
+      [
+        "achieve",
+        10
+      ],
+      [
+        "able",
+        10
+      ],
+      [
+        "effective",
+        10
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        82
+      ],
+      [
+        "adverse",
+        57
+      ],
+      [
+        "effect",
+        50
+      ],
+      [
+        "affect",
+        48
+      ],
+      [
+        "affected",
+        41
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        524
+      ],
+      [
+        "may",
+        241
+      ],
+      [
+        "could",
+        213
+      ],
+      [
+        "if",
+        87
+      ],
+      [
+        "risks",
+        46
+      ]
+    ],
+    "sentiment_yoy_change": -0.0004792242,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0527896996,
+    "uncertainty_change": 0.0008940232,
+    "readability_change": -0.0430370301,
+    "sentiment_yoy_change_z": 0.0130941132,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1264843182,
+    "uncertainty_change_z": -0.0511483869,
+    "readability_change_z": -0.1435387181,
+    "composite_signal": 0.1671327683,
+    "fwd_return_1d": 0.0568906269,
+    "fwd_return_5d": 0.1305787377,
+    "fwd_return_21d": -0.0734428402,
+    "fwd_return_63d": 0.5329206139,
+    "event_date": "2025-08-06",
+    "fwd_return_1d_bench": -0.0008377339,
+    "fwd_return_5d_bench": 0.0191376841,
+    "fwd_return_21d_bench": 0.0228514101,
+    "fwd_return_63d_bench": 0.0700590305,
+    "alpha_1d": 0.0577283608,
+    "alpha_5d": 0.1114410535,
+    "alpha_21d": -0.0962942503,
+    "alpha_63d": 0.4628615834
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248825000166",
+    "form": "10-Q",
+    "filing_date": "2025-11-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/amd-20250927.htm",
+    "lm_sentiment_score": -0.0327165727,
+    "lm_uncertainty_score": 0.065283527,
+    "lm_pos_words": 196,
+    "lm_neg_words": 852,
+    "lm_unc_words": 1309,
+    "total_words": 20051,
+    "fog_index": 21.0791595608,
+    "flesch_reading_ease": 16.5512864627,
+    "risk_word_count": 19976,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        14
+      ],
+      [
+        "success",
+        11
+      ],
+      [
+        "able",
+        10
+      ],
+      [
+        "effective",
+        10
+      ],
+      [
+        "achieve",
+        9
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        88
+      ],
+      [
+        "adverse",
+        56
+      ],
+      [
+        "affect",
+        50
+      ],
+      [
+        "effect",
+        49
+      ],
+      [
+        "affected",
+        41
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        521
+      ],
+      [
+        "may",
+        252
+      ],
+      [
+        "could",
+        219
+      ],
+      [
+        "if",
+        89
+      ],
+      [
+        "risks",
+        47
+      ]
+    ],
+    "sentiment_yoy_change": 1.4611e-06,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0406876791,
+    "uncertainty_change": 0.0005215235,
+    "readability_change": -0.5596824463,
+    "sentiment_yoy_change_z": 0.0646922257,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1283724721,
+    "uncertainty_change_z": -0.078365347,
+    "readability_change_z": -0.3055925941,
+    "composite_signal": 0.2885113194,
+    "fwd_return_1d": -0.0726797121,
+    "fwd_return_5d": 0.009987236,
+    "fwd_return_21d": -0.1496507914,
+    "fwd_return_63d": -0.1868294255,
+    "event_date": "2025-11-05",
+    "fwd_return_1d_bench": -0.0107294537,
+    "fwd_return_5d_bench": 0.0085597488,
+    "fwd_return_21d_bench": 0.0119689348,
+    "fwd_return_63d_bench": 0.0222566184,
+    "alpha_1d": -0.0619502584,
+    "alpha_5d": 0.0014274872,
+    "alpha_21d": -0.1616197262,
+    "alpha_63d": -0.2090860439
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248826000018",
+    "form": "10-K",
+    "filing_date": "2026-02-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+    "lm_sentiment_score": -0.017758835,
+    "lm_uncertainty_score": 0.0443970876,
+    "lm_pos_words": 424,
+    "lm_neg_words": 1124,
+    "lm_unc_words": 1750,
+    "total_words": 39417,
+    "fog_index": 19.7546398436,
+    "flesch_reading_ease": 21.3792390729,
+    "risk_word_count": 19953,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        94
+      ],
+      [
+        "effective",
+        30
+      ],
+      [
+        "benefit",
+        22
+      ],
+      [
+        "values",
+        16
+      ],
+      [
+        "respect",
+        15
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        88
+      ],
+      [
+        "effect",
+        62
+      ],
+      [
+        "adverse",
+        60
+      ],
+      [
+        "affect",
+        54
+      ],
+      [
+        "affected",
+        45
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        685
+      ],
+      [
+        "may",
+        302
+      ],
+      [
+        "could",
+        231
+      ],
+      [
+        "if",
+        119
+      ],
+      [
+        "risks",
+        55
+      ]
+    ],
+    "sentiment_yoy_change": -0.0006085096,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0463579632,
+    "uncertainty_change": 0.0005210607,
+    "readability_change": -0.3521652034,
+    "sentiment_yoy_change_z": -0.0007837453,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.127487796,
+    "uncertainty_change_z": -0.0783991618,
+    "readability_change_z": -0.240501581,
+    "composite_signal": 0.2228023967,
+    "fwd_return_1d": -0.0384135189,
+    "fwd_return_5d": 0.066886454,
+    "fwd_return_21d": -0.0387632233,
+    "fwd_return_63d": 1.1049503447,
+    "event_date": "2026-02-04",
+    "fwd_return_1d_bench": -0.0124892841,
+    "fwd_return_5d_bench": 0.0084087544,
+    "fwd_return_21d_bench": -0.0201257128,
+    "fwd_return_63d_bench": 0.0723474255,
+    "alpha_1d": -0.0259242348,
+    "alpha_5d": 0.0584776996,
+    "alpha_21d": -0.0186375105,
+    "alpha_63d": 1.0326029193
+  },
+  {
+    "ticker": "AMD",
+    "accession": "000000248826000076",
+    "form": "10-Q",
+    "filing_date": "2026-05-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/amd-20260328.htm",
+    "lm_sentiment_score": -0.0325114242,
+    "lm_uncertainty_score": 0.0661652704,
+    "lm_pos_words": 207,
+    "lm_neg_words": 890,
+    "lm_unc_words": 1390,
+    "total_words": 21008,
+    "fog_index": 21.0464359683,
+    "flesch_reading_ease": 16.246648142,
+    "risk_word_count": 20882,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        14
+      ],
+      [
+        "able",
+        12
+      ],
+      [
+        "effective",
+        12
+      ],
+      [
+        "success",
+        11
+      ],
+      [
+        "growth",
+        10
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        91
+      ],
+      [
+        "adverse",
+        56
+      ],
+      [
+        "affect",
+        54
+      ],
+      [
+        "effect",
+        50
+      ],
+      [
+        "affected",
+        42
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        556
+      ],
+      [
+        "may",
+        264
+      ],
+      [
+        "could",
+        236
+      ],
+      [
+        "if",
+        99
+      ],
+      [
+        "risks",
+        51
+      ]
+    ],
+    "sentiment_yoy_change": 6.82974e-05,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.036070454,
+    "uncertainty_change": 0.0014007329,
+    "readability_change": -0.4403005122,
+    "sentiment_yoy_change_z": 0.0718666221,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1290928503,
+    "uncertainty_change_z": -0.0141252761,
+    "readability_change_z": -0.2681465924,
+    "composite_signal": 0.2416156705,
+    "fwd_return_1d": -0.0306842183,
+    "fwd_return_5d": 0.0572153694,
+    "fwd_return_21d": 0.1067656771,
+    "fwd_return_63d": null,
+    "event_date": "2026-05-06",
+    "fwd_return_1d_bench": -0.0030660824,
+    "fwd_return_5d_bench": 0.0115557844,
+    "fwd_return_21d_bench": 0.0050693052,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": -0.0276181359,
+    "alpha_5d": 0.045659585,
+    "alpha_21d": 0.1016963719,
+    "alpha_63d": null
+  }
+]

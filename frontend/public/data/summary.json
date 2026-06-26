@@ -1,0 +1,84 @@
+{
+  "tickers": [
+    "AAPL",
+    "AMD",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "MSFT",
+    "NFLX",
+    "NVDA",
+    "QCOM",
+    "TSLA"
+  ],
+  "total_filings": 173,
+  "ic_scores": {
+    "1": 0.0081529614907298,
+    "5": 0.057959102337437694,
+    "21": 0.025430839752425792,
+    "63": 0.06634452689979568
+  },
+  "last_updated": "2026-06-26 12:26:08",
+  "recent_filings": [
+    {
+      "ticker": "NVDA",
+      "form": "10-Q",
+      "filing_date": "2026-05-20",
+      "composite_signal": -1.1016687810478554
+    },
+    {
+      "ticker": "AMD",
+      "form": "10-Q",
+      "filing_date": "2026-05-06",
+      "composite_signal": 0.24161567045725163
+    },
+    {
+      "ticker": "AAPL",
+      "form": "10-Q",
+      "filing_date": "2026-05-01",
+      "composite_signal": 0.2933856287585222
+    },
+    {
+      "ticker": "GOOGL",
+      "form": "10-Q",
+      "filing_date": "2026-04-30",
+      "composite_signal": 0.5056090576685552
+    },
+    {
+      "ticker": "AMZN",
+      "form": "10-Q",
+      "filing_date": "2026-04-30",
+      "composite_signal": 0.22288313107988866
+    },
+    {
+      "ticker": "META",
+      "form": "10-Q",
+      "filing_date": "2026-04-30",
+      "composite_signal": 0.2196454872553287
+    },
+    {
+      "ticker": "MSFT",
+      "form": "10-Q",
+      "filing_date": "2026-04-29",
+      "composite_signal": 0.22288313107988866
+    },
+    {
+      "ticker": "QCOM",
+      "form": "10-Q",
+      "filing_date": "2026-04-29",
+      "composite_signal": 0.2841021568086708
+    },
+    {
+      "ticker": "TSLA",
+      "form": "10-Q",
+      "filing_date": "2026-04-23",
+      "composite_signal": 1.2665620491484257
+    },
+    {
+      "ticker": "NFLX",
+      "form": "10-Q",
+      "filing_date": "2026-04-17",
+      "composite_signal": 0.3326249323313503
+    }
+  ]
+}

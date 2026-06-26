@@ -1,0 +1,2130 @@
+[
+  {
+    "ticker": "NVDA",
+    "accession": "000104581021000131",
+    "form": "10-Q",
+    "filing_date": "2021-08-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000131/nvda-20210801.htm",
+    "lm_sentiment_score": -0.0262910798,
+    "lm_uncertainty_score": 0.0663536776,
+    "lm_pos_words": 28,
+    "lm_neg_words": 112,
+    "lm_unc_words": 212,
+    "total_words": 3195,
+    "fog_index": 23.8864436873,
+    "flesch_reading_ease": 11.3226812707,
+    "risk_word_count": 2765,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        3
+      ],
+      [
+        "benefits",
+        3
+      ],
+      [
+        "achievements",
+        2
+      ],
+      [
+        "successfully",
+        2
+      ],
+      [
+        "grow",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        8
+      ],
+      [
+        "affect",
+        8
+      ],
+      [
+        "uncertainties",
+        5
+      ],
+      [
+        "affected",
+        5
+      ],
+      [
+        "expenses",
+        5
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        81
+      ],
+      [
+        "may",
+        46
+      ],
+      [
+        "could",
+        29
+      ],
+      [
+        "if",
+        12
+      ],
+      [
+        "risks",
+        11
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0548617317,
+    "fwd_return_5d": 0.0874326496,
+    "fwd_return_21d": 0.020837333,
+    "fwd_return_63d": 0.5219344315,
+    "event_date": "2021-08-20",
+    "fwd_return_1d_bench": 0.0087965136,
+    "fwd_return_5d_bench": 0.015540419,
+    "fwd_return_21d_bench": -0.0188125436,
+    "fwd_return_63d_bench": 0.0628718516,
+    "alpha_1d": 0.0460652181,
+    "alpha_5d": 0.0718922306,
+    "alpha_21d": 0.0396498766,
+    "alpha_63d": 0.45906258
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581021000163",
+    "form": "10-Q",
+    "filing_date": "2021-11-22",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/nvda-20211031.htm",
+    "lm_sentiment_score": -0.0226434966,
+    "lm_uncertainty_score": 0.0688081446,
+    "lm_pos_words": 59,
+    "lm_neg_words": 188,
+    "lm_unc_words": 392,
+    "total_words": 5697,
+    "fog_index": 24.2083294469,
+    "flesch_reading_ease": 8.465959099,
+    "risk_word_count": 5265,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "greater",
+        4
+      ],
+      [
+        "successfully",
+        4
+      ],
+      [
+        "achieve",
+        4
+      ],
+      [
+        "effective",
+        4
+      ],
+      [
+        "benefits",
+        4
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        12
+      ],
+      [
+        "failure",
+        11
+      ],
+      [
+        "expenses",
+        10
+      ],
+      [
+        "adversely",
+        8
+      ],
+      [
+        "adverse",
+        7
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        144
+      ],
+      [
+        "may",
+        88
+      ],
+      [
+        "could",
+        55
+      ],
+      [
+        "if",
+        28
+      ],
+      [
+        "risks",
+        18
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0065713982,
+    "fwd_return_5d": 0.0225307135,
+    "fwd_return_21d": -0.0798721482,
+    "fwd_return_63d": -0.299357256,
+    "event_date": "2021-11-22",
+    "fwd_return_1d_bench": 0.0013257999,
+    "fwd_return_5d_bench": -0.0256860332,
+    "fwd_return_21d_bench": 0.0037708656,
+    "fwd_return_63d_bench": -0.0943979141,
+    "alpha_1d": -0.0078971981,
+    "alpha_5d": 0.0482167467,
+    "alpha_21d": -0.0836430139,
+    "alpha_63d": -0.2049593418
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581022000036",
+    "form": "10-K",
+    "filing_date": "2022-03-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm",
+    "lm_sentiment_score": -0.0155894943,
+    "lm_uncertainty_score": 0.048988004,
+    "lm_pos_words": 197,
+    "lm_neg_words": 492,
+    "lm_unc_words": 927,
+    "total_words": 18923,
+    "fog_index": 20.4687788598,
+    "flesch_reading_ease": 18.9436229598,
+    "risk_word_count": 13003,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        17
+      ],
+      [
+        "benefits",
+        17
+      ],
+      [
+        "effective",
+        12
+      ],
+      [
+        "benefit",
+        8
+      ],
+      [
+        "growth",
+        7
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        25
+      ],
+      [
+        "expenses",
+        22
+      ],
+      [
+        "adversely",
+        21
+      ],
+      [
+        "adverse",
+        19
+      ],
+      [
+        "affect",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        400
+      ],
+      [
+        "may",
+        177
+      ],
+      [
+        "could",
+        128
+      ],
+      [
+        "if",
+        71
+      ],
+      [
+        "risks",
+        27
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0106226878,
+    "fwd_return_5d": 0.0468379773,
+    "fwd_return_21d": -0.1608511283,
+    "fwd_return_63d": -0.3995630355,
+    "event_date": "2022-03-18",
+    "fwd_return_1d_bench": -0.0002924054,
+    "fwd_return_5d_bench": 0.0183795007,
+    "fwd_return_21d_bench": 0.0011697673,
+    "fwd_return_63d_bench": -0.1733996294,
+    "alpha_1d": 0.0109150932,
+    "alpha_5d": 0.0284584766,
+    "alpha_21d": -0.1620208956,
+    "alpha_63d": -0.2261634061
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581022000079",
+    "form": "10-Q",
+    "filing_date": "2022-05-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000079/nvda-20220501.htm",
+    "lm_sentiment_score": -0.0245464248,
+    "lm_uncertainty_score": 0.0642475987,
+    "lm_pos_words": 33,
+    "lm_neg_words": 148,
+    "lm_unc_words": 301,
+    "total_words": 4685,
+    "fog_index": 22.7742272376,
+    "flesch_reading_ease": 11.9895299408,
+    "risk_word_count": 4263,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        4
+      ],
+      [
+        "effective",
+        4
+      ],
+      [
+        "achievements",
+        2
+      ],
+      [
+        "greater",
+        2
+      ],
+      [
+        "satisfy",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "adverse",
+        12
+      ],
+      [
+        "adversely",
+        8
+      ],
+      [
+        "affect",
+        7
+      ],
+      [
+        "uncertainties",
+        6
+      ],
+      [
+        "disasters",
+        6
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        121
+      ],
+      [
+        "may",
+        64
+      ],
+      [
+        "could",
+        47
+      ],
+      [
+        "risks",
+        12
+      ],
+      [
+        "if",
+        12
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0073897081,
+    "fwd_return_5d": -0.0013292993,
+    "fwd_return_21d": -0.1736067324,
+    "fwd_return_63d": -0.1598353504,
+    "event_date": "2022-05-27",
+    "fwd_return_1d_bench": -0.0056109567,
+    "fwd_return_5d_bench": -0.0083562471,
+    "fwd_return_21d_bench": -0.0801354908,
+    "fwd_return_63d_bench": -0.0262263291,
+    "alpha_1d": -0.0017787514,
+    "alpha_5d": 0.0070269478,
+    "alpha_21d": -0.0934712416,
+    "alpha_63d": -0.1336090213
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581022000147",
+    "form": "10-Q",
+    "filing_date": "2022-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000147/nvda-20220731.htm",
+    "lm_sentiment_score": -0.0221791298,
+    "lm_uncertainty_score": 0.0624166768,
+    "lm_pos_words": 65,
+    "lm_neg_words": 248,
+    "lm_unc_words": 515,
+    "total_words": 8251,
+    "fog_index": 23.402886805,
+    "flesch_reading_ease": 11.2583590933,
+    "risk_word_count": 7868,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "greater",
+        7
+      ],
+      [
+        "effective",
+        7
+      ],
+      [
+        "value",
+        5
+      ],
+      [
+        "benefits",
+        5
+      ],
+      [
+        "achieve",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "adverse",
+        14
+      ],
+      [
+        "adversely",
+        10
+      ],
+      [
+        "affect",
+        9
+      ],
+      [
+        "failure",
+        8
+      ],
+      [
+        "uncertainties",
+        7
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        219
+      ],
+      [
+        "may",
+        113
+      ],
+      [
+        "could",
+        67
+      ],
+      [
+        "if",
+        32
+      ],
+      [
+        "risks",
+        16
+      ]
+    ],
+    "sentiment_yoy_change": 0.00411195,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 1.8455696203,
+    "uncertainty_change": -0.0039370008,
+    "readability_change": -0.4835568823,
+    "sentiment_yoy_change_z": 0.5059236682,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 0.1532247077,
+    "uncertainty_change_z": -0.4041306502,
+    "readability_change_z": -0.2817146261,
+    "composite_signal": 0.5192721184,
+    "fwd_return_1d": -0.0766528122,
+    "fwd_return_5d": -0.0728662992,
+    "fwd_return_21d": -0.1955342031,
+    "fwd_return_63d": 0.1217940737,
+    "event_date": "2022-08-31",
+    "fwd_return_1d_bench": 0.0031378792,
+    "fwd_return_5d_bench": 0.0131587748,
+    "fwd_return_21d_bench": -0.0924457657,
+    "fwd_return_63d_bench": 0.0358689486,
+    "alpha_1d": -0.0797906915,
+    "alpha_5d": -0.086025074,
+    "alpha_21d": -0.1030884374,
+    "alpha_63d": 0.0859251251
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581022000166",
+    "form": "10-Q",
+    "filing_date": "2022-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000166/nvda-20221030.htm",
+    "lm_sentiment_score": -0.0251686133,
+    "lm_uncertainty_score": 0.0649777924,
+    "lm_pos_words": 41,
+    "lm_neg_words": 194,
+    "lm_unc_words": 395,
+    "total_words": 6079,
+    "fog_index": 21.8780214739,
+    "flesch_reading_ease": 16.0695369952,
+    "risk_word_count": 5658,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "greater",
+        6
+      ],
+      [
+        "value",
+        4
+      ],
+      [
+        "satisfy",
+        3
+      ],
+      [
+        "profitability",
+        3
+      ],
+      [
+        "achievements",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        11
+      ],
+      [
+        "affect",
+        9
+      ],
+      [
+        "harm",
+        7
+      ],
+      [
+        "harmed",
+        7
+      ],
+      [
+        "failure",
+        7
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        166
+      ],
+      [
+        "may",
+        84
+      ],
+      [
+        "could",
+        57
+      ],
+      [
+        "if",
+        29
+      ],
+      [
+        "risks",
+        13
+      ]
+    ],
+    "sentiment_yoy_change": -0.0025251167,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0746438746,
+    "uncertainty_change": -0.0038303522,
+    "readability_change": -2.330307973,
+    "sentiment_yoy_change_z": -0.2065177434,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1230746359,
+    "uncertainty_change_z": -0.3963382931,
+    "readability_change_z": -0.8609768487,
+    "composite_signal": 0.5869360172,
+    "fwd_return_1d": -0.005970568,
+    "fwd_return_5d": 0.0271269935,
+    "fwd_return_21d": 0.0441371964,
+    "fwd_return_63d": 0.3472198835,
+    "event_date": "2022-11-18",
+    "fwd_return_1d_bench": -0.0036358314,
+    "fwd_return_5d_bench": -0.0003028713,
+    "fwd_return_21d_bench": -0.0347007392,
+    "fwd_return_63d_bench": 0.0109592275,
+    "alpha_1d": -0.0023347366,
+    "alpha_5d": 0.0274298648,
+    "alpha_21d": 0.0788379356,
+    "alpha_63d": 0.336260656
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581023000017",
+    "form": "10-K",
+    "filing_date": "2023-02-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/nvda-20230129.htm",
+    "lm_sentiment_score": -0.0190294957,
+    "lm_uncertainty_score": 0.0516650809,
+    "lm_pos_words": 188,
+    "lm_neg_words": 588,
+    "lm_unc_words": 1086,
+    "total_words": 21020,
+    "fog_index": 20.5261240024,
+    "flesch_reading_ease": 18.8997256244,
+    "risk_word_count": 15694,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "benefits",
+        20
+      ],
+      [
+        "effective",
+        15
+      ],
+      [
+        "value",
+        13
+      ],
+      [
+        "growth",
+        10
+      ],
+      [
+        "greater",
+        9
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        36
+      ],
+      [
+        "adversely",
+        31
+      ],
+      [
+        "adverse",
+        25
+      ],
+      [
+        "affect",
+        24
+      ],
+      [
+        "expenses",
+        20
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        466
+      ],
+      [
+        "may",
+        235
+      ],
+      [
+        "could",
+        150
+      ],
+      [
+        "if",
+        86
+      ],
+      [
+        "risks",
+        37
+      ]
+    ],
+    "sentiment_yoy_change": -0.0034400014,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.2069522418,
+    "uncertainty_change": 0.0026770769,
+    "readability_change": 0.0573451426,
+    "sentiment_yoy_change_z": -0.3047240409,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1024319212,
+    "uncertainty_change_z": 0.0791317215,
+    "readability_change_z": -0.1120522873,
+    "composite_signal": -0.084685777,
+    "fwd_return_1d": 0.0092331799,
+    "fwd_return_5d": 0.0259383449,
+    "fwd_return_21d": 0.1395477339,
+    "fwd_return_63d": 0.6313001467,
+    "event_date": "2023-02-24",
+    "fwd_return_1d_bench": 0.0034061035,
+    "fwd_return_5d_bench": 0.0197034978,
+    "fwd_return_21d_bench": 0.0040951023,
+    "fwd_return_63d_bench": 0.0500845849,
+    "alpha_1d": 0.0058270765,
+    "alpha_5d": 0.0062348471,
+    "alpha_21d": 0.1354526316,
+    "alpha_63d": 0.5812155618
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581023000093",
+    "form": "10-Q",
+    "filing_date": "2023-05-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000093/nvda-20230430.htm",
+    "lm_sentiment_score": -0.028708134,
+    "lm_uncertainty_score": 0.0669856459,
+    "lm_pos_words": 52,
+    "lm_neg_words": 298,
+    "lm_unc_words": 574,
+    "total_words": 8569,
+    "fog_index": 22.2067505734,
+    "flesch_reading_ease": 13.1712862441,
+    "risk_word_count": 8208,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "greater",
+        5
+      ],
+      [
+        "enhance",
+        4
+      ],
+      [
+        "value",
+        3
+      ],
+      [
+        "able",
+        3
+      ],
+      [
+        "profitability",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        22
+      ],
+      [
+        "adverse",
+        13
+      ],
+      [
+        "adversely",
+        11
+      ],
+      [
+        "affect",
+        11
+      ],
+      [
+        "disruptions",
+        11
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        233
+      ],
+      [
+        "may",
+        140
+      ],
+      [
+        "could",
+        79
+      ],
+      [
+        "if",
+        41
+      ],
+      [
+        "risks",
+        16
+      ]
+    ],
+    "sentiment_yoy_change": -0.0041617092,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.9254046446,
+    "uncertainty_change": 0.0027380472,
+    "readability_change": -0.5674766642,
+    "sentiment_yoy_change_z": -0.3821941865,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 0.0096608235,
+    "uncertainty_change_z": 0.0835865606,
+    "readability_change_z": -0.3080373718,
+    "composite_signal": -0.0837020994,
+    "fwd_return_1d": 0.0299133685,
+    "fwd_return_5d": 0.0057771686,
+    "fwd_return_21d": 0.0558530626,
+    "fwd_return_63d": 0.2026871328,
+    "event_date": "2023-05-26",
+    "fwd_return_1d_bench": 0.0003809123,
+    "fwd_return_5d_bench": 0.0168564289,
+    "fwd_return_21d_bench": 0.0428338603,
+    "fwd_return_63d_bench": 0.0580560453,
+    "alpha_1d": 0.0295324562,
+    "alpha_5d": -0.0110792603,
+    "alpha_21d": 0.0130192023,
+    "alpha_63d": 0.1446310875
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581023000175",
+    "form": "10-Q",
+    "filing_date": "2023-08-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000175/nvda-20230730.htm",
+    "lm_sentiment_score": -0.0245501285,
+    "lm_uncertainty_score": 0.0646529563,
+    "lm_pos_words": 50,
+    "lm_neg_words": 241,
+    "lm_unc_words": 503,
+    "total_words": 7780,
+    "fog_index": 22.5831248711,
+    "flesch_reading_ease": 12.5931191423,
+    "risk_word_count": 7459,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "enhance",
+        4
+      ],
+      [
+        "greater",
+        3
+      ],
+      [
+        "value",
+        3
+      ],
+      [
+        "able",
+        3
+      ],
+      [
+        "grow",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        12
+      ],
+      [
+        "unable",
+        10
+      ],
+      [
+        "harm",
+        9
+      ],
+      [
+        "failure",
+        9
+      ],
+      [
+        "not able",
+        9
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        209
+      ],
+      [
+        "may",
+        112
+      ],
+      [
+        "could",
+        64
+      ],
+      [
+        "if",
+        38
+      ],
+      [
+        "risks",
+        18
+      ]
+    ],
+    "sentiment_yoy_change": -0.0023709987,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0519827148,
+    "uncertainty_change": 0.0022362795,
+    "readability_change": -0.8197619339,
+    "sentiment_yoy_change_z": -0.1899742837,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1428308813,
+    "uncertainty_change_z": 0.0469245406,
+    "readability_change_z": -0.3871705733,
+    "composite_signal": 0.1465513151,
+    "fwd_return_1d": 0.0416143217,
+    "fwd_return_5d": 0.0365754116,
+    "fwd_return_21d": -0.093167566,
+    "fwd_return_63d": 0.0301265534,
+    "event_date": "2023-08-28",
+    "fwd_return_1d_bench": 0.0144548309,
+    "fwd_return_5d_bench": 0.0146353375,
+    "fwd_return_21d_bench": -0.0343464641,
+    "fwd_return_63d_bench": 0.0300911461,
+    "alpha_1d": 0.0271594907,
+    "alpha_5d": 0.0219400742,
+    "alpha_21d": -0.058821102,
+    "alpha_63d": 3.54073e-05
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581023000227",
+    "form": "10-Q",
+    "filing_date": "2023-11-21",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000227/nvda-20231029.htm",
+    "lm_sentiment_score": -0.0178347633,
+    "lm_uncertainty_score": 0.0551431601,
+    "lm_pos_words": 76,
+    "lm_neg_words": 261,
+    "lm_unc_words": 572,
+    "total_words": 10373,
+    "fog_index": 21.2939750497,
+    "flesch_reading_ease": 17.3351554549,
+    "risk_word_count": 7614,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        8
+      ],
+      [
+        "strong",
+        6
+      ],
+      [
+        "effective",
+        5
+      ],
+      [
+        "enhance",
+        4
+      ],
+      [
+        "value",
+        4
+      ]
+    ],
+    "top_negative": [
+      [
+        "unable",
+        14
+      ],
+      [
+        "harm",
+        13
+      ],
+      [
+        "not able",
+        11
+      ],
+      [
+        "harmed",
+        9
+      ],
+      [
+        "difficult",
+        7
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        224
+      ],
+      [
+        "may",
+        137
+      ],
+      [
+        "could",
+        71
+      ],
+      [
+        "if",
+        40
+      ],
+      [
+        "risks",
+        21
+      ]
+    ],
+    "sentiment_yoy_change": 0.00733385,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.3457051962,
+    "uncertainty_change": -0.0098346323,
+    "readability_change": -0.5840464242,
+    "sentiment_yoy_change_z": 0.8517714783,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0807837237,
+    "uncertainty_change_z": -0.8350453621,
+    "readability_change_z": -0.3132347349,
+    "composite_signal": 1.0404176495,
+    "fwd_return_1d": -0.0245875829,
+    "fwd_return_5d": -0.0361205928,
+    "fwd_return_21d": -0.0190151759,
+    "fwd_return_63d": 0.5782460566,
+    "event_date": "2023-11-21",
+    "fwd_return_1d_bench": 0.003860764,
+    "fwd_return_5d_bench": 0.0029562816,
+    "fwd_return_21d_bench": 0.0470945103,
+    "fwd_return_63d_bench": 0.124956536,
+    "alpha_1d": -0.0284483469,
+    "alpha_5d": -0.0390768744,
+    "alpha_21d": -0.0661096862,
+    "alpha_63d": 0.4532895205
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581024000029",
+    "form": "10-K",
+    "filing_date": "2024-02-21",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/nvda-20240128.htm",
+    "lm_sentiment_score": -0.0194878201,
+    "lm_uncertainty_score": 0.0532583802,
+    "lm_pos_words": 218,
+    "lm_neg_words": 686,
+    "lm_unc_words": 1279,
+    "total_words": 24015,
+    "fog_index": 20.5108155744,
+    "flesch_reading_ease": 18.2504982412,
+    "risk_word_count": 18448,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        18
+      ],
+      [
+        "value",
+        15
+      ],
+      [
+        "benefits",
+        15
+      ],
+      [
+        "growth",
+        11
+      ],
+      [
+        "benefit",
+        11
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        39
+      ],
+      [
+        "adversely",
+        32
+      ],
+      [
+        "adverse",
+        26
+      ],
+      [
+        "expenses",
+        25
+      ],
+      [
+        "affect",
+        25
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        547
+      ],
+      [
+        "may",
+        291
+      ],
+      [
+        "could",
+        175
+      ],
+      [
+        "if",
+        88
+      ],
+      [
+        "risks",
+        42
+      ]
+    ],
+    "sentiment_yoy_change": -0.0004583244,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.1754810756,
+    "uncertainty_change": 0.0015932993,
+    "readability_change": -0.015308428,
+    "sentiment_yoy_change_z": 0.0153375566,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1073420438,
+    "uncertainty_change_z": -5.52728e-05,
+    "readability_change_z": -0.1348412105,
+    "composite_signal": 0.1287880418,
+    "fwd_return_1d": 0.1640087222,
+    "fwd_return_5d": 0.1510400997,
+    "fwd_return_21d": 0.3552178296,
+    "fwd_return_63d": 0.4137784323,
+    "event_date": "2024-02-21",
+    "fwd_return_1d_bench": 0.0206954252,
+    "fwd_return_5d_bench": 0.018201602,
+    "fwd_return_21d_bench": 0.0535235866,
+    "fwd_return_63d_bench": 0.0720036501,
+    "alpha_1d": 0.1433132971,
+    "alpha_5d": 0.1328384977,
+    "alpha_21d": 0.301694243,
+    "alpha_63d": 0.3417747822
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581024000124",
+    "form": "10-Q",
+    "filing_date": "2024-05-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/nvda-20240428.htm",
+    "lm_sentiment_score": 0.0023809524,
+    "lm_uncertainty_score": 0.0317460317,
+    "lm_pos_words": 17,
+    "lm_neg_words": 14,
+    "lm_unc_words": 40,
+    "total_words": 1260,
+    "fog_index": 16.201497187,
+    "flesch_reading_ease": 31.5585918538,
+    "risk_word_count": 959,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        5
+      ],
+      [
+        "strong",
+        4
+      ],
+      [
+        "achievements",
+        2
+      ],
+      [
+        "value",
+        2
+      ],
+      [
+        "greater",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "conflict",
+        3
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "difficult",
+        1
+      ],
+      [
+        "disruption",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        9
+      ],
+      [
+        "may",
+        6
+      ],
+      [
+        "could",
+        3
+      ],
+      [
+        "risks",
+        3
+      ],
+      [
+        "uncertainties",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0310890864,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.883162768,
+    "uncertainty_change": -0.0352396142,
+    "readability_change": -6.0052533864,
+    "sentiment_yoy_change_z": 3.4017253837,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2725113626,
+    "uncertainty_change_z": -2.6912787424,
+    "readability_change_z": -2.013680675,
+    "composite_signal": 4.1895980818,
+    "fwd_return_1d": -0.0376660089,
+    "fwd_return_5d": 0.066318312,
+    "fwd_return_21d": 0.0759866222,
+    "fwd_return_63d": 0.0940154983,
+    "event_date": "2024-05-29",
+    "fwd_return_1d_bench": -0.0066336384,
+    "fwd_return_5d_bench": 0.0162898401,
+    "fwd_return_21d_bench": 0.0377794805,
+    "fwd_return_63d_bench": 0.0646288123,
+    "alpha_1d": -0.0310323706,
+    "alpha_5d": 0.0500284719,
+    "alpha_21d": 0.0382071418,
+    "alpha_63d": 0.029386686
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581024000264",
+    "form": "10-Q",
+    "filing_date": "2024-08-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/nvda-20240728.htm",
+    "lm_sentiment_score": 0.0034411562,
+    "lm_uncertainty_score": 0.0282174811,
+    "lm_pos_words": 18,
+    "lm_neg_words": 13,
+    "lm_unc_words": 41,
+    "total_words": 1453,
+    "fog_index": 16.6759298246,
+    "flesch_reading_ease": 31.2790048583,
+    "risk_word_count": 1156,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        5
+      ],
+      [
+        "strong",
+        4
+      ],
+      [
+        "achievements",
+        2
+      ],
+      [
+        "value",
+        2
+      ],
+      [
+        "greater",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "conflict",
+        2
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "difficult",
+        1
+      ],
+      [
+        "conflicts",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        9
+      ],
+      [
+        "may",
+        6
+      ],
+      [
+        "could",
+        3
+      ],
+      [
+        "risks",
+        3
+      ],
+      [
+        "uncertainties",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0279912847,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.8450194396,
+    "uncertainty_change": -0.0364354752,
+    "readability_change": -5.9071950465,
+    "sentiment_yoy_change_z": 3.0691986342,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2665602511,
+    "uncertainty_change_z": -2.7786551914,
+    "readability_change_z": -1.9829231505,
+    "composite_signal": 4.0486686136,
+    "fwd_return_1d": -0.0638484971,
+    "fwd_return_5d": -0.1464851292,
+    "fwd_return_21d": -0.0334338128,
+    "fwd_return_63d": 0.0901339264,
+    "event_date": "2024-08-28",
+    "fwd_return_1d_bench": 8.9529e-05,
+    "fwd_return_5d_bench": -0.0155649578,
+    "fwd_return_21d_bench": 0.0267291162,
+    "fwd_return_63d_bench": 0.0791554145,
+    "alpha_1d": -0.0639380262,
+    "alpha_5d": -0.1309201713,
+    "alpha_21d": -0.0601629289,
+    "alpha_63d": 0.010978512
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581024000316",
+    "form": "10-Q",
+    "filing_date": "2024-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm",
+    "lm_sentiment_score": 0.0030769231,
+    "lm_uncertainty_score": 0.0420512821,
+    "lm_pos_words": 17,
+    "lm_neg_words": 14,
+    "lm_unc_words": 41,
+    "total_words": 975,
+    "fog_index": 17.1361215805,
+    "flesch_reading_ease": 27.1131857143,
+    "risk_word_count": 661,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "strong",
+        4
+      ],
+      [
+        "growth",
+        4
+      ],
+      [
+        "achievements",
+        2
+      ],
+      [
+        "value",
+        2
+      ],
+      [
+        "greater",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "conflict",
+        2
+      ],
+      [
+        "expenses",
+        2
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "difficult",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        9
+      ],
+      [
+        "may",
+        6
+      ],
+      [
+        "could",
+        3
+      ],
+      [
+        "risks",
+        3
+      ],
+      [
+        "uncertainties",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0209116864,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.9131862359,
+    "uncertainty_change": -0.013091878,
+    "readability_change": -4.1578534692,
+    "sentiment_yoy_change_z": 2.3092546358,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2771956157,
+    "uncertainty_change_z": -1.0730383754,
+    "readability_change_z": -1.4342149378,
+    "composite_signal": 2.5468517823,
+    "fwd_return_1d": 0.005346564,
+    "fwd_return_5d": -0.0723148467,
+    "fwd_return_21d": -0.0766380642,
+    "fwd_return_63d": -0.1319574915,
+    "event_date": "2024-11-20",
+    "fwd_return_1d_bench": 0.0053682472,
+    "fwd_return_5d_bench": 0.0141068521,
+    "fwd_return_21d_bench": 0.0044700408,
+    "fwd_return_63d_bench": 0.0097205665,
+    "alpha_1d": -2.16833e-05,
+    "alpha_5d": -0.0864216988,
+    "alpha_21d": -0.0811081049,
+    "alpha_63d": -0.141678058
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581025000023",
+    "form": "10-K",
+    "filing_date": "2025-02-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+    "lm_sentiment_score": -0.0192883272,
+    "lm_uncertainty_score": 0.053915863,
+    "lm_pos_words": 225,
+    "lm_neg_words": 689,
+    "lm_unc_words": 1297,
+    "total_words": 24056,
+    "fog_index": 20.9620613098,
+    "flesch_reading_ease": 16.9292130415,
+    "risk_word_count": 18875,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        18
+      ],
+      [
+        "effective",
+        18
+      ],
+      [
+        "benefits",
+        17
+      ],
+      [
+        "value",
+        14
+      ],
+      [
+        "greater",
+        9
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        40
+      ],
+      [
+        "adversely",
+        28
+      ],
+      [
+        "adverse",
+        27
+      ],
+      [
+        "unable",
+        22
+      ],
+      [
+        "expenses",
+        22
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        570
+      ],
+      [
+        "may",
+        294
+      ],
+      [
+        "could",
+        173
+      ],
+      [
+        "if",
+        86
+      ],
+      [
+        "risks",
+        41
+      ]
+    ],
+    "sentiment_yoy_change": 0.0001994929,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0231461405,
+    "uncertainty_change": 0.0006574828,
+    "readability_change": 0.4512457354,
+    "sentiment_yoy_change_z": 0.0859495162,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1311092981,
+    "uncertainty_change_z": -0.0684313824,
+    "readability_change_z": 0.0115007643,
+    "composite_signal": 0.1369947162,
+    "fwd_return_1d": -0.0847806288,
+    "fwd_return_5d": -0.1064899445,
+    "fwd_return_21d": -0.1511254682,
+    "fwd_return_63d": 0.0269833691,
+    "event_date": "2025-02-26",
+    "fwd_return_1d_bench": -0.0159621184,
+    "fwd_return_5d_bench": -0.0193091,
+    "fwd_return_21d_bench": -0.0433175904,
+    "fwd_return_63d_bench": -0.0084805378,
+    "alpha_1d": -0.0688185105,
+    "alpha_5d": -0.0871808445,
+    "alpha_21d": -0.1078078778,
+    "alpha_63d": 0.0354639068
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581025000116",
+    "form": "10-Q",
+    "filing_date": "2025-05-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0348139256,
+    "lm_pos_words": 11,
+    "lm_neg_words": 11,
+    "lm_unc_words": 29,
+    "total_words": 833,
+    "fog_index": 16.2318467218,
+    "flesch_reading_ease": 34.8115788623,
+    "risk_word_count": 500,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        4
+      ],
+      [
+        "achievements",
+        2
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "greater",
+        1
+      ],
+      [
+        "able",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "charge",
+        3
+      ],
+      [
+        "expenses",
+        2
+      ],
+      [
+        "diminished",
+        1
+      ],
+      [
+        "affect",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "may",
+        3
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "risk",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": -0.0023809524,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.4786235662,
+    "uncertainty_change": 0.0030678939,
+    "readability_change": 0.0303495348,
+    "sentiment_yoy_change_z": -0.1910427418,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2093952686,
+    "uncertainty_change_z": 0.1076870483,
+    "readability_change_z": -0.1205198799,
+    "composite_signal": 0.0155926791,
+    "fwd_return_1d": 0.0324901752,
+    "fwd_return_5d": 0.0527409101,
+    "fwd_return_21d": 0.1702466998,
+    "fwd_return_63d": 0.3471746925,
+    "event_date": "2025-05-28",
+    "fwd_return_1d_bench": 0.0039472312,
+    "fwd_return_5d_bench": 0.0139517912,
+    "fwd_return_21d_bench": 0.0493386002,
+    "fwd_return_63d_bench": 0.1034685971,
+    "alpha_1d": 0.0285429439,
+    "alpha_5d": 0.0387891189,
+    "alpha_21d": 0.1209080996,
+    "alpha_63d": 0.2437060954
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581025000209",
+    "form": "10-Q",
+    "filing_date": "2025-08-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm",
+    "lm_sentiment_score": 0.0052631579,
+    "lm_uncertainty_score": 0.0394736842,
+    "lm_pos_words": 12,
+    "lm_neg_words": 8,
+    "lm_unc_words": 30,
+    "total_words": 760,
+    "fog_index": 16.5076273937,
+    "flesch_reading_ease": 33.138034729,
+    "risk_word_count": 427,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "strong",
+        3
+      ],
+      [
+        "growth",
+        3
+      ],
+      [
+        "achievements",
+        2
+      ],
+      [
+        "greater",
+        1
+      ],
+      [
+        "benefited",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "unrestricted",
+        1
+      ],
+      [
+        "declined",
+        1
+      ],
+      [
+        "charge",
+        1
+      ],
+      [
+        "expenses",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "may",
+        3
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "risk",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0018220017,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.6306228374,
+    "uncertainty_change": 0.0112562031,
+    "readability_change": -0.1683024309,
+    "sentiment_yoy_change_z": 0.2601141754,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2331101527,
+    "uncertainty_change_z": 0.7059717834,
+    "readability_change_z": -0.1828301608,
+    "composite_signal": -0.0149586473,
+    "fwd_return_1d": -0.0078745477,
+    "fwd_return_5d": -0.0547357336,
+    "fwd_return_21d": -0.018722212,
+    "fwd_return_63d": -0.0207597353,
+    "event_date": "2025-08-27",
+    "fwd_return_1d_bench": 0.0035413241,
+    "fwd_return_5d_bench": 0.0038506305,
+    "fwd_return_21d_bench": 0.0263285477,
+    "fwd_return_63d_bench": 0.0467985979,
+    "alpha_1d": -0.0114158719,
+    "alpha_5d": -0.0585863641,
+    "alpha_21d": -0.0450507596,
+    "alpha_63d": -0.0675583332
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581025000230",
+    "form": "10-Q",
+    "filing_date": "2025-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+    "lm_sentiment_score": 0.0071022727,
+    "lm_uncertainty_score": 0.0397727273,
+    "lm_pos_words": 10,
+    "lm_neg_words": 5,
+    "lm_unc_words": 28,
+    "total_words": 704,
+    "fog_index": 16.3969230769,
+    "flesch_reading_ease": 34.1867362637,
+    "risk_word_count": 365,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        4
+      ],
+      [
+        "achievements",
+        2
+      ],
+      [
+        "greater",
+        1
+      ],
+      [
+        "strong",
+        1
+      ],
+      [
+        "improved",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "expenses",
+        1
+      ],
+      [
+        "disclosure",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "may",
+        3
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "risk",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0040253496,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.447806354,
+    "uncertainty_change": -0.0022785548,
+    "readability_change": -0.7391985036,
+    "sentiment_yoy_change_z": 0.4966277376,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2045871757,
+    "uncertainty_change_z": -0.2829550935,
+    "readability_change_z": -0.3619005994,
+    "composite_signal": 0.6730353031,
+    "fwd_return_1d": -0.0315247845,
+    "fwd_return_5d": -0.0335621849,
+    "fwd_return_21d": -0.0295941975,
+    "fwd_return_63d": 0.0270247778,
+    "event_date": "2025-11-19",
+    "fwd_return_1d_bench": -0.0152422273,
+    "fwd_return_5d_bench": 0.025730813,
+    "fwd_return_21d_bench": 0.0301391506,
+    "fwd_return_63d_bench": 0.0328635973,
+    "alpha_1d": -0.0162825572,
+    "alpha_5d": -0.0592929979,
+    "alpha_21d": -0.0597333481,
+    "alpha_63d": -0.0058388195
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581026000021",
+    "form": "10-K",
+    "filing_date": "2026-02-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "lm_sentiment_score": -0.0227203482,
+    "lm_uncertainty_score": 0.0547551687,
+    "lm_pos_words": 185,
+    "lm_neg_words": 707,
+    "lm_unc_words": 1258,
+    "total_words": 22975,
+    "fog_index": 20.8740657207,
+    "flesch_reading_ease": 16.5606268339,
+    "risk_word_count": 18286,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        15
+      ],
+      [
+        "growth",
+        14
+      ],
+      [
+        "benefits",
+        14
+      ],
+      [
+        "value",
+        11
+      ],
+      [
+        "successfully",
+        8
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        40
+      ],
+      [
+        "adversely",
+        28
+      ],
+      [
+        "adverse",
+        28
+      ],
+      [
+        "expenses",
+        22
+      ],
+      [
+        "affect",
+        22
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        534
+      ],
+      [
+        "may",
+        285
+      ],
+      [
+        "could",
+        182
+      ],
+      [
+        "if",
+        87
+      ],
+      [
+        "risks",
+        41
+      ]
+    ],
+    "sentiment_yoy_change": -0.003432021,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.031205298,
+    "uncertainty_change": 0.0008393057,
+    "readability_change": -0.0879955891,
+    "sentiment_yoy_change_z": -0.3038674023,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1395891945,
+    "uncertainty_change_z": -0.0551463606,
+    "readability_change_z": -0.1576406699,
+    "composite_signal": 0.0242544113,
+    "fwd_return_1d": -0.0545612407,
+    "fwd_return_5d": -0.0640212609,
+    "fwd_return_21d": -0.1243133236,
+    "fwd_return_63d": 0.087193287,
+    "event_date": "2026-02-25",
+    "fwd_return_1d_bench": -0.0055544456,
+    "fwd_return_5d_bench": -0.01157036,
+    "fwd_return_21d_bench": -0.0667940095,
+    "fwd_return_63d_bench": 0.0856373064,
+    "alpha_1d": -0.0490067951,
+    "alpha_5d": -0.0524509009,
+    "alpha_21d": -0.0575193141,
+    "alpha_63d": 0.0015559806
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "000104581026000052",
+    "form": "10-Q",
+    "filing_date": "2026-05-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+    "lm_sentiment_score": -0.0042016807,
+    "lm_uncertainty_score": 0.0490196078,
+    "lm_pos_words": 5,
+    "lm_neg_words": 8,
+    "lm_unc_words": 35,
+    "total_words": 714,
+    "fog_index": 20.1622760801,
+    "flesch_reading_ease": 24.4344573235,
+    "risk_word_count": 267,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "achievements",
+        2
+      ],
+      [
+        "greater",
+        1
+      ],
+      [
+        "benefits",
+        1
+      ],
+      [
+        "effective",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "incomplete",
+        1
+      ],
+      [
+        "inquiry",
+        1
+      ],
+      [
+        "uncertain",
+        1
+      ],
+      [
+        "unable",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        8
+      ],
+      [
+        "may",
+        4
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "believe",
+        3
+      ],
+      [
+        "risks",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": -0.0042016807,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.466,
+    "uncertainty_change": 0.0142056822,
+    "readability_change": 3.9304293583,
+    "sentiment_yoy_change_z": -0.3864848398,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2074257433,
+    "uncertainty_change_z": 0.9214776075,
+    "readability_change_z": 1.1028008581,
+    "composite_signal": -1.101668781,
+    "fwd_return_1d": -0.0177205374,
+    "fwd_return_5d": -0.041258368,
+    "fwd_return_21d": -0.0652294689,
+    "fwd_return_63d": null,
+    "event_date": "2026-05-20",
+    "fwd_return_1d_bench": 0.0019830877,
+    "fwd_return_5d_bench": 0.0180100885,
+    "fwd_return_21d_bench": 0.0068232515,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": -0.0197036251,
+    "alpha_5d": -0.0592684564,
+    "alpha_21d": -0.0720527204,
+    "alpha_63d": null
+  }
+]

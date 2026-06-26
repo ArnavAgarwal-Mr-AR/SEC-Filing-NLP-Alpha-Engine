@@ -1,0 +1,858 @@
+[
+  {
+    "ticker": "META",
+    "accession": "000132680124000069",
+    "form": "10-Q",
+    "filing_date": "2024-08-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/meta-20240630.htm",
+    "lm_sentiment_score": -0.0173499032,
+    "lm_uncertainty_score": 0.048458683,
+    "lm_pos_words": 283,
+    "lm_neg_words": 713,
+    "lm_unc_words": 1201,
+    "total_words": 24784,
+    "fog_index": 23.0276287662,
+    "flesch_reading_ease": 13.0661441075,
+    "risk_word_count": 18267,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        31
+      ],
+      [
+        "effectively",
+        22
+      ],
+      [
+        "growth",
+        20
+      ],
+      [
+        "grow",
+        14
+      ],
+      [
+        "respect",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        73
+      ],
+      [
+        "affect",
+        71
+      ],
+      [
+        "expenses",
+        43
+      ],
+      [
+        "affected",
+        31
+      ],
+      [
+        "adverse",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        635
+      ],
+      [
+        "may",
+        222
+      ],
+      [
+        "could",
+        83
+      ],
+      [
+        "if",
+        53
+      ],
+      [
+        "risks",
+        36
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0192871647,
+    "fwd_return_5d": 0.0238880615,
+    "fwd_return_21d": 0.0473539936,
+    "fwd_return_63d": 0.1901083309,
+    "event_date": "2024-08-01",
+    "fwd_return_1d_bench": -0.0186183714,
+    "fwd_return_5d_bench": -0.0227620007,
+    "fwd_return_21d_bench": 0.0380655377,
+    "fwd_return_63d_bench": 0.0714148954,
+    "alpha_1d": -0.0006687932,
+    "alpha_5d": 0.0466500622,
+    "alpha_21d": 0.0092884559,
+    "alpha_63d": 0.1186934355
+  },
+  {
+    "ticker": "META",
+    "accession": "000132680124000081",
+    "form": "10-Q",
+    "filing_date": "2024-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/meta-20240930.htm",
+    "lm_sentiment_score": -0.017004081,
+    "lm_uncertainty_score": 0.0483315996,
+    "lm_pos_words": 290,
+    "lm_neg_words": 715,
+    "lm_unc_words": 1208,
+    "total_words": 24994,
+    "fog_index": 22.9989606553,
+    "flesch_reading_ease": 12.8108394294,
+    "risk_word_count": 18344,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        33
+      ],
+      [
+        "effectively",
+        22
+      ],
+      [
+        "growth",
+        21
+      ],
+      [
+        "respect",
+        14
+      ],
+      [
+        "successfully",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        74
+      ],
+      [
+        "affect",
+        72
+      ],
+      [
+        "expenses",
+        43
+      ],
+      [
+        "affected",
+        31
+      ],
+      [
+        "adverse",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        639
+      ],
+      [
+        "may",
+        222
+      ],
+      [
+        "could",
+        86
+      ],
+      [
+        "if",
+        53
+      ],
+      [
+        "risks",
+        36
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0007399928,
+    "fwd_return_5d": 0.0424962654,
+    "fwd_return_21d": 0.0444870645,
+    "fwd_return_63d": 0.2416890871,
+    "event_date": "2024-10-31",
+    "fwd_return_1d_bench": 0.0042204788,
+    "fwd_return_5d_bench": 0.0474288752,
+    "fwd_return_21d_bench": 0.0615326289,
+    "fwd_return_63d_bench": 0.0618413135,
+    "alpha_1d": -0.0049604716,
+    "alpha_5d": -0.0049326098,
+    "alpha_21d": -0.0170455644,
+    "alpha_63d": 0.1798477735
+  },
+  {
+    "ticker": "META",
+    "accession": "000132680125000017",
+    "form": "10-K",
+    "filing_date": "2025-01-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
+    "lm_sentiment_score": -0.0180803367,
+    "lm_uncertainty_score": 0.040296459,
+    "lm_pos_words": 554,
+    "lm_neg_words": 1542,
+    "lm_unc_words": 2202,
+    "total_words": 54645,
+    "fog_index": 21.5779504261,
+    "flesch_reading_ease": 17.0095083075,
+    "risk_word_count": 29081,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        82
+      ],
+      [
+        "effective",
+        55
+      ],
+      [
+        "respect",
+        34
+      ],
+      [
+        "benefits",
+        25
+      ],
+      [
+        "growth",
+        24
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        110
+      ],
+      [
+        "affect",
+        103
+      ],
+      [
+        "expenses",
+        65
+      ],
+      [
+        "expense",
+        47
+      ],
+      [
+        "affected",
+        46
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        1113
+      ],
+      [
+        "may",
+        373
+      ],
+      [
+        "could",
+        163
+      ],
+      [
+        "if",
+        102
+      ],
+      [
+        "believe",
+        54
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0031731769,
+    "fwd_return_5d": 0.0363756018,
+    "fwd_return_21d": -0.0465065367,
+    "fwd_return_63d": -0.1663477359,
+    "event_date": "2025-01-30",
+    "fwd_return_1d_bench": -0.005321809,
+    "fwd_return_5d_bench": 0.0021157133,
+    "fwd_return_21d_bench": -0.0351545979,
+    "fwd_return_63d_bench": -0.07419351,
+    "alpha_1d": 0.008494986,
+    "alpha_5d": 0.0342598885,
+    "alpha_21d": -0.0113519388,
+    "alpha_63d": -0.092154226
+  },
+  {
+    "ticker": "META",
+    "accession": "000132680125000054",
+    "form": "10-Q",
+    "filing_date": "2025-05-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331.htm",
+    "lm_sentiment_score": -0.0157354527,
+    "lm_uncertainty_score": 0.0481648628,
+    "lm_pos_words": 300,
+    "lm_neg_words": 694,
+    "lm_unc_words": 1206,
+    "total_words": 25039,
+    "fog_index": 23.1047640258,
+    "flesch_reading_ease": 12.672006208,
+    "risk_word_count": 18634,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        38
+      ],
+      [
+        "effectively",
+        21
+      ],
+      [
+        "growth",
+        20
+      ],
+      [
+        "respect",
+        14
+      ],
+      [
+        "benefits",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        75
+      ],
+      [
+        "affect",
+        71
+      ],
+      [
+        "expenses",
+        34
+      ],
+      [
+        "affected",
+        31
+      ],
+      [
+        "adverse",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        636
+      ],
+      [
+        "may",
+        225
+      ],
+      [
+        "could",
+        85
+      ],
+      [
+        "if",
+        52
+      ],
+      [
+        "risks",
+        37
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0433581346,
+    "fwd_return_5d": 0.0450882961,
+    "fwd_return_21d": 0.1724715519,
+    "fwd_return_63d": 0.311733429,
+    "event_date": "2025-05-01",
+    "fwd_return_1d_bench": 0.0148441349,
+    "fwd_return_5d_bench": 0.0118000338,
+    "fwd_return_21d_bench": 0.061310259,
+    "fwd_return_63d_bench": 0.1165468343,
+    "alpha_1d": 0.0285139998,
+    "alpha_5d": 0.0332882623,
+    "alpha_21d": 0.1111612929,
+    "alpha_63d": 0.1951865946
+  },
+  {
+    "ticker": "META",
+    "accession": "000162828025036791",
+    "form": "10-Q",
+    "filing_date": "2025-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630.htm",
+    "lm_sentiment_score": -0.0159408251,
+    "lm_uncertainty_score": 0.0479411416,
+    "lm_pos_words": 297,
+    "lm_neg_words": 700,
+    "lm_unc_words": 1212,
+    "total_words": 25281,
+    "fog_index": 23.0073534822,
+    "flesch_reading_ease": 13.1063599645,
+    "risk_word_count": 18693,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        35
+      ],
+      [
+        "effectively",
+        21
+      ],
+      [
+        "growth",
+        20
+      ],
+      [
+        "respect",
+        14
+      ],
+      [
+        "successfully",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        75
+      ],
+      [
+        "affect",
+        71
+      ],
+      [
+        "expenses",
+        36
+      ],
+      [
+        "affected",
+        31
+      ],
+      [
+        "adverse",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        645
+      ],
+      [
+        "may",
+        225
+      ],
+      [
+        "could",
+        83
+      ],
+      [
+        "if",
+        50
+      ],
+      [
+        "risks",
+        37
+      ]
+    ],
+    "sentiment_yoy_change": 0.0014090781,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0233207423,
+    "uncertainty_change": -0.0005175414,
+    "readability_change": -0.020275284,
+    "sentiment_yoy_change_z": 0.2157897945,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1310820568,
+    "uncertainty_change_z": -0.1542853755,
+    "readability_change_z": -0.1363991422,
+    "composite_signal": 0.3187781845,
+    "fwd_return_1d": -0.0302932297,
+    "fwd_return_5d": -0.0150109527,
+    "fwd_return_21d": -0.0449162371,
+    "fwd_return_63d": -0.0274910765,
+    "event_date": "2025-07-31",
+    "fwd_return_1d_bench": -0.0163905153,
+    "fwd_return_5d_bench": 0.0002689771,
+    "fwd_return_21d_bench": 0.020519484,
+    "fwd_return_63d_bench": 0.0905197154,
+    "alpha_1d": -0.0139027145,
+    "alpha_5d": -0.0152799298,
+    "alpha_21d": -0.0654357211,
+    "alpha_63d": -0.1180107919
+  },
+  {
+    "ticker": "META",
+    "accession": "000162828025047240",
+    "form": "10-Q",
+    "filing_date": "2025-10-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930.htm",
+    "lm_sentiment_score": -0.0155635967,
+    "lm_uncertainty_score": 0.047819151,
+    "lm_pos_words": 306,
+    "lm_neg_words": 706,
+    "lm_unc_words": 1229,
+    "total_words": 25701,
+    "fog_index": 22.8748397882,
+    "flesch_reading_ease": 13.0640670103,
+    "risk_word_count": 18957,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        32
+      ],
+      [
+        "effectively",
+        21
+      ],
+      [
+        "growth",
+        21
+      ],
+      [
+        "respect",
+        15
+      ],
+      [
+        "successfully",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        76
+      ],
+      [
+        "affect",
+        71
+      ],
+      [
+        "expenses",
+        38
+      ],
+      [
+        "affected",
+        32
+      ],
+      [
+        "adverse",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        655
+      ],
+      [
+        "may",
+        231
+      ],
+      [
+        "could",
+        84
+      ],
+      [
+        "if",
+        50
+      ],
+      [
+        "risks",
+        37
+      ]
+    ],
+    "sentiment_yoy_change": 0.0014404843,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0334169211,
+    "uncertainty_change": -0.0005124486,
+    "readability_change": -0.1241208671,
+    "sentiment_yoy_change_z": 0.2191610243,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1295068538,
+    "uncertainty_change_z": -0.1539132664,
+    "readability_change_z": -0.1689719256,
+    "composite_signal": 0.3357765351,
+    "fwd_return_1d": -0.0271880261,
+    "fwd_return_5d": -0.0713160026,
+    "fwd_return_21d": -0.0384112081,
+    "fwd_return_63d": 0.060792106,
+    "event_date": "2025-10-30",
+    "fwd_return_1d_bench": 0.0032802221,
+    "fwd_return_5d_bench": -0.0140034958,
+    "fwd_return_21d_bench": 0.0006472455,
+    "fwd_return_63d_bench": 0.0259400607,
+    "alpha_1d": -0.0304682481,
+    "alpha_5d": -0.0573125068,
+    "alpha_21d": -0.0390584536,
+    "alpha_63d": 0.0348520453
+  },
+  {
+    "ticker": "META",
+    "accession": "000162828026003942",
+    "form": "10-K",
+    "filing_date": "2026-01-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+    "lm_sentiment_score": -0.0173271603,
+    "lm_uncertainty_score": 0.0395777908,
+    "lm_pos_words": 587,
+    "lm_neg_words": 1590,
+    "lm_unc_words": 2291,
+    "total_words": 57886,
+    "fog_index": 21.3282124443,
+    "flesch_reading_ease": 17.9091180364,
+    "risk_word_count": 30106,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        78
+      ],
+      [
+        "effective",
+        56
+      ],
+      [
+        "respect",
+        40
+      ],
+      [
+        "benefits",
+        28
+      ],
+      [
+        "growth",
+        25
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        112
+      ],
+      [
+        "affect",
+        106
+      ],
+      [
+        "expenses",
+        61
+      ],
+      [
+        "affected",
+        47
+      ],
+      [
+        "claims",
+        43
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        1168
+      ],
+      [
+        "may",
+        396
+      ],
+      [
+        "could",
+        160
+      ],
+      [
+        "if",
+        99
+      ],
+      [
+        "risks",
+        58
+      ]
+    ],
+    "sentiment_yoy_change": 0.0007531764,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0352463808,
+    "uncertainty_change": -0.0007186682,
+    "readability_change": -0.2497379818,
+    "sentiment_yoy_change_z": 0.1453834607,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.129221422,
+    "uncertainty_change_z": -0.1689808507,
+    "readability_change_z": -0.2083736888,
+    "composite_signal": 0.3259797111,
+    "fwd_return_1d": -0.0295404562,
+    "fwd_return_5d": -0.0922376209,
+    "fwd_return_21d": -0.1147892179,
+    "fwd_return_63d": -0.1704922231,
+    "event_date": "2026-01-29",
+    "fwd_return_1d_bench": -0.0029824841,
+    "fwd_return_5d_bench": -0.0236585651,
+    "fwd_return_21d_bench": -0.0110368268,
+    "fwd_return_63d_bench": 0.0383013376,
+    "alpha_1d": -0.0265579721,
+    "alpha_5d": -0.0685790558,
+    "alpha_21d": -0.1037523911,
+    "alpha_63d": -0.2087935607
+  },
+  {
+    "ticker": "META",
+    "accession": "000162828026028526",
+    "form": "10-Q",
+    "filing_date": "2026-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/meta-20260331.htm",
+    "lm_sentiment_score": -0.0162585852,
+    "lm_uncertainty_score": 0.0480772962,
+    "lm_pos_words": 307,
+    "lm_neg_words": 726,
+    "lm_unc_words": 1239,
+    "total_words": 25771,
+    "fog_index": 22.9488143629,
+    "flesch_reading_ease": 13.004456033,
+    "risk_word_count": 19307,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        32
+      ],
+      [
+        "effectively",
+        21
+      ],
+      [
+        "growth",
+        18
+      ],
+      [
+        "respect",
+        16
+      ],
+      [
+        "successfully",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        77
+      ],
+      [
+        "affect",
+        73
+      ],
+      [
+        "expenses",
+        35
+      ],
+      [
+        "affected",
+        32
+      ],
+      [
+        "adverse",
+        19
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        658
+      ],
+      [
+        "may",
+        236
+      ],
+      [
+        "could",
+        84
+      ],
+      [
+        "if",
+        51
+      ],
+      [
+        "risks",
+        38
+      ]
+    ],
+    "sentiment_yoy_change": -0.0005231325,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0361167758,
+    "uncertainty_change": -8.75666e-05,
+    "readability_change": -0.1559496629,
+    "sentiment_yoy_change_z": 0.0083808728,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1290856232,
+    "uncertainty_change_z": -0.1228689557,
+    "readability_change_z": -0.1789555228,
+    "composite_signal": 0.2196454873,
+    "fwd_return_1d": -0.0051641083,
+    "fwd_return_5d": 0.0080076875,
+    "fwd_return_21d": -0.0186956196,
+    "fwd_return_63d": null,
+    "event_date": "2026-04-30",
+    "fwd_return_1d_bench": 0.0027690953,
+    "fwd_return_5d_bench": 0.0179779601,
+    "fwd_return_21d_bench": 0.0554921724,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": -0.0079332036,
+    "alpha_5d": -0.0099702726,
+    "alpha_21d": -0.074187792,
+    "alpha_63d": null
+  }
+]

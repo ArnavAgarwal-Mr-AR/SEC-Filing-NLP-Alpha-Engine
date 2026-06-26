@@ -1,0 +1,2089 @@
+[
+  {
+    "ticker": "AAPL",
+    "accession": "000032019321000065",
+    "form": "10-Q",
+    "filing_date": "2021-07-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000065/aapl-20210626.htm",
+    "lm_sentiment_score": 0.0021317416,
+    "lm_uncertainty_score": 0.0159880622,
+    "lm_pos_words": 49,
+    "lm_neg_words": 39,
+    "lm_unc_words": 75,
+    "total_words": 4691,
+    "fog_index": 17.2728703399,
+    "flesch_reading_ease": 35.8718823256,
+    "risk_word_count": 667,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "favorable",
+        9
+      ],
+      [
+        "greater",
+        6
+      ],
+      [
+        "strength",
+        6
+      ],
+      [
+        "benefits",
+        6
+      ],
+      [
+        "effective",
+        5
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        7
+      ],
+      [
+        "expense",
+        7
+      ],
+      [
+        "affected",
+        4
+      ],
+      [
+        "impairments",
+        2
+      ],
+      [
+        "disclosures",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        24
+      ],
+      [
+        "may",
+        11
+      ],
+      [
+        "risk",
+        8
+      ],
+      [
+        "believes",
+        5
+      ],
+      [
+        "could",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0045526029,
+    "fwd_return_5d": 0.0135882736,
+    "fwd_return_21d": 0.0191823908,
+    "fwd_return_63d": 0.0314787591,
+    "event_date": "2021-07-28",
+    "fwd_return_1d_bench": 0.0041476693,
+    "fwd_return_5d_bench": 0.0003418258,
+    "fwd_return_21d_bench": 0.0169315357,
+    "fwd_return_63d_bench": 0.0423645175,
+    "alpha_1d": 0.0004049336,
+    "alpha_5d": 0.0132464479,
+    "alpha_21d": 0.002250855,
+    "alpha_63d": -0.0108857584
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019321000105",
+    "form": "10-K",
+    "filing_date": "2021-10-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm",
+    "lm_sentiment_score": -0.012047167,
+    "lm_uncertainty_score": 0.0321399685,
+    "lm_pos_words": 242,
+    "lm_neg_words": 525,
+    "lm_unc_words": 755,
+    "total_words": 23491,
+    "fog_index": 20.0820596969,
+    "flesch_reading_ease": 21.7170523562,
+    "risk_word_count": 9658,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        52
+      ],
+      [
+        "effective",
+        20
+      ],
+      [
+        "gains",
+        16
+      ],
+      [
+        "effectiveness",
+        13
+      ],
+      [
+        "greater",
+        12
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        58
+      ],
+      [
+        "affect",
+        40
+      ],
+      [
+        "affected",
+        29
+      ],
+      [
+        "adverse",
+        21
+      ],
+      [
+        "expenses",
+        19
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        304
+      ],
+      [
+        "may",
+        103
+      ],
+      [
+        "could",
+        71
+      ],
+      [
+        "risk",
+        46
+      ],
+      [
+        "if",
+        35
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0056076089,
+    "fwd_return_5d": 0.0113537854,
+    "fwd_return_21d": 0.1050816777,
+    "fwd_return_63d": 0.1684582383,
+    "event_date": "2021-10-29",
+    "fwd_return_1d_bench": 0.0017201934,
+    "fwd_return_5d_bench": 0.0202069576,
+    "fwd_return_21d_bench": -0.0080349164,
+    "fwd_return_63d_bench": -0.0168956986,
+    "alpha_1d": -0.0073278023,
+    "alpha_5d": -0.0088531722,
+    "alpha_21d": 0.1131165941,
+    "alpha_63d": 0.1853539369
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019322000007",
+    "form": "10-Q",
+    "filing_date": "2022-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000007/aapl-20211225.htm",
+    "lm_sentiment_score": -0.0034246575,
+    "lm_uncertainty_score": 0.0150684932,
+    "lm_pos_words": 23,
+    "lm_neg_words": 33,
+    "lm_unc_words": 44,
+    "total_words": 2920,
+    "fog_index": 18.200163152,
+    "flesch_reading_ease": 31.7612676386,
+    "risk_word_count": 541,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "greater",
+        5
+      ],
+      [
+        "growth",
+        4
+      ],
+      [
+        "effective",
+        4
+      ],
+      [
+        "value",
+        2
+      ],
+      [
+        "favorable",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        6
+      ],
+      [
+        "affected",
+        6
+      ],
+      [
+        "expense",
+        4
+      ],
+      [
+        "disruptions",
+        2
+      ],
+      [
+        "disclosures",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        14
+      ],
+      [
+        "risk",
+        5
+      ],
+      [
+        "believes",
+        3
+      ],
+      [
+        "could",
+        3
+      ],
+      [
+        "may",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0261256272,
+    "fwd_return_5d": 0.0133837119,
+    "fwd_return_21d": -0.0406393554,
+    "fwd_return_63d": -0.0732645928,
+    "event_date": "2022-01-28",
+    "fwd_return_1d_bench": 0.0180109364,
+    "fwd_return_5d_bench": 0.0152732001,
+    "fwd_return_21d_bench": -0.0270846921,
+    "fwd_return_63d_bench": -0.0648716911,
+    "alpha_1d": 0.0081146908,
+    "alpha_5d": -0.0018894882,
+    "alpha_21d": -0.0135546634,
+    "alpha_63d": -0.0083929017
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019322000059",
+    "form": "10-Q",
+    "filing_date": "2022-04-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000059/aapl-20220326.htm",
+    "lm_sentiment_score": -0.0005918911,
+    "lm_uncertainty_score": 0.013021604,
+    "lm_pos_words": 34,
+    "lm_neg_words": 36,
+    "lm_unc_words": 44,
+    "total_words": 3379,
+    "fog_index": 17.9476391518,
+    "flesch_reading_ease": 33.4430823526,
+    "risk_word_count": 518,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        8
+      ],
+      [
+        "greater",
+        5
+      ],
+      [
+        "growth",
+        4
+      ],
+      [
+        "favorable",
+        4
+      ],
+      [
+        "benefits",
+        4
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        7
+      ],
+      [
+        "affected",
+        5
+      ],
+      [
+        "expense",
+        5
+      ],
+      [
+        "disruptions",
+        2
+      ],
+      [
+        "affect",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        13
+      ],
+      [
+        "risk",
+        5
+      ],
+      [
+        "could",
+        4
+      ],
+      [
+        "believes",
+        3
+      ],
+      [
+        "may",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0019661698,
+    "fwd_return_5d": -0.0008810932,
+    "fwd_return_21d": -0.0544963738,
+    "fwd_return_63d": 0.0259897294,
+    "event_date": "2022-04-29",
+    "fwd_return_1d_bench": 0.0060194174,
+    "fwd_return_5d_bench": -0.0016019917,
+    "fwd_return_21d_bench": 0.0022572129,
+    "fwd_return_63d_bench": 0.0013212724,
+    "alpha_1d": -0.0040532476,
+    "alpha_5d": 0.0007208985,
+    "alpha_21d": -0.0567535867,
+    "alpha_63d": 0.0246684571
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019322000070",
+    "form": "10-Q",
+    "filing_date": "2022-07-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000070/aapl-20220625.htm",
+    "lm_sentiment_score": -0.0024937656,
+    "lm_uncertainty_score": 0.0109102244,
+    "lm_pos_words": 27,
+    "lm_neg_words": 35,
+    "lm_unc_words": 35,
+    "total_words": 3208,
+    "fog_index": 17.3074574281,
+    "flesch_reading_ease": 37.0960748679,
+    "risk_word_count": 440,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "greater",
+        7
+      ],
+      [
+        "effective",
+        7
+      ],
+      [
+        "value",
+        3
+      ],
+      [
+        "growth",
+        3
+      ],
+      [
+        "benefits",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        5
+      ],
+      [
+        "unfavorable",
+        5
+      ],
+      [
+        "expense",
+        5
+      ],
+      [
+        "affected",
+        4
+      ],
+      [
+        "disruptions",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        9
+      ],
+      [
+        "risk",
+        4
+      ],
+      [
+        "believes",
+        3
+      ],
+      [
+        "could",
+        3
+      ],
+      [
+        "may",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": -0.0046255072,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.3403298351,
+    "uncertainty_change": -0.0050778378,
+    "readability_change": 0.0345870882,
+    "sentiment_yoy_change_z": -0.4319795687,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.187818719,
+    "uncertainty_change_z": -0.4874867309,
+    "readability_change_z": -0.1191907053,
+    "composite_signal": 0.1812582933,
+    "fwd_return_1d": -0.0061535329,
+    "fwd_return_5d": 0.0188891152,
+    "fwd_return_21d": -0.0055742597,
+    "fwd_return_63d": -0.107740414,
+    "event_date": "2022-07-29",
+    "fwd_return_1d_bench": -0.0029611644,
+    "fwd_return_5d_bench": 0.0035924064,
+    "fwd_return_21d_bench": -0.0227187746,
+    "fwd_return_63d_bench": -0.0739072843,
+    "alpha_1d": -0.0031923685,
+    "alpha_5d": 0.0152967088,
+    "alpha_21d": 0.017144515,
+    "alpha_63d": -0.0338331296
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019322000108",
+    "form": "10-K",
+    "filing_date": "2022-10-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm",
+    "lm_sentiment_score": -0.0133126935,
+    "lm_uncertainty_score": 0.0335692172,
+    "lm_pos_words": 228,
+    "lm_neg_words": 529,
+    "lm_unc_words": 759,
+    "total_words": 22610,
+    "fog_index": 20.2678502378,
+    "flesch_reading_ease": 20.7075774106,
+    "risk_word_count": 10220,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        51
+      ],
+      [
+        "effective",
+        23
+      ],
+      [
+        "greater",
+        13
+      ],
+      [
+        "gains",
+        13
+      ],
+      [
+        "effectively",
+        12
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        63
+      ],
+      [
+        "affect",
+        44
+      ],
+      [
+        "affected",
+        28
+      ],
+      [
+        "adverse",
+        22
+      ],
+      [
+        "expenses",
+        17
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        300
+      ],
+      [
+        "may",
+        101
+      ],
+      [
+        "could",
+        78
+      ],
+      [
+        "risk",
+        45
+      ],
+      [
+        "if",
+        35
+      ]
+    ],
+    "sentiment_yoy_change": -0.0012655265,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0581901015,
+    "uncertainty_change": 0.0014292487,
+    "readability_change": 0.1857905409,
+    "sentiment_yoy_change_z": -0.0713097877,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.125641749,
+    "uncertainty_change_z": -0.0120417486,
+    "readability_change_z": -0.071763389,
+    "composite_signal": 0.0690685494,
+    "fwd_return_1d": -0.0154103679,
+    "fwd_return_5d": -0.1099936145,
+    "fwd_return_21d": -0.0920494175,
+    "fwd_return_63d": -0.0719830836,
+    "event_date": "2022-10-28",
+    "fwd_return_1d_bench": -0.0072233509,
+    "fwd_return_5d_bench": -0.0325690361,
+    "fwd_return_21d_bench": 0.0159632082,
+    "fwd_return_63d_bench": 0.0496802562,
+    "alpha_1d": -0.008187017,
+    "alpha_5d": -0.0774245785,
+    "alpha_21d": -0.1080126257,
+    "alpha_63d": -0.1216633397
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019323000006",
+    "form": "10-Q",
+    "filing_date": "2023-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000006/aapl-20221231.htm",
+    "lm_sentiment_score": -0.003989844,
+    "lm_uncertainty_score": 0.0141458107,
+    "lm_pos_words": 17,
+    "lm_neg_words": 28,
+    "lm_unc_words": 39,
+    "total_words": 2757,
+    "fog_index": 17.3544006847,
+    "flesch_reading_ease": 33.9434480368,
+    "risk_word_count": 402,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        5
+      ],
+      [
+        "greater",
+        4
+      ],
+      [
+        "value",
+        2
+      ],
+      [
+        "growth",
+        2
+      ],
+      [
+        "benefits",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        5
+      ],
+      [
+        "affected",
+        5
+      ],
+      [
+        "expense",
+        2
+      ],
+      [
+        "disclosures",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        11
+      ],
+      [
+        "believes",
+        4
+      ],
+      [
+        "could",
+        4
+      ],
+      [
+        "risk",
+        4
+      ],
+      [
+        "may",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": -0.0005651865,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.2569316081,
+    "uncertainty_change": -0.0009226825,
+    "readability_change": -0.8457624673,
+    "sentiment_yoy_change_z": 0.0038666781,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1748069507,
+    "uncertainty_change_z": -0.1838873031,
+    "readability_change_z": -0.3953260452,
+    "composite_signal": 0.3789434886,
+    "fwd_return_1d": -0.0179286928,
+    "fwd_return_5d": -0.0210968277,
+    "fwd_return_21d": -0.0172719248,
+    "fwd_return_63d": 0.1251457992,
+    "event_date": "2023-02-03",
+    "fwd_return_1d_bench": -0.0061113727,
+    "fwd_return_5d_bench": -0.0104523684,
+    "fwd_return_21d_bench": -0.0341457604,
+    "fwd_return_63d_bench": 0.0044981183,
+    "alpha_1d": -0.0118173201,
+    "alpha_5d": -0.0106444594,
+    "alpha_21d": 0.0168738356,
+    "alpha_63d": 0.1206476809
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019323000064",
+    "form": "10-Q",
+    "filing_date": "2023-05-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000064/aapl-20230401.htm",
+    "lm_sentiment_score": -0.0036245016,
+    "lm_uncertainty_score": 0.0137731062,
+    "lm_pos_words": 15,
+    "lm_neg_words": 25,
+    "lm_unc_words": 38,
+    "total_words": 2759,
+    "fog_index": 16.594375031,
+    "flesch_reading_ease": 38.1486582865,
+    "risk_word_count": 431,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        7
+      ],
+      [
+        "greater",
+        3
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "improved",
+        1
+      ],
+      [
+        "growth",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "unfavorable",
+        5
+      ],
+      [
+        "expenses",
+        4
+      ],
+      [
+        "affected",
+        3
+      ],
+      [
+        "expense",
+        2
+      ],
+      [
+        "disclosures",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        11
+      ],
+      [
+        "may",
+        6
+      ],
+      [
+        "risk",
+        4
+      ],
+      [
+        "believes",
+        3
+      ],
+      [
+        "risks",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": -0.0030326105,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.167953668,
+    "uncertainty_change": 0.0007515022,
+    "readability_change": -1.3532641208,
+    "sentiment_yoy_change_z": -0.2609935556,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1609246372,
+    "uncertainty_change_z": -0.0615617869,
+    "readability_change_z": -0.5545118377,
+    "composite_signal": 0.2580023531,
+    "fwd_return_1d": -0.0004033984,
+    "fwd_return_5d": -0.0043864112,
+    "fwd_return_21d": 0.0339223361,
+    "fwd_return_63d": 0.0318453564,
+    "event_date": "2023-05-05",
+    "fwd_return_1d_bench": 0.0002666829,
+    "fwd_return_5d_bench": -0.0025204267,
+    "fwd_return_21d_bench": 0.0373216563,
+    "fwd_return_63d_bench": 0.0963437169,
+    "alpha_1d": -0.0006700813,
+    "alpha_5d": -0.0018659845,
+    "alpha_21d": -0.0033993202,
+    "alpha_63d": -0.0644983605
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019323000077",
+    "form": "10-Q",
+    "filing_date": "2023-08-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000077/aapl-20230701.htm",
+    "lm_sentiment_score": -0.0011223345,
+    "lm_uncertainty_score": 0.0127197905,
+    "lm_pos_words": 22,
+    "lm_neg_words": 25,
+    "lm_unc_words": 34,
+    "total_words": 2673,
+    "fog_index": 17.1260040994,
+    "flesch_reading_ease": 37.3007576961,
+    "risk_word_count": 345,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        7
+      ],
+      [
+        "benefits",
+        5
+      ],
+      [
+        "greater",
+        4
+      ],
+      [
+        "improved",
+        2
+      ],
+      [
+        "favorable",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "unfavorable",
+        5
+      ],
+      [
+        "expenses",
+        4
+      ],
+      [
+        "affected",
+        3
+      ],
+      [
+        "expense",
+        2
+      ],
+      [
+        "disclosures",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        9
+      ],
+      [
+        "may",
+        4
+      ],
+      [
+        "risk",
+        4
+      ],
+      [
+        "believes",
+        3
+      ],
+      [
+        "risks",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": 0.0013714311,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.2159090909,
+    "uncertainty_change": 0.0018095661,
+    "readability_change": -0.1814533287,
+    "sentiment_yoy_change_z": 0.2117486596,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.168406629,
+    "uncertainty_change_z": 0.0157464174,
+    "readability_change_z": -0.1869551445,
+    "composite_signal": 0.2756820079,
+    "fwd_return_1d": -0.0172536089,
+    "fwd_return_5d": -0.021758964,
+    "fwd_return_21d": 0.0437723915,
+    "fwd_return_63d": -0.0229696422,
+    "event_date": "2023-08-04",
+    "fwd_return_1d_bench": 0.0087285621,
+    "fwd_return_5d_bench": -0.002596208,
+    "fwd_return_21d_bench": 0.0054385667,
+    "fwd_return_63d_bench": -0.0325207316,
+    "alpha_1d": -0.025982171,
+    "alpha_5d": -0.019162756,
+    "alpha_21d": 0.0383338248,
+    "alpha_63d": 0.0095510894
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019323000106",
+    "form": "10-K",
+    "filing_date": "2023-11-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm",
+    "lm_sentiment_score": -0.0154288307,
+    "lm_uncertainty_score": 0.0348913427,
+    "lm_pos_words": 175,
+    "lm_neg_words": 481,
+    "lm_unc_words": 692,
+    "total_words": 19833,
+    "fog_index": 20.0801250071,
+    "flesch_reading_ease": 20.9993572364,
+    "risk_word_count": 9793,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        32
+      ],
+      [
+        "effective",
+        20
+      ],
+      [
+        "greater",
+        11
+      ],
+      [
+        "effectively",
+        11
+      ],
+      [
+        "benefits",
+        10
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        54
+      ],
+      [
+        "affect",
+        44
+      ],
+      [
+        "affected",
+        23
+      ],
+      [
+        "adverse",
+        22
+      ],
+      [
+        "claims",
+        15
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        287
+      ],
+      [
+        "may",
+        92
+      ],
+      [
+        "could",
+        67
+      ],
+      [
+        "risk",
+        39
+      ],
+      [
+        "if",
+        34
+      ]
+    ],
+    "sentiment_yoy_change": -0.0021161372,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0417808219,
+    "uncertainty_change": 0.0013221255,
+    "readability_change": -0.1877252307,
+    "sentiment_yoy_change_z": -0.1626167333,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1412391848,
+    "uncertainty_change_z": -0.0198687827,
+    "readability_change_z": -0.1889224242,
+    "composite_signal": 0.0937068292,
+    "fwd_return_1d": 0.0146051165,
+    "fwd_return_5d": 0.0565841767,
+    "fwd_return_21d": 0.096376012,
+    "fwd_return_63d": 0.0730225208,
+    "event_date": "2023-11-03",
+    "fwd_return_1d_bench": 0.0023006353,
+    "fwd_return_5d_bench": 0.0136187848,
+    "fwd_return_21d_bench": 0.0504036786,
+    "fwd_return_63d_bench": 0.1410034828,
+    "alpha_1d": 0.0123044812,
+    "alpha_5d": 0.0429653918,
+    "alpha_21d": 0.0459723334,
+    "alpha_63d": -0.0679809619
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019324000006",
+    "form": "10-Q",
+    "filing_date": "2024-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000006/aapl-20231230.htm",
+    "lm_sentiment_score": -0.0074543422,
+    "lm_uncertainty_score": 0.0223630265,
+    "lm_pos_words": 17,
+    "lm_neg_words": 37,
+    "lm_unc_words": 60,
+    "total_words": 2683,
+    "fog_index": 17.8352839287,
+    "flesch_reading_ease": 31.3505727412,
+    "risk_word_count": 660,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        4
+      ],
+      [
+        "greater",
+        3
+      ],
+      [
+        "strength",
+        2
+      ],
+      [
+        "favorable",
+        2
+      ],
+      [
+        "improvements",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        6
+      ],
+      [
+        "affect",
+        5
+      ],
+      [
+        "expenses",
+        4
+      ],
+      [
+        "affected",
+        4
+      ],
+      [
+        "disclosures",
+        3
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        26
+      ],
+      [
+        "could",
+        6
+      ],
+      [
+        "may",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "risk",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0034644982,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.6417910448,
+    "uncertainty_change": 0.0082172158,
+    "readability_change": 0.480883244,
+    "sentiment_yoy_change_z": -0.3073535963,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0345884917,
+    "uncertainty_change_z": 0.4839259779,
+    "readability_change_z": 0.0207970302,
+    "composite_signal": -0.3887440564,
+    "fwd_return_1d": 0.0098466888,
+    "fwd_return_5d": 0.017438642,
+    "fwd_return_21d": -0.0834701356,
+    "fwd_return_63d": -0.0120312622,
+    "event_date": "2024-02-02",
+    "fwd_return_1d_bench": -0.0036413229,
+    "fwd_return_5d_bench": 0.0138565252,
+    "fwd_return_21d_bench": 0.0259531858,
+    "fwd_return_63d_bench": 0.0374807347,
+    "alpha_1d": 0.0134880117,
+    "alpha_5d": 0.0035821168,
+    "alpha_21d": -0.1094233214,
+    "alpha_63d": -0.0495119969
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019324000069",
+    "form": "10-Q",
+    "filing_date": "2024-05-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000069/aapl-20240330.htm",
+    "lm_sentiment_score": -0.0079447323,
+    "lm_uncertainty_score": 0.0179620035,
+    "lm_pos_words": 19,
+    "lm_neg_words": 42,
+    "lm_unc_words": 52,
+    "total_words": 2895,
+    "fog_index": 18.541249227,
+    "flesch_reading_ease": 30.6208998145,
+    "risk_word_count": 689,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        5
+      ],
+      [
+        "greater",
+        3
+      ],
+      [
+        "growth",
+        2
+      ],
+      [
+        "improvements",
+        2
+      ],
+      [
+        "strength",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        6
+      ],
+      [
+        "expenses",
+        5
+      ],
+      [
+        "affect",
+        5
+      ],
+      [
+        "affected",
+        4
+      ],
+      [
+        "unfavorable",
+        3
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        16
+      ],
+      [
+        "may",
+        8
+      ],
+      [
+        "could",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "risk",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0043202307,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.5986078886,
+    "uncertainty_change": 0.0041888973,
+    "readability_change": 1.946874196,
+    "sentiment_yoy_change_z": -0.3992103303,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0413259158,
+    "uncertainty_change_z": 0.1895939727,
+    "readability_change_z": 0.4806279091,
+    "composite_signal": -0.5140531482,
+    "fwd_return_1d": -0.0091067535,
+    "fwd_return_5d": -0.0004456811,
+    "fwd_return_21d": 0.0612586714,
+    "fwd_return_63d": 0.1427301536,
+    "event_date": "2024-05-03",
+    "fwd_return_1d_bench": 0.0103266117,
+    "fwd_return_5d_bench": 0.0186782168,
+    "fwd_return_21d_bench": 0.0334449153,
+    "fwd_return_63d_bench": 0.0151755531,
+    "alpha_1d": -0.0194333652,
+    "alpha_5d": -0.0191238979,
+    "alpha_21d": 0.0278137561,
+    "alpha_63d": 0.1275546005
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019324000081",
+    "form": "10-Q",
+    "filing_date": "2024-08-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000081/aapl-20240629.htm",
+    "lm_sentiment_score": -0.0113085622,
+    "lm_uncertainty_score": 0.0387722132,
+    "lm_pos_words": 2,
+    "lm_neg_words": 9,
+    "lm_unc_words": 24,
+    "total_words": 619,
+    "fog_index": 18.1672801636,
+    "flesch_reading_ease": 36.4010173824,
+    "risk_word_count": 497,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "satisfy",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "affected",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "unregistered",
+        1
+      ],
+      [
+        "defaults",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        8
+      ],
+      [
+        "or",
+        4
+      ],
+      [
+        "risk",
+        3
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": -0.0101862277,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.4405797101,
+    "uncertainty_change": 0.0260524227,
+    "readability_change": 1.0412760642,
+    "sentiment_yoy_change_z": -1.028882951,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0659814283,
+    "uncertainty_change_z": 1.7870682719,
+    "readability_change_z": 0.1965729603,
+    "composite_signal": -1.4732713774,
+    "fwd_return_1d": -0.0481669516,
+    "fwd_return_5d": -0.0164651009,
+    "fwd_return_21d": 0.0144086084,
+    "fwd_return_63d": 0.0287068913,
+    "event_date": "2024-08-02",
+    "fwd_return_1d_bench": -0.029123579,
+    "fwd_return_5d_bench": 0.0001689506,
+    "fwd_return_21d_bench": 0.0359918725,
+    "fwd_return_63d_bench": 0.070340082,
+    "alpha_1d": -0.0190433726,
+    "alpha_5d": -0.0166340516,
+    "alpha_21d": -0.0215832641,
+    "alpha_63d": -0.0416331907
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019324000123",
+    "form": "10-K",
+    "filing_date": "2024-11-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm",
+    "lm_sentiment_score": -0.0152406821,
+    "lm_uncertainty_score": 0.0339520145,
+    "lm_pos_words": 178,
+    "lm_neg_words": 481,
+    "lm_unc_words": 675,
+    "total_words": 19881,
+    "fog_index": 20.3941298608,
+    "flesch_reading_ease": 20.0211003966,
+    "risk_word_count": 9910,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        27
+      ],
+      [
+        "effective",
+        20
+      ],
+      [
+        "greater",
+        12
+      ],
+      [
+        "benefits",
+        11
+      ],
+      [
+        "effectively",
+        11
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        53
+      ],
+      [
+        "affect",
+        40
+      ],
+      [
+        "affected",
+        23
+      ],
+      [
+        "adverse",
+        20
+      ],
+      [
+        "claims",
+        14
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        285
+      ],
+      [
+        "may",
+        91
+      ],
+      [
+        "could",
+        59
+      ],
+      [
+        "risk",
+        37
+      ],
+      [
+        "if",
+        32
+      ]
+    ],
+    "sentiment_yoy_change": 0.0001881486,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0119473093,
+    "uncertainty_change": -0.0009393282,
+    "readability_change": 0.3140048537,
+    "sentiment_yoy_change_z": 0.0847317871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1328565366,
+    "uncertainty_change_z": -0.1851035332,
+    "readability_change_z": -0.0315469742,
+    "composite_signal": 0.2171194156,
+    "fwd_return_1d": -0.0040375356,
+    "fwd_return_5d": 0.0192890533,
+    "fwd_return_21d": 0.0897535809,
+    "fwd_return_63d": 0.0440346832,
+    "event_date": "2024-11-01",
+    "fwd_return_1d_bench": -0.0021540017,
+    "fwd_return_5d_bench": 0.047544894,
+    "fwd_return_21d_bench": 0.0575615964,
+    "fwd_return_63d_bench": 0.0616655111,
+    "alpha_1d": -0.0018835339,
+    "alpha_5d": -0.0282558407,
+    "alpha_21d": 0.0321919846,
+    "alpha_63d": -0.017630828
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019325000008",
+    "form": "10-Q",
+    "filing_date": "2025-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228.htm",
+    "lm_sentiment_score": -0.0276497696,
+    "lm_uncertainty_score": 0.0355497038,
+    "lm_pos_words": 5,
+    "lm_neg_words": 47,
+    "lm_unc_words": 54,
+    "total_words": 1519,
+    "fog_index": 24.4562089497,
+    "flesch_reading_ease": 8.3836493309,
+    "risk_word_count": 1314,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effectively",
+        1
+      ],
+      [
+        "satisfy",
+        1
+      ],
+      [
+        "effective",
+        1
+      ],
+      [
+        "advantage",
+        1
+      ],
+      [
+        "profit",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        11
+      ],
+      [
+        "affect",
+        9
+      ],
+      [
+        "antitrust",
+        5
+      ],
+      [
+        "affected",
+        3
+      ],
+      [
+        "adverse",
+        3
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        18
+      ],
+      [
+        "may",
+        9
+      ],
+      [
+        "could",
+        8
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "if",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0201954274,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.9909090909,
+    "uncertainty_change": 0.0131866773,
+    "readability_change": 6.620925021,
+    "sentiment_yoy_change_z": -2.1032986055,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 0.019880809,
+    "uncertainty_change_z": 0.8470232773,
+    "readability_change_z": 1.9467166979,
+    "composite_signal": -2.4584596949,
+    "fwd_return_1d": -0.0338560389,
+    "fwd_return_5d": -0.0354660406,
+    "fwd_return_21d": 0.0008024957,
+    "fwd_return_63d": -0.1289161519,
+    "event_date": "2025-01-31",
+    "fwd_return_1d_bench": -0.0067295534,
+    "fwd_return_5d_bench": -0.0017445386,
+    "fwd_return_21d_bench": -0.0414740526,
+    "fwd_return_63d_bench": -0.0554236561,
+    "alpha_1d": -0.0271264855,
+    "alpha_5d": -0.033721502,
+    "alpha_21d": 0.0422765482,
+    "alpha_63d": -0.0734924958
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019325000057",
+    "form": "10-Q",
+    "filing_date": "2025-05-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329.htm",
+    "lm_sentiment_score": -0.0375187594,
+    "lm_uncertainty_score": 0.0425212606,
+    "lm_pos_words": 11,
+    "lm_neg_words": 86,
+    "lm_unc_words": 85,
+    "total_words": 1999,
+    "fog_index": 23.5054172715,
+    "flesch_reading_ease": 10.2437319678,
+    "risk_word_count": 1788,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effectively",
+        3
+      ],
+      [
+        "profit",
+        2
+      ],
+      [
+        "values",
+        2
+      ],
+      [
+        "achieve",
+        2
+      ],
+      [
+        "benefits",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "tariffs",
+        10
+      ],
+      [
+        "adversely",
+        7
+      ],
+      [
+        "adverse",
+        6
+      ],
+      [
+        "affect",
+        6
+      ],
+      [
+        "affected",
+        5
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        40
+      ],
+      [
+        "could",
+        10
+      ],
+      [
+        "may",
+        7
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "risk",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0295740271,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 1.595065312,
+    "uncertainty_change": 0.0245592571,
+    "readability_change": 4.9641680445,
+    "sentiment_yoy_change_z": -3.110023882,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 0.114141095,
+    "uncertainty_change_z": 1.6779690472,
+    "readability_change_z": 1.4270490862,
+    "composite_signal": -3.1645915553,
+    "fwd_return_1d": -0.0314584565,
+    "fwd_return_5d": -0.0332116389,
+    "fwd_return_21d": -0.0088309747,
+    "fwd_return_63d": -0.0084408972,
+    "event_date": "2025-05-02",
+    "fwd_return_1d_bench": -0.0057342156,
+    "fwd_return_5d_bench": -0.0042698655,
+    "fwd_return_21d_bench": 0.0517503456,
+    "fwd_return_63d_bench": 0.116938225,
+    "alpha_1d": -0.0257242409,
+    "alpha_5d": -0.0289417735,
+    "alpha_21d": -0.0605813203,
+    "alpha_63d": -0.1253791223
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019325000073",
+    "form": "10-Q",
+    "filing_date": "2025-08-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000073/aapl-20250628.htm",
+    "lm_sentiment_score": -0.0149812734,
+    "lm_uncertainty_score": 0.0411985019,
+    "lm_pos_words": 0,
+    "lm_neg_words": 8,
+    "lm_unc_words": 22,
+    "total_words": 534,
+    "fog_index": 18.3164664311,
+    "flesch_reading_ease": 35.3666837456,
+    "risk_word_count": 401,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [],
+    "top_negative": [
+      [
+        "affected",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "tariffs",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "unregistered",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        6
+      ],
+      [
+        "or",
+        4
+      ],
+      [
+        "risk",
+        3
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": -0.0036727112,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.1931589537,
+    "uncertainty_change": 0.0024262887,
+    "readability_change": 0.1491862675,
+    "sentiment_yoy_change_z": -0.3297037655,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1648571589,
+    "uncertainty_change_z": 0.0608077003,
+    "readability_change_z": -0.0832448891,
+    "composite_signal": -0.0712047089,
+    "fwd_return_1d": 0.0047929848,
+    "fwd_return_5d": 0.133264112,
+    "fwd_return_21d": 0.136380661,
+    "fwd_return_63d": 0.3425634819,
+    "event_date": "2025-08-01",
+    "fwd_return_1d_bench": 0.0151998634,
+    "fwd_return_5d_bench": 0.0248665212,
+    "fwd_return_21d_bench": 0.0298367285,
+    "fwd_return_63d_bench": 0.0964981344,
+    "alpha_1d": -0.0104068787,
+    "alpha_5d": 0.1083975909,
+    "alpha_21d": 0.1065439326,
+    "alpha_63d": 0.2460653475
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019325000079",
+    "form": "10-K",
+    "filing_date": "2025-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+    "lm_sentiment_score": -0.0168791077,
+    "lm_uncertainty_score": 0.0341067516,
+    "lm_pos_words": 195,
+    "lm_neg_words": 534,
+    "lm_unc_words": 685,
+    "total_words": 20084,
+    "fog_index": 20.6209688436,
+    "flesch_reading_ease": 19.046167271,
+    "risk_word_count": 9780,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        32
+      ],
+      [
+        "effective",
+        24
+      ],
+      [
+        "benefits",
+        12
+      ],
+      [
+        "greater",
+        11
+      ],
+      [
+        "values",
+        11
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        61
+      ],
+      [
+        "affect",
+        49
+      ],
+      [
+        "adverse",
+        24
+      ],
+      [
+        "tariffs",
+        19
+      ],
+      [
+        "affected",
+        19
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        278
+      ],
+      [
+        "may",
+        113
+      ],
+      [
+        "could",
+        58
+      ],
+      [
+        "risks",
+        36
+      ],
+      [
+        "risk",
+        35
+      ]
+    ],
+    "sentiment_yoy_change": -0.0016384256,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0131180626,
+    "uncertainty_change": 0.0001547371,
+    "readability_change": 0.2268389828,
+    "sentiment_yoy_change_z": -0.1113378262,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.136767229,
+    "uncertainty_change_z": -0.1051648606,
+    "readability_change_z": -0.0588879063,
+    "composite_signal": 0.0947410849,
+    "fwd_return_1d": -0.0048823413,
+    "fwd_return_5d": -0.0070274564,
+    "fwd_return_21d": 0.0595384612,
+    "fwd_return_63d": -0.0023255443,
+    "event_date": "2025-10-31",
+    "fwd_return_1d_bench": 0.0018767399,
+    "fwd_return_5d_bench": -0.0162596051,
+    "fwd_return_21d_bench": -0.0007769523,
+    "fwd_return_63d_bench": 0.0139393952,
+    "alpha_1d": -0.0067590811,
+    "alpha_5d": 0.0092321487,
+    "alpha_21d": 0.0603154135,
+    "alpha_63d": -0.0162649395
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019326000006",
+    "form": "10-Q",
+    "filing_date": "2026-01-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm",
+    "lm_sentiment_score": -0.0098452883,
+    "lm_uncertainty_score": 0.0253164557,
+    "lm_pos_words": 6,
+    "lm_neg_words": 13,
+    "lm_unc_words": 18,
+    "total_words": 711,
+    "fog_index": 17.0847679834,
+    "flesch_reading_ease": 35.5381499051,
+    "risk_word_count": 592,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "satisfy",
+        6
+      ]
+    ],
+    "top_negative": [
+      [
+        "defense",
+        3
+      ],
+      [
+        "excluding",
+        3
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "tariffs",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        5
+      ],
+      [
+        "or",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        1
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0178044813,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.5494672755,
+    "uncertainty_change": -0.0102332481,
+    "readability_change": -7.3714409663,
+    "sentiment_yoy_change_z": 1.9757184989,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2204482844,
+    "uncertainty_change_z": -0.8641705138,
+    "readability_change_z": -2.4422066729,
+    "composite_signal": 2.751271985,
+    "fwd_return_1d": 0.0405810196,
+    "fwd_return_5d": 0.0718357548,
+    "fwd_return_21d": 0.0174069981,
+    "fwd_return_63d": 0.080630866,
+    "event_date": "2026-01-30",
+    "fwd_return_1d_bench": 0.0049714005,
+    "fwd_return_5d_bench": -0.0019509094,
+    "fwd_return_21d_bench": -0.0168213948,
+    "fwd_return_63d_bench": 0.0442911671,
+    "alpha_1d": 0.0356096191,
+    "alpha_5d": 0.0737866642,
+    "alpha_21d": 0.034228393,
+    "alpha_63d": 0.0363396989
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "000032019326000013",
+    "form": "10-Q",
+    "filing_date": "2026-05-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000013/aapl-20260328.htm",
+    "lm_sentiment_score": -0.0342405619,
+    "lm_uncertainty_score": 0.044483465,
+    "lm_pos_words": 17,
+    "lm_neg_words": 134,
+    "lm_unc_words": 152,
+    "total_words": 3417,
+    "fog_index": 23.3331439281,
+    "flesch_reading_ease": 8.1162419942,
+    "risk_word_count": 3181,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "advantage",
+        3
+      ],
+      [
+        "profit",
+        3
+      ],
+      [
+        "gain",
+        2
+      ],
+      [
+        "effectively",
+        2
+      ],
+      [
+        "respect",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        15
+      ],
+      [
+        "affect",
+        14
+      ],
+      [
+        "harm",
+        6
+      ],
+      [
+        "fines",
+        6
+      ],
+      [
+        "affected",
+        5
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        66
+      ],
+      [
+        "may",
+        25
+      ],
+      [
+        "could",
+        22
+      ],
+      [
+        "risks",
+        16
+      ],
+      [
+        "if",
+        6
+      ]
+    ],
+    "sentiment_yoy_change": 0.0032781975,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.779082774,
+    "uncertainty_change": 0.0019622044,
+    "readability_change": -0.1722733434,
+    "sentiment_yoy_change_z": 0.4164263292,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0131682742,
+    "uncertainty_change_z": 0.0268990452,
+    "readability_change_z": -0.1840756993,
+    "composite_signal": 0.2933856288,
+    "fwd_return_1d": -0.0118156032,
+    "fwd_return_5d": 0.0470479365,
+    "fwd_return_21d": 0.1261883697,
+    "fwd_return_63d": null,
+    "event_date": "2026-05-01",
+    "fwd_return_1d_bench": -0.0036633921,
+    "fwd_return_5d_bench": 0.0235481825,
+    "fwd_return_21d_bench": 0.0540068219,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": -0.008152211,
+    "alpha_5d": 0.023499754,
+    "alpha_21d": 0.0721815478,
+    "alpha_63d": null
+  }
+]

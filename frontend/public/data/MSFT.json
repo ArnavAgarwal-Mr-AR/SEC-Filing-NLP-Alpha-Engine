@@ -1,0 +1,1862 @@
+[
+  {
+    "ticker": "MSFT",
+    "accession": "000156459021039151",
+    "form": "10-K",
+    "filing_date": "2021-07-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021039151/msft-10k_20210630.htm",
+    "lm_sentiment_score": -0.0084159475,
+    "lm_uncertainty_score": 0.0350902218,
+    "lm_pos_words": 408,
+    "lm_neg_words": 644,
+    "lm_unc_words": 984,
+    "total_words": 28042,
+    "fog_index": 19.3916902306,
+    "flesch_reading_ease": 22.6296540044,
+    "risk_word_count": 9163,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        74
+      ],
+      [
+        "benefits",
+        36
+      ],
+      [
+        "effective",
+        27
+      ],
+      [
+        "values",
+        21
+      ],
+      [
+        "growth",
+        19
+      ]
+    ],
+    "top_negative": [
+      [
+        "expense",
+        41
+      ],
+      [
+        "affect",
+        34
+      ],
+      [
+        "expenses",
+        32
+      ],
+      [
+        "claims",
+        26
+      ],
+      [
+        "impairment",
+        26
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        396
+      ],
+      [
+        "may",
+        223
+      ],
+      [
+        "if",
+        62
+      ],
+      [
+        "could",
+        62
+      ],
+      [
+        "risks",
+        39
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0055495971,
+    "fwd_return_5d": 0.0105410158,
+    "fwd_return_21d": 0.0481459739,
+    "fwd_return_63d": 0.1301522599,
+    "event_date": "2021-07-29",
+    "fwd_return_1d_bench": -0.0048564182,
+    "fwd_return_5d_bench": 0.0025190182,
+    "fwd_return_21d_bench": 0.0217862659,
+    "fwd_return_63d_bench": 0.0334605946,
+    "alpha_1d": -0.000693179,
+    "alpha_5d": 0.0080219976,
+    "alpha_21d": 0.0263597081,
+    "alpha_63d": 0.0966916653
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000156459021051992",
+    "form": "10-Q",
+    "filing_date": "2021-10-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/msft-10q_20210930.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0520094563,
+    "lm_pos_words": 8,
+    "lm_neg_words": 8,
+    "lm_unc_words": 22,
+    "total_words": 423,
+    "fog_index": 24.2564102564,
+    "flesch_reading_ease": 6.4541208791,
+    "risk_word_count": 231,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ],
+      [
+        "effective",
+        1
+      ],
+      [
+        "success",
+        1
+      ],
+      [
+        "innovative",
+        1
+      ],
+      [
+        "beneficial",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "disclosures",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "barriers",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "could",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0421138193,
+    "fwd_return_5d": 0.0742316372,
+    "fwd_return_21d": 0.0916388994,
+    "fwd_return_63d": -0.0414602397,
+    "event_date": "2021-10-26",
+    "fwd_return_1d_bench": -0.0044303078,
+    "fwd_return_5d_bench": 0.0130273063,
+    "fwd_return_21d_bench": 0.0295639383,
+    "fwd_return_63d_bench": -0.0461827321,
+    "alpha_1d": 0.046544127,
+    "alpha_5d": 0.0612043308,
+    "alpha_21d": 0.0620749611,
+    "alpha_63d": 0.0047224924
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000156459022002324",
+    "form": "10-Q",
+    "filing_date": "2022-01-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/msft-10q_20211231.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0520094563,
+    "lm_pos_words": 8,
+    "lm_neg_words": 8,
+    "lm_unc_words": 22,
+    "total_words": 423,
+    "fog_index": 24.2564102564,
+    "flesch_reading_ease": 6.4541208791,
+    "risk_word_count": 231,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ],
+      [
+        "effective",
+        1
+      ],
+      [
+        "success",
+        1
+      ],
+      [
+        "innovative",
+        1
+      ],
+      [
+        "beneficial",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "disclosures",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "barriers",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "could",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0284928733,
+    "fwd_return_5d": 0.0702624639,
+    "fwd_return_21d": 0.0232561357,
+    "fwd_return_63d": -0.0613928336,
+    "event_date": "2022-01-25",
+    "fwd_return_1d_bench": -0.0025089589,
+    "fwd_return_5d_bench": 0.042534427,
+    "fwd_return_21d_bench": -0.0142013838,
+    "fwd_return_63d_bench": -0.0393062018,
+    "alpha_1d": 0.0310018323,
+    "alpha_5d": 0.0277280369,
+    "alpha_21d": 0.0374575195,
+    "alpha_63d": -0.0220866318
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000156459022015675",
+    "form": "10-Q",
+    "filing_date": "2022-04-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/msft-10q_20220331.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0520094563,
+    "lm_pos_words": 8,
+    "lm_neg_words": 8,
+    "lm_unc_words": 22,
+    "total_words": 423,
+    "fog_index": 24.2564102564,
+    "flesch_reading_ease": 6.4541208791,
+    "risk_word_count": 231,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ],
+      [
+        "effective",
+        1
+      ],
+      [
+        "success",
+        1
+      ],
+      [
+        "innovative",
+        1
+      ],
+      [
+        "beneficial",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "disclosures",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "barriers",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "could",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0481087161,
+    "fwd_return_5d": 0.0427797088,
+    "fwd_return_21d": -0.0262327951,
+    "fwd_return_63d": -0.0031605735,
+    "event_date": "2022-04-26",
+    "fwd_return_1d_bench": 0.002811703,
+    "fwd_return_5d_bench": 0.0006726205,
+    "fwd_return_21d_bench": -0.0450135126,
+    "fwd_return_63d_bench": -0.0320300559,
+    "alpha_1d": 0.045297013,
+    "alpha_5d": 0.0421070883,
+    "alpha_21d": 0.0187807176,
+    "alpha_63d": 0.0288694825
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000156459022026876",
+    "form": "10-K",
+    "filing_date": "2022-07-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/msft-10k_20220630.htm",
+    "lm_sentiment_score": -0.0080025954,
+    "lm_uncertainty_score": 0.0351825817,
+    "lm_pos_words": 400,
+    "lm_neg_words": 622,
+    "lm_unc_words": 976,
+    "total_words": 27741,
+    "fog_index": 19.3111250343,
+    "flesch_reading_ease": 22.7848113759,
+    "risk_word_count": 9376,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        75
+      ],
+      [
+        "benefits",
+        34
+      ],
+      [
+        "effective",
+        27
+      ],
+      [
+        "benefit",
+        26
+      ],
+      [
+        "values",
+        21
+      ]
+    ],
+    "top_negative": [
+      [
+        "expense",
+        37
+      ],
+      [
+        "affect",
+        32
+      ],
+      [
+        "expenses",
+        30
+      ],
+      [
+        "adversely",
+        26
+      ],
+      [
+        "impairment",
+        23
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        402
+      ],
+      [
+        "may",
+        219
+      ],
+      [
+        "could",
+        65
+      ],
+      [
+        "if",
+        62
+      ],
+      [
+        "risks",
+        37
+      ]
+    ],
+    "sentiment_yoy_change": 0.0004133521,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0232456619,
+    "uncertainty_change": 9.23599e-05,
+    "readability_change": -0.0805651963,
+    "sentiment_yoy_change_z": 0.1089057644,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1310937708,
+    "uncertainty_change_z": -0.1097224959,
+    "readability_change_z": -0.1553100116,
+    "composite_signal": 0.2525160213,
+    "fwd_return_1d": 0.0156650318,
+    "fwd_return_5d": 0.0261925248,
+    "fwd_return_21d": -0.0280417056,
+    "fwd_return_63d": -0.1613512086,
+    "event_date": "2022-07-28",
+    "fwd_return_1d_bench": 0.0145787201,
+    "fwd_return_5d_bench": 0.0199473405,
+    "fwd_return_21d_bench": -0.0018715448,
+    "fwd_return_63d_bench": -0.0553616039,
+    "alpha_1d": 0.0010863117,
+    "alpha_5d": 0.0062451843,
+    "alpha_21d": -0.0261701608,
+    "alpha_63d": -0.1059896046
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000156459022035087",
+    "form": "10-Q",
+    "filing_date": "2022-10-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/msft-10q_20220930.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0520094563,
+    "lm_pos_words": 8,
+    "lm_neg_words": 8,
+    "lm_unc_words": 22,
+    "total_words": 423,
+    "fog_index": 24.2564102564,
+    "flesch_reading_ease": 6.4541208791,
+    "risk_word_count": 231,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ],
+      [
+        "effective",
+        1
+      ],
+      [
+        "success",
+        1
+      ],
+      [
+        "innovative",
+        1
+      ],
+      [
+        "beneficial",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "disclosures",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "barriers",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "could",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0771562129,
+    "fwd_return_5d": -0.0897231029,
+    "fwd_return_21d": -0.0095039142,
+    "fwd_return_63d": -0.0078236912,
+    "event_date": "2022-10-25",
+    "fwd_return_1d_bench": -0.0075342701,
+    "fwd_return_5d_bench": -0.001039293,
+    "fwd_return_21d_bench": 0.0454639239,
+    "fwd_return_63d_bench": 0.0563455554,
+    "alpha_1d": -0.0696219428,
+    "alpha_5d": -0.0886838099,
+    "alpha_21d": -0.0549678381,
+    "alpha_63d": -0.0641692466
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000156459023000733",
+    "form": "10-Q",
+    "filing_date": "2023-01-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/msft-10q_20221231.htm",
+    "lm_sentiment_score": 0.0,
+    "lm_uncertainty_score": 0.0520094563,
+    "lm_pos_words": 8,
+    "lm_neg_words": 8,
+    "lm_unc_words": 22,
+    "total_words": 423,
+    "fog_index": 24.2564102564,
+    "flesch_reading_ease": 6.4541208791,
+    "risk_word_count": 231,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ],
+      [
+        "effective",
+        1
+      ],
+      [
+        "success",
+        1
+      ],
+      [
+        "innovative",
+        1
+      ],
+      [
+        "beneficial",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "disclosures",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "barriers",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        5
+      ],
+      [
+        "risks",
+        4
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "could",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0059080269,
+    "fwd_return_5d": 0.0238390031,
+    "fwd_return_21d": 0.0552309519,
+    "fwd_return_63d": 0.1407612168,
+    "event_date": "2023-01-24",
+    "fwd_return_1d_bench": 0.000374746,
+    "fwd_return_5d_bench": 0.0156921185,
+    "fwd_return_21d_bench": 0.0011493592,
+    "fwd_return_63d_bench": 0.0185651975,
+    "alpha_1d": -0.0062827729,
+    "alpha_5d": 0.0081468846,
+    "alpha_21d": 0.0540815927,
+    "alpha_63d": 0.1221960193
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017023014423",
+    "form": "10-Q",
+    "filing_date": "2023-04-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/msft-20230331.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": -0.0105263158,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0216747542,
+    "readability_change": 1.8688807489,
+    "sentiment_yoy_change_z": -1.0653889644,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": 1.4672107562,
+    "readability_change_z": 0.4561640506,
+    "composite_signal": -1.4270216093,
+    "fwd_return_1d": 0.0724348094,
+    "fwd_return_5d": 0.108888314,
+    "fwd_return_21d": 0.1420234613,
+    "fwd_return_63d": 0.2290625891,
+    "event_date": "2023-04-25",
+    "fwd_return_1d_bench": -0.0042356094,
+    "fwd_return_5d_bench": 0.0117217791,
+    "fwd_return_21d_bench": 0.012337425,
+    "fwd_return_63d_bench": 0.1258916413,
+    "alpha_1d": 0.0766704188,
+    "alpha_5d": 0.0971665349,
+    "alpha_21d": 0.1296860363,
+    "alpha_63d": 0.1031709478
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017023035122",
+    "form": "10-K",
+    "filing_date": "2023-07-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630.htm",
+    "lm_sentiment_score": -0.0009966115,
+    "lm_uncertainty_score": 0.0204803668,
+    "lm_pos_words": 303,
+    "lm_neg_words": 323,
+    "lm_unc_words": 411,
+    "total_words": 20068,
+    "fog_index": 18.6375853682,
+    "flesch_reading_ease": 26.2765450601,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        69
+      ],
+      [
+        "benefits",
+        26
+      ],
+      [
+        "growth",
+        25
+      ],
+      [
+        "values",
+        23
+      ],
+      [
+        "effective",
+        20
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        43
+      ],
+      [
+        "expense",
+        38
+      ],
+      [
+        "impairment",
+        22
+      ],
+      [
+        "uncertain",
+        20
+      ],
+      [
+        "charge",
+        17
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        160
+      ],
+      [
+        "may",
+        46
+      ],
+      [
+        "if",
+        27
+      ],
+      [
+        "uncertain",
+        20
+      ],
+      [
+        "risk",
+        19
+      ]
+    ],
+    "sentiment_yoy_change": 0.0070059839,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.975362628,
+    "uncertainty_change": -0.0147022149,
+    "readability_change": -0.6735396661,
+    "sentiment_yoy_change_z": 0.8165774087,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2868963592,
+    "uncertainty_change_z": -1.1906988059,
+    "readability_change_z": -0.3413056831,
+    "composite_signal": 1.3177391285,
+    "fwd_return_1d": 0.023131448,
+    "fwd_return_5d": -0.0122761544,
+    "fwd_return_21d": -0.0213354883,
+    "fwd_return_63d": 0.0322669163,
+    "event_date": "2023-07-27",
+    "fwd_return_1d_bench": 0.0097906163,
+    "fwd_return_5d_bench": -0.008066299,
+    "fwd_return_21d_bench": -0.0276690235,
+    "fwd_return_63d_bench": -0.0739622279,
+    "alpha_1d": 0.0133408317,
+    "alpha_5d": -0.0042098554,
+    "alpha_21d": 0.0063335352,
+    "alpha_63d": 0.1062291441
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017023054855",
+    "form": "10-Q",
+    "filing_date": "2023-10-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/msft-20230930.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": -0.0105263158,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0216747542,
+    "readability_change": 1.8688807489,
+    "sentiment_yoy_change_z": -1.0653889644,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": 1.4672107562,
+    "readability_change_z": 0.4561640506,
+    "composite_signal": -1.4270216093,
+    "fwd_return_1d": 0.0306780435,
+    "fwd_return_5d": 0.0229326804,
+    "fwd_return_21d": 0.1454842373,
+    "fwd_return_63d": 0.2273977021,
+    "event_date": "2023-10-24",
+    "fwd_return_1d_bench": -0.014352191,
+    "fwd_return_5d_bench": -0.0128178332,
+    "fwd_return_21d_bench": 0.0740975123,
+    "fwd_return_63d_bench": 0.1566901,
+    "alpha_1d": 0.0450302345,
+    "alpha_5d": 0.0357505137,
+    "alpha_21d": 0.0713867249,
+    "alpha_63d": 0.0707076021
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017024008814",
+    "form": "10-Q",
+    "filing_date": "2024-01-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/msft-20231231.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": -0.0105263158,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0216747542,
+    "readability_change": 1.8688807489,
+    "sentiment_yoy_change_z": -1.0653889644,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": 1.4672107562,
+    "readability_change_z": 0.4561640506,
+    "composite_signal": -1.4270216093,
+    "fwd_return_1d": -0.0269464347,
+    "fwd_return_5d": -0.0075871626,
+    "fwd_return_21d": 0.0142316214,
+    "fwd_return_63d": -0.0453757186,
+    "event_date": "2024-01-30",
+    "fwd_return_1d_bench": -0.0163173886,
+    "fwd_return_5d_bench": 0.0062946193,
+    "fwd_return_21d_bench": 0.0350178268,
+    "fwd_return_63d_bench": 0.0257688281,
+    "alpha_1d": -0.0106290461,
+    "alpha_5d": -0.0138817819,
+    "alpha_21d": -0.0207862053,
+    "alpha_63d": -0.0711445466
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017024048288",
+    "form": "10-Q",
+    "filing_date": "2024-04-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/msft-20240331.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.018243771,
+    "fwd_return_5d": -0.0030072569,
+    "fwd_return_21d": 0.0799315251,
+    "fwd_return_63d": 0.0676550314,
+    "event_date": "2024-04-25",
+    "fwd_return_1d_bench": 0.0094740165,
+    "fwd_return_5d_bench": 0.0030586383,
+    "fwd_return_21d_bench": 0.0515402684,
+    "fwd_return_63d_bench": 0.0848209573,
+    "alpha_1d": 0.0087697545,
+    "alpha_5d": -0.0060658952,
+    "alpha_21d": 0.0283912566,
+    "alpha_63d": -0.0171659258
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017024087843",
+    "form": "10-K",
+    "filing_date": "2024-07-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm",
+    "lm_sentiment_score": 0.0003871467,
+    "lm_uncertainty_score": 0.0206155633,
+    "lm_pos_words": 317,
+    "lm_neg_words": 309,
+    "lm_unc_words": 426,
+    "total_words": 20664,
+    "fog_index": 18.8826169916,
+    "flesch_reading_ease": 24.7850103063,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        77
+      ],
+      [
+        "growth",
+        30
+      ],
+      [
+        "benefits",
+        28
+      ],
+      [
+        "values",
+        27
+      ],
+      [
+        "effective",
+        25
+      ]
+    ],
+    "top_negative": [
+      [
+        "expense",
+        39
+      ],
+      [
+        "expenses",
+        34
+      ],
+      [
+        "impairment",
+        21
+      ],
+      [
+        "uncertain",
+        21
+      ],
+      [
+        "charge",
+        16
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        159
+      ],
+      [
+        "may",
+        47
+      ],
+      [
+        "if",
+        29
+      ],
+      [
+        "uncertain",
+        21
+      ],
+      [
+        "risk",
+        19
+      ]
+    ],
+    "sentiment_yoy_change": 0.0013837582,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0001351965,
+    "readability_change": 0.2450316234,
+    "sentiment_yoy_change_z": 0.2130718852,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1065926087,
+    "readability_change_z": -0.0531815014,
+    "composite_signal": 0.2537832739,
+    "fwd_return_1d": -0.0108058447,
+    "fwd_return_5d": -0.0551168954,
+    "fwd_return_21d": -0.0273808215,
+    "fwd_return_63d": 0.0104958142,
+    "event_date": "2024-07-30",
+    "fwd_return_1d_bench": 0.0162546153,
+    "fwd_return_5d_bench": -0.036623635,
+    "fwd_return_21d_bench": 0.0300738913,
+    "fwd_return_63d_bench": 0.0749289289,
+    "alpha_1d": -0.02706046,
+    "alpha_5d": -0.0184932605,
+    "alpha_21d": -0.0574547128,
+    "alpha_63d": -0.0644331147
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017024118967",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/msft-20240930.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0605273755,
+    "fwd_return_5d": -0.0285528354,
+    "fwd_return_21d": -0.0190099476,
+    "fwd_return_63d": -0.0480600289,
+    "event_date": "2024-10-30",
+    "fwd_return_1d_bench": -0.0196032989,
+    "fwd_return_5d_bench": 0.0190166111,
+    "fwd_return_21d_bench": 0.0388613295,
+    "fwd_return_63d_bench": 0.0340887856,
+    "alpha_1d": -0.0409240765,
+    "alpha_5d": -0.0475694465,
+    "alpha_21d": -0.057871277,
+    "alpha_63d": -0.0821488146
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017025010491",
+    "form": "10-Q",
+    "filing_date": "2025-01-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/msft-20241231.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0618089909,
+    "fwd_return_5d": -0.0656523093,
+    "fwd_return_21d": -0.1007029992,
+    "fwd_return_63d": -0.1046219232,
+    "event_date": "2025-01-29",
+    "fwd_return_1d_bench": 0.0053671865,
+    "fwd_return_5d_bench": 0.0040047072,
+    "fwd_return_21d_bench": -0.0126781343,
+    "fwd_return_63d_bench": -0.0757743995,
+    "alpha_1d": -0.0671761774,
+    "alpha_5d": -0.0696570165,
+    "alpha_21d": -0.088024865,
+    "alpha_63d": -0.0288475237
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017025061046",
+    "form": "10-Q",
+    "filing_date": "2025-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/msft-20250331.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0762535378,
+    "fwd_return_5d": 0.096366904,
+    "fwd_return_21d": 0.1668398606,
+    "fwd_return_63d": 0.3522223348,
+    "event_date": "2025-04-30",
+    "fwd_return_1d_bench": 0.0070868689,
+    "fwd_return_5d_bench": 0.0119200476,
+    "fwd_return_21d_bench": 0.0628450517,
+    "fwd_return_63d_bench": 0.1431973872,
+    "alpha_1d": 0.069166669,
+    "alpha_5d": 0.0844468564,
+    "alpha_21d": 0.1039948089,
+    "alpha_63d": 0.2090249477
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000095017025100235",
+    "form": "10-K",
+    "filing_date": "2025-07-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm",
+    "lm_sentiment_score": 0.0005901604,
+    "lm_uncertainty_score": 0.0213530769,
+    "lm_pos_words": 288,
+    "lm_neg_words": 277,
+    "lm_unc_words": 398,
+    "total_words": 18639,
+    "fog_index": 18.8134322482,
+    "flesch_reading_ease": 25.2064192823,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        62
+      ],
+      [
+        "growth",
+        33
+      ],
+      [
+        "benefits",
+        24
+      ],
+      [
+        "values",
+        23
+      ],
+      [
+        "effective",
+        22
+      ]
+    ],
+    "top_negative": [
+      [
+        "expense",
+        41
+      ],
+      [
+        "expenses",
+        38
+      ],
+      [
+        "impairment",
+        21
+      ],
+      [
+        "uncertain",
+        17
+      ],
+      [
+        "disclosures",
+        17
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        161
+      ],
+      [
+        "may",
+        47
+      ],
+      [
+        "if",
+        30
+      ],
+      [
+        "risk",
+        19
+      ],
+      [
+        "uncertain",
+        17
+      ]
+    ],
+    "sentiment_yoy_change": 0.0002030137,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0007375136,
+    "readability_change": -0.0691847434,
+    "sentiment_yoy_change_z": 0.0863274488,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.0625838741,
+    "readability_change_z": -0.1517403554,
+    "composite_signal": 0.2176861154,
+    "fwd_return_1d": 0.0394746574,
+    "fwd_return_5d": 0.0227963812,
+    "fwd_return_21d": -0.0053817963,
+    "fwd_return_63d": 0.0579088066,
+    "event_date": "2025-07-30",
+    "fwd_return_1d_bench": -0.0037512611,
+    "fwd_return_5d_bench": -0.0026478746,
+    "fwd_return_21d_bench": 0.0227909997,
+    "fwd_return_63d_bench": 0.0859073506,
+    "alpha_1d": 0.0432259184,
+    "alpha_5d": 0.0254442558,
+    "alpha_21d": -0.028172796,
+    "alpha_63d": -0.027998544
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000119312525256321",
+    "form": "10-Q",
+    "filing_date": "2025-10-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0291570204,
+    "fwd_return_5d": -0.06350293,
+    "fwd_return_21d": -0.0897777636,
+    "fwd_return_63d": -0.2039602056,
+    "event_date": "2025-10-29",
+    "fwd_return_1d_bench": -0.0109980976,
+    "fwd_return_5d_bench": -0.0142714294,
+    "fwd_return_21d_bench": -0.0058191571,
+    "fwd_return_63d_bench": 0.0096374473,
+    "alpha_1d": -0.0181589228,
+    "alpha_5d": -0.0492315006,
+    "alpha_21d": -0.0839586065,
+    "alpha_63d": -0.2135976529
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000119312526027207",
+    "form": "10-Q",
+    "filing_date": "2026-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/msft-20251231.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0999315049,
+    "fwd_return_5d": -0.1400245365,
+    "fwd_return_21d": -0.1826995939,
+    "fwd_return_63d": -0.1166896278,
+    "event_date": "2026-01-28",
+    "fwd_return_1d_bench": -0.0019843772,
+    "fwd_return_5d_bench": -0.0132724744,
+    "fwd_return_21d_bench": -0.0135601164,
+    "fwd_return_63d_bench": 0.0260323107,
+    "alpha_1d": -0.0979471278,
+    "alpha_5d": -0.1267520621,
+    "alpha_21d": -0.1691394774,
+    "alpha_63d": -0.1427219384
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "000119312526191507",
+    "form": "10-Q",
+    "filing_date": "2026-04-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+    "lm_sentiment_score": -0.0105263158,
+    "lm_uncertainty_score": 0.0736842105,
+    "lm_pos_words": 1,
+    "lm_neg_words": 3,
+    "lm_unc_words": 14,
+    "total_words": 190,
+    "fog_index": 26.1252910053,
+    "flesch_reading_ease": 2.848952381,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "opportunity",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        2
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "appear",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0392969198,
+    "fwd_return_5d": -0.0247372852,
+    "fwd_return_21d": 0.063033459,
+    "fwd_return_63d": null,
+    "event_date": "2026-04-29",
+    "fwd_return_1d_bench": 0.0099496335,
+    "fwd_return_5d_bench": 0.0312684218,
+    "fwd_return_21d_bench": 0.0630989935,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": -0.0492465534,
+    "alpha_5d": -0.056005707,
+    "alpha_21d": -6.55346e-05,
+    "alpha_63d": null
+  }
+]

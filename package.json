@@ -1,0 +1,16 @@
+{
+  "name": "sec-filing-nlp-alpha",
+  "author": "arnav agarwal",
+  "version": "1.0.0",
+  "description": "SEC Filing NLP Alpha Engine - Textual Analysis & Portfolio Backtest Platform",
+  "scripts": {
+    "setup": "pip install -r backend/requirements.txt && cd frontend && npm install",
+    "test": "python -m unittest discover -s backend/tests -p \"test_*.py\"",
+    "pipeline": "powershell -Command \"$env:PYTHONPATH='.'; python backend/run_pipeline.py\"",
+    "pipeline-fast": "powershell -Command \"$env:PYTHONPATH='.'; python backend/run_pipeline.py --skip-finbert\"",
+    "dev": "cd frontend && npm run dev",
+    "start": "npm run pipeline-fast && cd frontend && npm run build && npm run start"
+  },
+  "keywords": [],
+  "license": "ISC"
+}

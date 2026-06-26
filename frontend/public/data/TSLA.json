@@ -1,0 +1,2142 @@
+[
+  {
+    "ticker": "TSLA",
+    "accession": "000095017021000524",
+    "form": "10-Q",
+    "filing_date": "2021-07-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017021000524/tsla-20210630.htm",
+    "lm_sentiment_score": -0.0114165444,
+    "lm_uncertainty_score": 0.05287327,
+    "lm_pos_words": 226,
+    "lm_neg_words": 405,
+    "lm_unc_words": 829,
+    "total_words": 15679,
+    "fog_index": 22.1517631998,
+    "flesch_reading_ease": 15.5118423955,
+    "risk_word_count": 13076,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "grow",
+        14
+      ],
+      [
+        "values",
+        14
+      ],
+      [
+        "growth",
+        12
+      ],
+      [
+        "respect",
+        12
+      ],
+      [
+        "value",
+        11
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        24
+      ],
+      [
+        "unable",
+        18
+      ],
+      [
+        "delays",
+        16
+      ],
+      [
+        "harmed",
+        15
+      ],
+      [
+        "claims",
+        15
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        317
+      ],
+      [
+        "may",
+        238
+      ],
+      [
+        "if",
+        60
+      ],
+      [
+        "could",
+        56
+      ],
+      [
+        "risks",
+        22
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0034120354,
+    "fwd_return_5d": 0.1007475524,
+    "fwd_return_21d": 0.1030118774,
+    "fwd_return_63d": 0.5894723585,
+    "event_date": "2021-07-27",
+    "fwd_return_1d_bench": -0.0004098144,
+    "fwd_return_5d_bench": 0.00487456,
+    "fwd_return_21d_bench": 0.0225507993,
+    "fwd_return_63d_bench": 0.040999959,
+    "alpha_1d": 0.0038218498,
+    "alpha_5d": 0.0958729924,
+    "alpha_21d": 0.0804610781,
+    "alpha_63d": 0.5484723994
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000095017021002253",
+    "form": "10-Q",
+    "filing_date": "2021-10-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017021002253/tsla-20210930.htm",
+    "lm_sentiment_score": -0.0114687619,
+    "lm_uncertainty_score": 0.05297174,
+    "lm_pos_words": 229,
+    "lm_neg_words": 410,
+    "lm_unc_words": 836,
+    "total_words": 15782,
+    "fog_index": 22.3005748606,
+    "flesch_reading_ease": 14.8736277992,
+    "risk_word_count": 13198,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "grow",
+        14
+      ],
+      [
+        "values",
+        14
+      ],
+      [
+        "growth",
+        12
+      ],
+      [
+        "respect",
+        12
+      ],
+      [
+        "value",
+        11
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        25
+      ],
+      [
+        "unable",
+        19
+      ],
+      [
+        "delays",
+        16
+      ],
+      [
+        "harmed",
+        15
+      ],
+      [
+        "claims",
+        15
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        319
+      ],
+      [
+        "may",
+        243
+      ],
+      [
+        "if",
+        61
+      ],
+      [
+        "could",
+        56
+      ],
+      [
+        "risks",
+        22
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0062740504,
+    "fwd_return_5d": 0.1792733097,
+    "fwd_return_21d": 0.082128305,
+    "fwd_return_63d": -0.1038775959,
+    "event_date": "2021-10-25",
+    "fwd_return_1d_bench": 0.0009002341,
+    "fwd_return_5d_bench": 0.0098563484,
+    "fwd_return_21d_bench": 0.0277469285,
+    "fwd_return_63d_bench": -0.0429230886,
+    "alpha_1d": -0.0071742845,
+    "alpha_5d": 0.1694169613,
+    "alpha_21d": 0.0543813765,
+    "alpha_63d": -0.0609545074
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000095017022000796",
+    "form": "10-K",
+    "filing_date": "2022-02-07",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/tsla-20211231.htm",
+    "lm_sentiment_score": -0.0095729013,
+    "lm_uncertainty_score": 0.0437684094,
+    "lm_pos_words": 294,
+    "lm_neg_words": 502,
+    "lm_unc_words": 951,
+    "total_words": 21728,
+    "fog_index": 21.6635980498,
+    "flesch_reading_ease": 16.6140087866,
+    "risk_word_count": 13373,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        38
+      ],
+      [
+        "values",
+        20
+      ],
+      [
+        "growth",
+        17
+      ],
+      [
+        "grow",
+        16
+      ],
+      [
+        "respect",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "expense",
+        33
+      ],
+      [
+        "expenses",
+        30
+      ],
+      [
+        "harm",
+        27
+      ],
+      [
+        "claims",
+        19
+      ],
+      [
+        "unable",
+        19
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        375
+      ],
+      [
+        "may",
+        261
+      ],
+      [
+        "if",
+        67
+      ],
+      [
+        "could",
+        63
+      ],
+      [
+        "risks",
+        23
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0161571905,
+    "fwd_return_5d": -0.0348049537,
+    "fwd_return_21d": -0.0533096374,
+    "fwd_return_63d": -0.1325081943,
+    "event_date": "2022-02-07",
+    "fwd_return_1d_bench": 0.0082278113,
+    "fwd_return_5d_bench": -0.0184233619,
+    "fwd_return_21d_bench": -0.044381131,
+    "fwd_return_63d_bench": -0.1069915693,
+    "alpha_1d": 0.0079293792,
+    "alpha_5d": -0.0163815918,
+    "alpha_21d": -0.0089285065,
+    "alpha_63d": -0.025516625
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000095017022006034",
+    "form": "10-Q",
+    "filing_date": "2022-04-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022006034/tsla-20220331.htm",
+    "lm_sentiment_score": -0.0137961171,
+    "lm_uncertainty_score": 0.0542480804,
+    "lm_pos_words": 217,
+    "lm_neg_words": 438,
+    "lm_unc_words": 869,
+    "total_words": 16019,
+    "fog_index": 22.4347266488,
+    "flesch_reading_ease": 13.9146504894,
+    "risk_word_count": 13594,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        15
+      ],
+      [
+        "grow",
+        15
+      ],
+      [
+        "values",
+        14
+      ],
+      [
+        "able",
+        13
+      ],
+      [
+        "respect",
+        12
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        27
+      ],
+      [
+        "unable",
+        20
+      ],
+      [
+        "delays",
+        17
+      ],
+      [
+        "harmed",
+        16
+      ],
+      [
+        "claims",
+        16
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        339
+      ],
+      [
+        "may",
+        248
+      ],
+      [
+        "could",
+        62
+      ],
+      [
+        "if",
+        59
+      ],
+      [
+        "risks",
+        25
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.1218412188,
+    "fwd_return_5d": -0.0952686166,
+    "fwd_return_21d": -0.370593769,
+    "fwd_return_63d": -0.2218793803,
+    "event_date": "2022-04-25",
+    "fwd_return_1d_bench": -0.0289607262,
+    "fwd_return_5d_bench": -0.0327412632,
+    "fwd_return_21d_bench": -0.080791502,
+    "fwd_return_63d_bench": -0.0838518936,
+    "alpha_1d": -0.0928804926,
+    "alpha_5d": -0.0625273533,
+    "alpha_21d": -0.2898022671,
+    "alpha_63d": -0.1380274867
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000095017022012936",
+    "form": "10-Q",
+    "filing_date": "2022-07-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022012936/tsla-20220630.htm",
+    "lm_sentiment_score": -0.0136710137,
+    "lm_uncertainty_score": 0.0546840547,
+    "lm_pos_words": 219,
+    "lm_neg_words": 436,
+    "lm_unc_words": 868,
+    "total_words": 15873,
+    "fog_index": 22.4344866069,
+    "flesch_reading_ease": 13.7847368407,
+    "risk_word_count": 13460,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "grow",
+        15
+      ],
+      [
+        "growth",
+        14
+      ],
+      [
+        "values",
+        14
+      ],
+      [
+        "respect",
+        13
+      ],
+      [
+        "able",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        27
+      ],
+      [
+        "unable",
+        20
+      ],
+      [
+        "delays",
+        17
+      ],
+      [
+        "harmed",
+        16
+      ],
+      [
+        "claims",
+        16
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        341
+      ],
+      [
+        "may",
+        247
+      ],
+      [
+        "could",
+        62
+      ],
+      [
+        "if",
+        59
+      ],
+      [
+        "risks",
+        25
+      ]
+    ],
+    "sentiment_yoy_change": -0.0022544693,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0293667788,
+    "uncertainty_change": 0.0018107847,
+    "readability_change": 0.2827234071,
+    "sentiment_yoy_change_z": -0.1774656901,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1301387558,
+    "uncertainty_change_z": 0.0158354553,
+    "readability_change_z": -0.0413588868,
+    "composite_signal": -0.0109017513,
+    "fwd_return_1d": -0.0356637312,
+    "fwd_return_5d": 0.1074507195,
+    "fwd_return_21d": 0.1043835379,
+    "fwd_return_63d": -0.2011423799,
+    "event_date": "2022-07-25",
+    "fwd_return_1d_bench": -0.0118309119,
+    "fwd_return_5d_bench": 0.038425437,
+    "fwd_return_21d_bench": 0.0424198327,
+    "fwd_return_63d_bench": -0.0499088261,
+    "alpha_1d": -0.0238328193,
+    "alpha_5d": 0.0690252825,
+    "alpha_21d": 0.0619637052,
+    "alpha_63d": -0.1512335538
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000095017022019867",
+    "form": "10-Q",
+    "filing_date": "2022-10-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022019867/tsla-20220930.htm",
+    "lm_sentiment_score": -0.0135661349,
+    "lm_uncertainty_score": 0.0545785705,
+    "lm_pos_words": 219,
+    "lm_neg_words": 435,
+    "lm_unc_words": 869,
+    "total_words": 15922,
+    "fog_index": 22.4989796445,
+    "flesch_reading_ease": 13.6087519848,
+    "risk_word_count": 13426,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "grow",
+        15
+      ],
+      [
+        "growth",
+        14
+      ],
+      [
+        "values",
+        14
+      ],
+      [
+        "respect",
+        13
+      ],
+      [
+        "able",
+        13
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        27
+      ],
+      [
+        "unable",
+        20
+      ],
+      [
+        "delays",
+        17
+      ],
+      [
+        "harmed",
+        16
+      ],
+      [
+        "claims",
+        16
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        340
+      ],
+      [
+        "may",
+        247
+      ],
+      [
+        "could",
+        63
+      ],
+      [
+        "if",
+        59
+      ],
+      [
+        "risks",
+        25
+      ]
+    ],
+    "sentiment_yoy_change": -0.002097373,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0172753447,
+    "uncertainty_change": 0.0016068305,
+    "readability_change": 0.1984047839,
+    "sentiment_yoy_change_z": -0.1606025313,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.132025258,
+    "uncertainty_change_z": 0.0009333941,
+    "readability_change_z": -0.0678067354,
+    "composite_signal": 0.019148034,
+    "fwd_return_1d": 0.052875731,
+    "fwd_return_5d": 0.0771123943,
+    "fwd_return_21d": -0.1956922904,
+    "fwd_return_63d": -0.316307727,
+    "event_date": "2022-10-24",
+    "fwd_return_1d_bench": 0.0159684064,
+    "fwd_return_5d_bench": 0.0193731978,
+    "fwd_return_21d_bench": 0.0555069939,
+    "fwd_return_63d_bench": 0.0615471495,
+    "alpha_1d": 0.0369073245,
+    "alpha_5d": 0.0577391964,
+    "alpha_21d": -0.2511992842,
+    "alpha_63d": -0.3778548764
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000095017023001409",
+    "form": "10-K",
+    "filing_date": "2023-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017023001409/tsla-20221231.htm",
+    "lm_sentiment_score": -0.0105061613,
+    "lm_uncertainty_score": 0.0444793559,
+    "lm_pos_words": 267,
+    "lm_neg_words": 481,
+    "lm_unc_words": 906,
+    "total_words": 20369,
+    "fog_index": 21.3364618024,
+    "flesch_reading_ease": 17.1803773017,
+    "risk_word_count": 12580,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        28
+      ],
+      [
+        "growth",
+        21
+      ],
+      [
+        "grow",
+        17
+      ],
+      [
+        "values",
+        15
+      ],
+      [
+        "respect",
+        14
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        33
+      ],
+      [
+        "expense",
+        29
+      ],
+      [
+        "harm",
+        28
+      ],
+      [
+        "unable",
+        21
+      ],
+      [
+        "claims",
+        19
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        366
+      ],
+      [
+        "may",
+        247
+      ],
+      [
+        "if",
+        62
+      ],
+      [
+        "could",
+        60
+      ],
+      [
+        "risks",
+        23
+      ]
+    ],
+    "sentiment_yoy_change": -0.00093326,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0592985867,
+    "uncertainty_change": 0.0007109465,
+    "readability_change": -0.3271362474,
+    "sentiment_yoy_change_z": -0.0356433669,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1439723016,
+    "uncertainty_change_z": -0.0645250184,
+    "readability_change_z": -0.2326508594,
+    "composite_signal": 0.2027524063,
+    "fwd_return_1d": 0.0472809282,
+    "fwd_return_5d": 0.1361851759,
+    "fwd_return_21d": 0.1020666929,
+    "fwd_return_63d": -0.0745295207,
+    "event_date": "2023-01-31",
+    "fwd_return_1d_bench": 0.0106279661,
+    "fwd_return_5d_bench": 0.0214278081,
+    "fwd_return_21d_bench": -0.0213295035,
+    "fwd_return_63d_bench": 0.0145837833,
+    "alpha_1d": 0.0366529621,
+    "alpha_5d": 0.1147573678,
+    "alpha_21d": 0.1233961965,
+    "alpha_63d": -0.089113304
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000095017023013890",
+    "form": "10-Q",
+    "filing_date": "2023-04-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017023013890/tsla-20230331.htm",
+    "lm_sentiment_score": 0.0218253968,
+    "lm_uncertainty_score": 0.0119047619,
+    "lm_pos_words": 44,
+    "lm_neg_words": 11,
+    "lm_unc_words": 18,
+    "total_words": 1512,
+    "fog_index": 21.1353661101,
+    "flesch_reading_ease": 14.2867333978,
+    "risk_word_count": 0,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "improving",
+        5
+      ],
+      [
+        "efficiency",
+        5
+      ],
+      [
+        "growth",
+        5
+      ],
+      [
+        "efficiencies",
+        3
+      ],
+      [
+        "growing",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "unfavorable",
+        1
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "uncertainty",
+        1
+      ],
+      [
+        "charging",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        4
+      ],
+      [
+        "uncertainties",
+        3
+      ],
+      [
+        "depending",
+        3
+      ],
+      [
+        "vary",
+        2
+      ],
+      [
+        "depend",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0356215139,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0745917316,
+    "uncertainty_change": -0.0423433185,
+    "readability_change": -1.2993605387,
+    "sentiment_yoy_change_z": 3.8882489026,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1463583338,
+    "uncertainty_change_z": -3.2103160358,
+    "readability_change_z": -0.5376041402,
+    "composite_signal": 3.8912637062,
+    "fwd_return_1d": -0.0115657019,
+    "fwd_return_5d": -0.0044294138,
+    "fwd_return_21d": 0.1428483592,
+    "fwd_return_63d": 0.6319901187,
+    "event_date": "2023-04-24",
+    "fwd_return_1d_bench": -0.01587368,
+    "fwd_return_5d_bench": 0.006979833,
+    "fwd_return_21d_bench": 0.0035381521,
+    "fwd_return_63d_bench": 0.1078491452,
+    "alpha_1d": 0.0043079781,
+    "alpha_5d": -0.0114092467,
+    "alpha_21d": 0.1393102071,
+    "alpha_63d": 0.5241409735
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000095017023033872",
+    "form": "10-Q",
+    "filing_date": "2023-07-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017023033872/tsla-20230630.htm",
+    "lm_sentiment_score": 0.0173378076,
+    "lm_uncertainty_score": 0.0156599553,
+    "lm_pos_words": 49,
+    "lm_neg_words": 18,
+    "lm_unc_words": 28,
+    "total_words": 1788,
+    "fog_index": 20.9112660583,
+    "flesch_reading_ease": 15.7487671233,
+    "risk_word_count": 190,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        6
+      ],
+      [
+        "improving",
+        5
+      ],
+      [
+        "efficiency",
+        5
+      ],
+      [
+        "efficiencies",
+        3
+      ],
+      [
+        "growing",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "charging",
+        2
+      ],
+      [
+        "unfavorable",
+        1
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "uncertainty",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        5
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "may",
+        4
+      ],
+      [
+        "depending",
+        3
+      ],
+      [
+        "vary",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": 0.0310088213,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.985884101,
+    "uncertainty_change": -0.0390240994,
+    "readability_change": -1.5232205486,
+    "sentiment_yoy_change_z": 3.3931095021,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2885379165,
+    "uncertainty_change_z": -2.9677948912,
+    "readability_change_z": -0.6078213165,
+    "composite_signal": 3.6286318131,
+    "fwd_return_1d": -0.0140489066,
+    "fwd_return_5d": -0.0060581465,
+    "fwd_return_21d": -0.1333159721,
+    "fwd_return_63d": -0.2121087957,
+    "event_date": "2023-07-24",
+    "fwd_return_1d_bench": 0.0027301364,
+    "fwd_return_5d_bench": 0.0079040467,
+    "fwd_return_21d_bench": -0.0353367352,
+    "fwd_return_63d_bench": -0.0694063205,
+    "alpha_1d": -0.016779043,
+    "alpha_5d": -0.0139621932,
+    "alpha_21d": -0.0979792369,
+    "alpha_63d": -0.1427024752
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828023034847",
+    "form": "10-Q",
+    "filing_date": "2023-10-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828023034847/tsla-20230930.htm",
+    "lm_sentiment_score": 0.0124223602,
+    "lm_uncertainty_score": 0.0170807453,
+    "lm_pos_words": 44,
+    "lm_neg_words": 20,
+    "lm_unc_words": 33,
+    "total_words": 1932,
+    "fog_index": 20.8326176091,
+    "flesch_reading_ease": 15.7555325141,
+    "risk_word_count": 267,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        6
+      ],
+      [
+        "efficiency",
+        5
+      ],
+      [
+        "improving",
+        4
+      ],
+      [
+        "efficiencies",
+        3
+      ],
+      [
+        "enable",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "unfavorable",
+        2
+      ],
+      [
+        "charging",
+        2
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "decline",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        8
+      ],
+      [
+        "may",
+        5
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "depending",
+        3
+      ],
+      [
+        "could",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": 0.0259884951,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.9801132132,
+    "uncertainty_change": -0.0374978252,
+    "readability_change": -1.6663620354,
+    "sentiment_yoy_change_z": 2.8542135641,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2876375442,
+    "uncertainty_change_z": -2.8562765626,
+    "readability_change_z": -0.6527198717,
+    "composite_signal": 3.3254237713,
+    "fwd_return_1d": 0.0209355074,
+    "fwd_return_5d": -0.0694077758,
+    "fwd_return_21d": 0.1373066525,
+    "fwd_return_63d": -0.0200396075,
+    "event_date": "2023-10-23",
+    "fwd_return_1d_bench": 0.0075395428,
+    "fwd_return_5d_bench": -0.0115823588,
+    "fwd_return_21d_bench": 0.0780336829,
+    "fwd_return_63d_bench": 0.1591068163,
+    "alpha_1d": 0.0133959645,
+    "alpha_5d": -0.057825417,
+    "alpha_21d": 0.0592729696,
+    "alpha_63d": -0.1791464238
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828024002390",
+    "form": "10-K",
+    "filing_date": "2024-01-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828024002390/tsla-20231231.htm",
+    "lm_sentiment_score": -0.0096746757,
+    "lm_uncertainty_score": 0.0476823304,
+    "lm_pos_words": 267,
+    "lm_neg_words": 449,
+    "lm_unc_words": 897,
+    "total_words": 18812,
+    "fog_index": 21.4641955816,
+    "flesch_reading_ease": 15.9547293399,
+    "risk_word_count": 12056,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        21
+      ],
+      [
+        "growth",
+        18
+      ],
+      [
+        "grow",
+        15
+      ],
+      [
+        "respect",
+        14
+      ],
+      [
+        "able",
+        11
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        28
+      ],
+      [
+        "expenses",
+        24
+      ],
+      [
+        "unable",
+        22
+      ],
+      [
+        "claims",
+        19
+      ],
+      [
+        "expense",
+        19
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        366
+      ],
+      [
+        "may",
+        240
+      ],
+      [
+        "could",
+        63
+      ],
+      [
+        "if",
+        59
+      ],
+      [
+        "risks",
+        22
+      ]
+    ],
+    "sentiment_yoy_change": 0.0008314856,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0416534181,
+    "uncertainty_change": 0.0032029745,
+    "readability_change": 0.1277337792,
+    "sentiment_yoy_change_z": 0.1537893906,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1412193073,
+    "uncertainty_change_z": 0.1175568101,
+    "readability_change_z": -0.0899737959,
+    "composite_signal": 0.1337128418,
+    "fwd_return_1d": 0.0034567836,
+    "fwd_return_5d": -0.0516943146,
+    "fwd_return_21d": 0.0581888705,
+    "fwd_return_63d": 0.0163411224,
+    "event_date": "2024-01-29",
+    "fwd_return_1d_bench": -0.0007734281,
+    "fwd_return_5d_bench": 0.0026054404,
+    "fwd_return_21d_bench": 0.0305127823,
+    "fwd_return_63d_bench": 0.0414736269,
+    "alpha_1d": 0.0042302117,
+    "alpha_5d": -0.054299755,
+    "alpha_21d": 0.0276760881,
+    "alpha_63d": -0.0251325046
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828024017503",
+    "form": "10-Q",
+    "filing_date": "2024-04-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828024017503/tsla-20240331.htm",
+    "lm_sentiment_score": 0.0091930541,
+    "lm_uncertainty_score": 0.017875383,
+    "lm_pos_words": 42,
+    "lm_neg_words": 24,
+    "lm_unc_words": 35,
+    "total_words": 1958,
+    "fog_index": 21.7189041096,
+    "flesch_reading_ease": 14.3951808219,
+    "risk_word_count": 257,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        8
+      ],
+      [
+        "improving",
+        3
+      ],
+      [
+        "efficiency",
+        3
+      ],
+      [
+        "efficiencies",
+        2
+      ],
+      [
+        "enable",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "charging",
+        4
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "unfavorable",
+        2
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "decline",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        6
+      ],
+      [
+        "or",
+        6
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "depending",
+        3
+      ],
+      [
+        "approximately",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": -0.0126323427,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.9795707472,
+    "uncertainty_change": 0.0059706211,
+    "readability_change": 0.5835379995,
+    "sentiment_yoy_change_z": -1.2914558167,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2875529088,
+    "uncertainty_change_z": 0.319776911,
+    "readability_change_z": 0.052996292,
+    "composite_signal": -0.6883380555,
+    "fwd_return_1d": 0.0496514374,
+    "fwd_return_5d": 0.1101585152,
+    "fwd_return_21d": 0.0716092041,
+    "fwd_return_63d": 0.3584777238,
+    "event_date": "2024-04-24",
+    "fwd_return_1d_bench": -0.0037988984,
+    "fwd_return_5d_bench": -0.0100116245,
+    "fwd_return_21d_bench": 0.0406601558,
+    "fwd_return_63d_bench": 0.0687302829,
+    "alpha_1d": 0.0534503358,
+    "alpha_5d": 0.1201701397,
+    "alpha_21d": 0.0309490483,
+    "alpha_63d": 0.2897474409
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828024032662",
+    "form": "10-Q",
+    "filing_date": "2024-07-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828024032662/tsla-20240630.htm",
+    "lm_sentiment_score": 0.0077332044,
+    "lm_uncertainty_score": 0.0193330111,
+    "lm_pos_words": 42,
+    "lm_neg_words": 26,
+    "lm_unc_words": 40,
+    "total_words": 2069,
+    "fog_index": 21.002151132,
+    "flesch_reading_ease": 16.6109272438,
+    "risk_word_count": 318,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        8
+      ],
+      [
+        "improving",
+        3
+      ],
+      [
+        "efficiency",
+        3
+      ],
+      [
+        "efficiencies",
+        2
+      ],
+      [
+        "enable",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "charging",
+        4
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "tariffs",
+        2
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "decline",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        9
+      ],
+      [
+        "or",
+        8
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "depending",
+        3
+      ],
+      [
+        "approximately",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": -0.0096046032,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.6736842105,
+    "uncertainty_change": 0.0036730558,
+    "readability_change": 0.0908850737,
+    "sentiment_yoy_change_z": -0.9664497409,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0296125289,
+    "uncertainty_change_z": 0.1519036403,
+    "readability_change_z": -0.1015319659,
+    "composite_signal": -0.4936044432,
+    "fwd_return_1d": 0.0197231094,
+    "fwd_return_5d": 0.0744478977,
+    "fwd_return_21d": -0.0246770762,
+    "fwd_return_63d": 0.0091670711,
+    "event_date": "2024-07-24",
+    "fwd_return_1d_bench": -0.0052105399,
+    "fwd_return_5d_bench": 0.0177005514,
+    "fwd_return_21d_bench": 0.0276962316,
+    "fwd_return_63d_bench": 0.0810732124,
+    "alpha_1d": 0.0249336493,
+    "alpha_5d": 0.0567473463,
+    "alpha_21d": -0.0523733078,
+    "alpha_63d": -0.0719061413
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828024043486",
+    "form": "10-Q",
+    "filing_date": "2024-10-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828024043486/tsla-20240930.htm",
+    "lm_sentiment_score": 0.0077767612,
+    "lm_uncertainty_score": 0.0182982617,
+    "lm_pos_words": 42,
+    "lm_neg_words": 25,
+    "lm_unc_words": 40,
+    "total_words": 2186,
+    "fog_index": 21.0983782987,
+    "flesch_reading_ease": 17.2367416704,
+    "risk_word_count": 463,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        8
+      ],
+      [
+        "improving",
+        3
+      ],
+      [
+        "efficiency",
+        3
+      ],
+      [
+        "efficiencies",
+        2
+      ],
+      [
+        "enable",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "charging",
+        4
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "tariffs",
+        2
+      ],
+      [
+        "constraints",
+        1
+      ],
+      [
+        "decline",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        9
+      ],
+      [
+        "or",
+        8
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "depending",
+        3
+      ],
+      [
+        "approximately",
+        2
+      ]
+    ],
+    "sentiment_yoy_change": -0.004645599,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.734082397,
+    "uncertainty_change": 0.0012175164,
+    "readability_change": 0.2657606896,
+    "sentiment_yoy_change_z": -0.434136279,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0201892205,
+    "uncertainty_change_z": -0.0275121223,
+    "readability_change_z": -0.0466795072,
+    "composite_signal": -0.1698777145,
+    "fwd_return_1d": 0.0334382336,
+    "fwd_return_5d": -0.0408092922,
+    "fwd_return_21d": 0.353501162,
+    "fwd_return_63d": 0.5282938404,
+    "event_date": "2024-10-24",
+    "fwd_return_1d_bench": -0.0003455124,
+    "fwd_return_5d_bench": -0.0182998963,
+    "fwd_return_21d_bench": 0.0280884456,
+    "fwd_return_63d_bench": 0.0471559321,
+    "alpha_1d": 0.033783746,
+    "alpha_5d": -0.0225093959,
+    "alpha_21d": 0.3254127165,
+    "alpha_63d": 0.4811379083
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828025003063",
+    "form": "10-K",
+    "filing_date": "2025-01-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm",
+    "lm_sentiment_score": -0.010708007,
+    "lm_uncertainty_score": 0.0486388578,
+    "lm_pos_words": 260,
+    "lm_neg_words": 461,
+    "lm_unc_words": 913,
+    "total_words": 18771,
+    "fog_index": 21.9210995758,
+    "flesch_reading_ease": 14.5602787626,
+    "risk_word_count": 12122,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        25
+      ],
+      [
+        "growth",
+        20
+      ],
+      [
+        "grow",
+        14
+      ],
+      [
+        "respect",
+        13
+      ],
+      [
+        "able",
+        11
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        29
+      ],
+      [
+        "expenses",
+        24
+      ],
+      [
+        "unable",
+        22
+      ],
+      [
+        "expense",
+        20
+      ],
+      [
+        "claims",
+        19
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        373
+      ],
+      [
+        "may",
+        244
+      ],
+      [
+        "could",
+        63
+      ],
+      [
+        "if",
+        59
+      ],
+      [
+        "risks",
+        24
+      ]
+    ],
+    "sentiment_yoy_change": -0.0010333313,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0054744526,
+    "uncertainty_change": 0.0009565274,
+    "readability_change": 0.4569039942,
+    "sentiment_yoy_change_z": -0.0463853017,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1338664299,
+    "uncertainty_change_z": -0.0465814723,
+    "readability_change_z": 0.0132755653,
+    "composite_signal": 0.0603935176,
+    "fwd_return_1d": 0.0107924636,
+    "fwd_return_5d": -0.0648545806,
+    "fwd_return_21d": -0.2888728021,
+    "fwd_return_63d": -0.2991905919,
+    "event_date": "2025-01-30",
+    "fwd_return_1d_bench": -0.005321809,
+    "fwd_return_5d_bench": 0.0021157133,
+    "fwd_return_21d_bench": -0.0351545979,
+    "fwd_return_63d_bench": -0.07419351,
+    "alpha_1d": 0.0161142726,
+    "alpha_5d": -0.0669702939,
+    "alpha_21d": -0.2537182042,
+    "alpha_63d": -0.2249970819
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828025018911",
+    "form": "10-Q",
+    "filing_date": "2025-04-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-20250331.htm",
+    "lm_sentiment_score": -0.0003558719,
+    "lm_uncertainty_score": 0.0270462633,
+    "lm_pos_words": 60,
+    "lm_neg_words": 61,
+    "lm_unc_words": 76,
+    "total_words": 2810,
+    "fog_index": 22.4473283793,
+    "flesch_reading_ease": 10.1209056529,
+    "risk_word_count": 728,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        11
+      ],
+      [
+        "opportunities",
+        4
+      ],
+      [
+        "improving",
+        3
+      ],
+      [
+        "strong",
+        3
+      ],
+      [
+        "efficiencies",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "tariffs",
+        13
+      ],
+      [
+        "charging",
+        5
+      ],
+      [
+        "uncertainties",
+        5
+      ],
+      [
+        "uncertainty",
+        4
+      ],
+      [
+        "tariff",
+        3
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        16
+      ],
+      [
+        "or",
+        16
+      ],
+      [
+        "could",
+        6
+      ],
+      [
+        "uncertainties",
+        5
+      ],
+      [
+        "uncertainty",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.009548926,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 1.8326848249,
+    "uncertainty_change": 0.0091708803,
+    "readability_change": 0.7284242697,
+    "sentiment_yoy_change_z": -0.9604731936,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 0.1512144255,
+    "uncertainty_change_z": 0.5536061645,
+    "readability_change_z": 0.0984421257,
+    "composite_signal": -0.8818679547,
+    "fwd_return_1d": 0.0349764859,
+    "fwd_return_5d": 0.1253090751,
+    "fwd_return_21d": 0.3601340076,
+    "fwd_return_63d": 0.2175958407,
+    "event_date": "2025-04-23",
+    "fwd_return_1d_bench": 0.021049031,
+    "fwd_return_5d_bench": 0.0357104214,
+    "fwd_return_21d_bench": 0.0890331227,
+    "fwd_return_63d_bench": 0.1884044736,
+    "alpha_1d": 0.0139274549,
+    "alpha_5d": 0.0895986536,
+    "alpha_21d": 0.2711008849,
+    "alpha_63d": 0.0291913672
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828025035806",
+    "form": "10-Q",
+    "filing_date": "2025-07-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630.htm",
+    "lm_sentiment_score": 0.0082737871,
+    "lm_uncertainty_score": 0.0263256863,
+    "lm_pos_words": 62,
+    "lm_neg_words": 40,
+    "lm_unc_words": 70,
+    "total_words": 2659,
+    "fog_index": 22.2700097974,
+    "flesch_reading_ease": 11.0474860289,
+    "risk_word_count": 537,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        13
+      ],
+      [
+        "opportunities",
+        4
+      ],
+      [
+        "improving",
+        3
+      ],
+      [
+        "respect",
+        3
+      ],
+      [
+        "profitability",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "charging",
+        6
+      ],
+      [
+        "tariffs",
+        6
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "adversely",
+        3
+      ],
+      [
+        "expenses",
+        3
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        21
+      ],
+      [
+        "or",
+        15
+      ],
+      [
+        "could",
+        7
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "risk",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": 0.0005405827,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.6886792453,
+    "uncertainty_change": 0.0069926752,
+    "readability_change": 1.2678586654,
+    "sentiment_yoy_change_z": 0.1225630549,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0272730077,
+    "uncertainty_change_z": 0.3944540332,
+    "readability_change_z": 0.2676441197,
+    "composite_signal": -0.2561310451,
+    "fwd_return_1d": 0.0352440557,
+    "fwd_return_5d": 0.0097281406,
+    "fwd_return_21d": 0.1136915275,
+    "fwd_return_63d": 0.4378317025,
+    "event_date": "2025-07-24",
+    "fwd_return_1d_bench": 0.0042243382,
+    "fwd_return_5d_bench": -0.0036883682,
+    "fwd_return_21d_bench": 0.0171652403,
+    "fwd_return_63d_bench": 0.0555332964,
+    "alpha_1d": 0.0310197175,
+    "alpha_5d": 0.0134165088,
+    "alpha_21d": 0.0965262872,
+    "alpha_63d": 0.3822984061
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828025045968",
+    "form": "10-Q",
+    "filing_date": "2025-10-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930.htm",
+    "lm_sentiment_score": 0.010373444,
+    "lm_uncertainty_score": 0.0219917012,
+    "lm_pos_words": 59,
+    "lm_neg_words": 34,
+    "lm_unc_words": 53,
+    "total_words": 2410,
+    "fog_index": 21.5663554285,
+    "flesch_reading_ease": 12.9865674652,
+    "risk_word_count": 255,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        12
+      ],
+      [
+        "opportunities",
+        4
+      ],
+      [
+        "improving",
+        3
+      ],
+      [
+        "enabled",
+        3
+      ],
+      [
+        "profitability",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "tariffs",
+        6
+      ],
+      [
+        "charging",
+        5
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "uncertainty",
+        2
+      ],
+      [
+        "adversely",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        10
+      ],
+      [
+        "or",
+        10
+      ],
+      [
+        "could",
+        5
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "risk",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": 0.0025966828,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.4492440605,
+    "uncertainty_change": 0.0036934395,
+    "readability_change": 0.4679771298,
+    "sentiment_yoy_change_z": 0.343270624,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2048114862,
+    "uncertainty_change_z": 0.1533929901,
+    "readability_change_z": 0.0167488266,
+    "composite_signal": 0.1889701468,
+    "fwd_return_1d": -0.0339881718,
+    "fwd_return_5d": -0.0197781742,
+    "fwd_return_21d": -0.1289367304,
+    "fwd_return_63d": -0.0306917868,
+    "event_date": "2025-10-23",
+    "fwd_return_1d_bench": 0.0081725547,
+    "fwd_return_5d_bench": 0.0120131763,
+    "fwd_return_21d_bench": -0.0189502606,
+    "fwd_return_63d_bench": 0.0342636433,
+    "alpha_1d": -0.0421607265,
+    "alpha_5d": -0.0317913505,
+    "alpha_21d": -0.1099864698,
+    "alpha_63d": -0.0649554301
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828026003952",
+    "form": "10-K",
+    "filing_date": "2026-01-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm",
+    "lm_sentiment_score": -0.009033335,
+    "lm_uncertainty_score": 0.0482596102,
+    "lm_pos_words": 328,
+    "lm_neg_words": 512,
+    "lm_unc_words": 983,
+    "total_words": 20369,
+    "fog_index": 22.14070783,
+    "flesch_reading_ease": 13.4751396202,
+    "risk_word_count": 12654,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        36
+      ],
+      [
+        "growth",
+        29
+      ],
+      [
+        "respect",
+        13
+      ],
+      [
+        "grow",
+        13
+      ],
+      [
+        "able",
+        11
+      ]
+    ],
+    "top_negative": [
+      [
+        "expense",
+        29
+      ],
+      [
+        "harm",
+        28
+      ],
+      [
+        "unable",
+        24
+      ],
+      [
+        "expenses",
+        22
+      ],
+      [
+        "tariffs",
+        19
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        401
+      ],
+      [
+        "may",
+        249
+      ],
+      [
+        "could",
+        72
+      ],
+      [
+        "if",
+        67
+      ],
+      [
+        "risks",
+        23
+      ]
+    ],
+    "sentiment_yoy_change": 0.001674672,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0438871473,
+    "uncertainty_change": -0.0003792476,
+    "readability_change": 0.2196082542,
+    "sentiment_yoy_change_z": 0.2442993909,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.127873292,
+    "uncertainty_change_z": -0.144180839,
+    "readability_change_z": -0.0611559369,
+    "composite_signal": 0.2887547294,
+    "fwd_return_1d": 0.0332485265,
+    "fwd_return_5d": -0.0464519066,
+    "fwd_return_21d": -0.0317841135,
+    "fwd_return_63d": -0.0838534494,
+    "event_date": "2026-01-29",
+    "fwd_return_1d_bench": -0.0029824841,
+    "fwd_return_5d_bench": -0.0236585651,
+    "fwd_return_21d_bench": -0.0110368268,
+    "fwd_return_63d_bench": 0.0383013376,
+    "alpha_1d": 0.0362310106,
+    "alpha_5d": -0.0227933415,
+    "alpha_21d": -0.0207472867,
+    "alpha_63d": -0.122154787
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "000162828026026673",
+    "form": "10-Q",
+    "filing_date": "2026-04-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026026673/tsla-20260331.htm",
+    "lm_sentiment_score": 0.0096723869,
+    "lm_uncertainty_score": 0.0159126365,
+    "lm_pos_words": 68,
+    "lm_neg_words": 37,
+    "lm_unc_words": 51,
+    "total_words": 3205,
+    "fog_index": 21.6259703599,
+    "flesch_reading_ease": 15.8125558692,
+    "risk_word_count": 1009,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        13
+      ],
+      [
+        "opportunities",
+        5
+      ],
+      [
+        "enabled",
+        4
+      ],
+      [
+        "efficiency",
+        3
+      ],
+      [
+        "respect",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "tariffs",
+        6
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "charging",
+        3
+      ],
+      [
+        "foregoing",
+        3
+      ],
+      [
+        "conflicts",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        12
+      ],
+      [
+        "may",
+        11
+      ],
+      [
+        "could",
+        5
+      ],
+      [
+        "uncertainties",
+        4
+      ],
+      [
+        "believe",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0100282588,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.385989011,
+    "uncertainty_change": -0.0111336268,
+    "readability_change": -0.8213580194,
+    "sentiment_yoy_change_z": 1.140996899,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0744986541,
+    "uncertainty_change_z": -0.9299573349,
+    "readability_change_z": -0.3876712103,
+    "composite_signal": 1.2665620491,
+    "fwd_return_1d": 0.0069035282,
+    "fwd_return_5d": 0.0211655882,
+    "fwd_return_21d": 0.1399176078,
+    "fwd_return_63d": null,
+    "event_date": "2026-04-23",
+    "fwd_return_1d_bench": 0.0077493092,
+    "fwd_return_5d_bench": 0.014411675,
+    "fwd_return_21d_bench": 0.0524948609,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": -0.000845781,
+    "alpha_5d": 0.0067539132,
+    "alpha_21d": 0.0874227469,
+    "alpha_63d": null
+  }
+]

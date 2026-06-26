@@ -1,0 +1,1250 @@
+[
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204423000070",
+    "form": "10-Q",
+    "filing_date": "2023-07-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000070/goog-20230630.htm",
+    "lm_sentiment_score": 0.0027932961,
+    "lm_uncertainty_score": 0.0209497207,
+    "lm_pos_words": 6,
+    "lm_neg_words": 4,
+    "lm_unc_words": 15,
+    "total_words": 716,
+    "fog_index": 23.8065279584,
+    "flesch_reading_ease": 20.7208637841,
+    "risk_word_count": 567,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        3
+      ],
+      [
+        "collaboration",
+        1
+      ],
+      [
+        "respect",
+        1
+      ],
+      [
+        "opportunities",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "unregistered",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        6
+      ],
+      [
+        "may",
+        4
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        1
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0010057903,
+    "fwd_return_5d": -0.006884888,
+    "fwd_return_21d": 0.0039453987,
+    "fwd_return_63d": 0.073798997,
+    "event_date": "2023-07-26",
+    "fwd_return_1d_bench": -0.0066301173,
+    "fwd_return_5d_bench": -0.0118109831,
+    "fwd_return_21d_bench": -0.0408774481,
+    "fwd_return_63d_bench": -0.0667071586,
+    "alpha_1d": 0.0076359076,
+    "alpha_5d": 0.0049260951,
+    "alpha_21d": 0.0448228468,
+    "alpha_63d": 0.1405061555
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204423000094",
+    "form": "10-Q",
+    "filing_date": "2023-10-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/goog-20230930.htm",
+    "lm_sentiment_score": 0.0015060241,
+    "lm_uncertainty_score": 0.0135542169,
+    "lm_pos_words": 6,
+    "lm_neg_words": 5,
+    "lm_unc_words": 9,
+    "total_words": 664,
+    "fog_index": 22.807446505,
+    "flesch_reading_ease": 19.0757977889,
+    "risk_word_count": 496,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        2
+      ],
+      [
+        "collaboration",
+        1
+      ],
+      [
+        "respect",
+        1
+      ],
+      [
+        "opportunities",
+        1
+      ],
+      [
+        "profits",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "unregistered",
+        1
+      ],
+      [
+        "disclosure",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        4
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        1
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "could",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0265106578,
+    "fwd_return_5d": 0.0066873792,
+    "fwd_return_21d": 0.0882094567,
+    "fwd_return_63d": 0.2116072996,
+    "event_date": "2023-10-25",
+    "fwd_return_1d_bench": -0.0119744644,
+    "fwd_return_5d_bench": 0.0122382235,
+    "fwd_return_21d_bench": 0.0904084236,
+    "fwd_return_63d_bench": 0.1720421906,
+    "alpha_1d": -0.0145361934,
+    "alpha_5d": -0.0055508443,
+    "alpha_21d": -0.0021989669,
+    "alpha_63d": 0.039565109
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204424000022",
+    "form": "10-K",
+    "filing_date": "2024-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/goog-20231231.htm",
+    "lm_sentiment_score": -0.0127096965,
+    "lm_uncertainty_score": 0.032662843,
+    "lm_pos_words": 479,
+    "lm_neg_words": 951,
+    "lm_unc_words": 1213,
+    "total_words": 37137,
+    "fog_index": 19.624269036,
+    "flesch_reading_ease": 22.5836444793,
+    "risk_word_count": 12874,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        117
+      ],
+      [
+        "gains",
+        44
+      ],
+      [
+        "effective",
+        37
+      ],
+      [
+        "growth",
+        29
+      ],
+      [
+        "benefits",
+        16
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        66
+      ],
+      [
+        "harm",
+        65
+      ],
+      [
+        "affect",
+        53
+      ],
+      [
+        "effect",
+        52
+      ],
+      [
+        "claims",
+        41
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        444
+      ],
+      [
+        "may",
+        244
+      ],
+      [
+        "could",
+        146
+      ],
+      [
+        "if",
+        50
+      ],
+      [
+        "risk",
+        42
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0075658485,
+    "fwd_return_5d": 0.0388292537,
+    "fwd_return_21d": -0.0211280296,
+    "fwd_return_63d": 0.1695928621,
+    "event_date": "2024-01-31",
+    "fwd_return_1d_bench": 0.0130882454,
+    "fwd_return_5d_bench": 0.0315193175,
+    "fwd_return_21d_bench": 0.0620651759,
+    "fwd_return_63d_bench": 0.0393982679,
+    "alpha_1d": -0.005522397,
+    "alpha_5d": 0.0073099363,
+    "alpha_21d": -0.0831932055,
+    "alpha_63d": 0.1301945941
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204424000053",
+    "form": "10-Q",
+    "filing_date": "2024-04-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000053/goog-20240331.htm",
+    "lm_sentiment_score": -0.0105042017,
+    "lm_uncertainty_score": 0.0525210084,
+    "lm_pos_words": 9,
+    "lm_neg_words": 19,
+    "lm_unc_words": 50,
+    "total_words": 952,
+    "fog_index": 23.2763649963,
+    "flesch_reading_ease": 17.5444175393,
+    "risk_word_count": 738,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        2
+      ],
+      [
+        "value",
+        2
+      ],
+      [
+        "collaboration",
+        1
+      ],
+      [
+        "able",
+        1
+      ],
+      [
+        "superior",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "affect",
+        5
+      ],
+      [
+        "harm",
+        4
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "not value",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        16
+      ],
+      [
+        "could",
+        9
+      ],
+      [
+        "may",
+        9
+      ],
+      [
+        "risk",
+        3
+      ],
+      [
+        "risks",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0337308312,
+    "fwd_return_5d": -0.0273916348,
+    "fwd_return_21d": 0.0258795313,
+    "fwd_return_63d": -0.0129424962,
+    "event_date": "2024-04-26",
+    "fwd_return_1d_bench": 0.0035414888,
+    "fwd_return_5d_bench": 0.0059615133,
+    "fwd_return_21d_bench": 0.0423996363,
+    "fwd_return_63d_bench": 0.075271297,
+    "alpha_1d": -0.03727232,
+    "alpha_5d": -0.0333531481,
+    "alpha_21d": -0.016520105,
+    "alpha_63d": -0.0882137932
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204424000079",
+    "form": "10-Q",
+    "filing_date": "2024-07-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/goog-20240630.htm",
+    "lm_sentiment_score": -0.0129659643,
+    "lm_uncertainty_score": 0.0356564019,
+    "lm_pos_words": 7,
+    "lm_neg_words": 15,
+    "lm_unc_words": 22,
+    "total_words": 617,
+    "fog_index": 24.9316967236,
+    "flesch_reading_ease": 10.8944150694,
+    "risk_word_count": 391,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        2
+      ],
+      [
+        "collaboration",
+        1
+      ],
+      [
+        "able",
+        1
+      ],
+      [
+        "superior",
+        1
+      ],
+      [
+        "value",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "affect",
+        4
+      ],
+      [
+        "harm",
+        3
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "adversely",
+        1
+      ],
+      [
+        "not value",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        7
+      ],
+      [
+        "could",
+        5
+      ],
+      [
+        "risk",
+        3
+      ],
+      [
+        "may",
+        3
+      ],
+      [
+        "risks",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": -0.0157592604,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.3104056437,
+    "uncertainty_change": 0.0147066812,
+    "readability_change": 1.1251687652,
+    "sentiment_yoy_change_z": -1.6271079596,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.183149955,
+    "uncertainty_change_z": 0.9580834618,
+    "readability_change_z": 0.2228872116,
+    "composite_signal": -1.312464339,
+    "fwd_return_1d": -0.0309910714,
+    "fwd_return_5d": -0.0063140253,
+    "fwd_return_21d": -0.0511496885,
+    "fwd_return_63d": -0.0421179967,
+    "event_date": "2024-07-24",
+    "fwd_return_1d_bench": -0.0052105399,
+    "fwd_return_5d_bench": 0.0177005514,
+    "fwd_return_21d_bench": 0.0276962316,
+    "fwd_return_63d_bench": 0.0810732124,
+    "alpha_1d": -0.0257805314,
+    "alpha_5d": -0.0240145767,
+    "alpha_21d": -0.0788459201,
+    "alpha_63d": -0.123191209
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204424000118",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/goog-20240930.htm",
+    "lm_sentiment_score": -0.0343270099,
+    "lm_uncertainty_score": 0.0424570912,
+    "lm_pos_words": 5,
+    "lm_neg_words": 43,
+    "lm_unc_words": 47,
+    "total_words": 1107,
+    "fog_index": 25.4496263079,
+    "flesch_reading_ease": 7.8776494768,
+    "risk_word_count": 883,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        1
+      ],
+      [
+        "collaboration",
+        1
+      ],
+      [
+        "succeed",
+        1
+      ],
+      [
+        "able",
+        1
+      ],
+      [
+        "successful",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        6
+      ],
+      [
+        "claims",
+        6
+      ],
+      [
+        "antitrust",
+        4
+      ],
+      [
+        "violated",
+        3
+      ],
+      [
+        "inquiries",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        16
+      ],
+      [
+        "could",
+        9
+      ],
+      [
+        "may",
+        8
+      ],
+      [
+        "alterations",
+        4
+      ],
+      [
+        "risk",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": -0.035833034,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.7802419355,
+    "uncertainty_change": 0.0289028743,
+    "readability_change": 2.6421798029,
+    "sentiment_yoy_change_z": -3.781883291,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0129874222,
+    "uncertainty_change_z": 1.9953385801,
+    "readability_change_z": 0.6987213346,
+    "composite_signal": -3.2314778918,
+    "fwd_return_1d": -0.0192019526,
+    "fwd_return_5d": 0.0117505708,
+    "fwd_return_21d": -0.0315830148,
+    "fwd_return_63d": 0.1547669303,
+    "event_date": "2024-10-30",
+    "fwd_return_1d_bench": -0.0196032989,
+    "fwd_return_5d_bench": 0.0190166111,
+    "fwd_return_21d_bench": 0.0388613295,
+    "fwd_return_63d_bench": 0.0340887856,
+    "alpha_1d": 0.0004013463,
+    "alpha_5d": -0.0072660403,
+    "alpha_21d": -0.0704443443,
+    "alpha_63d": 0.1206781447
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204425000014",
+    "form": "10-K",
+    "filing_date": "2025-02-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm",
+    "lm_sentiment_score": -0.013305852,
+    "lm_uncertainty_score": 0.0330298208,
+    "lm_pos_words": 462,
+    "lm_neg_words": 972,
+    "lm_unc_words": 1266,
+    "total_words": 38329,
+    "fog_index": 19.7540025427,
+    "flesch_reading_ease": 22.1096281833,
+    "risk_word_count": 13744,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        115
+      ],
+      [
+        "gains",
+        47
+      ],
+      [
+        "effective",
+        32
+      ],
+      [
+        "growth",
+        23
+      ],
+      [
+        "gain",
+        14
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        68
+      ],
+      [
+        "expenses",
+        66
+      ],
+      [
+        "affect",
+        52
+      ],
+      [
+        "effect",
+        49
+      ],
+      [
+        "claims",
+        40
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        465
+      ],
+      [
+        "may",
+        252
+      ],
+      [
+        "could",
+        154
+      ],
+      [
+        "if",
+        53
+      ],
+      [
+        "risk",
+        43
+      ]
+    ],
+    "sentiment_yoy_change": -0.0005961555,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0675780643,
+    "uncertainty_change": 0.0003669778,
+    "readability_change": 0.1297335067,
+    "sentiment_yoy_change_z": 0.0005423785,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1241770417,
+    "uncertainty_change_z": -0.0896573403,
+    "readability_change_z": -0.0893465503,
+    "composite_signal": 0.1518616554,
+    "fwd_return_1d": 0.0014113528,
+    "fwd_return_5d": -0.0403491369,
+    "fwd_return_21d": -0.0913081513,
+    "fwd_return_63d": -0.2078901394,
+    "event_date": "2025-02-05",
+    "fwd_return_1d_bench": 0.0034756295,
+    "fwd_return_5d_bench": -0.0014232121,
+    "fwd_return_21d_bench": -0.0468371596,
+    "fwd_return_63d_bench": -0.0684881289,
+    "alpha_1d": -0.0020642768,
+    "alpha_5d": -0.0389259247,
+    "alpha_21d": -0.0444709916,
+    "alpha_63d": -0.1394020105
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204425000043",
+    "form": "10-Q",
+    "filing_date": "2025-04-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/goog-20250331.htm",
+    "lm_sentiment_score": -0.0019685039,
+    "lm_uncertainty_score": 0.0177165354,
+    "lm_pos_words": 3,
+    "lm_neg_words": 4,
+    "lm_unc_words": 9,
+    "total_words": 508,
+    "fog_index": 22.9450934579,
+    "flesch_reading_ease": 19.350890771,
+    "risk_word_count": 334,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        1
+      ],
+      [
+        "respect",
+        1
+      ],
+      [
+        "opportunities",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "harm",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "unregistered",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        4
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        1
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "could",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0085356978,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.5474254743,
+    "uncertainty_change": -0.034804473,
+    "readability_change": -0.3312715384,
+    "sentiment_yoy_change_z": 0.9807812023,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.2201297232,
+    "uncertainty_change_z": -2.6594848358,
+    "readability_change_z": -0.2339479578,
+    "composite_signal": 2.0471718595,
+    "fwd_return_1d": -0.0083353679,
+    "fwd_return_5d": 0.012780929,
+    "fwd_return_21d": 0.0675475553,
+    "fwd_return_63d": 0.1904985603,
+    "event_date": "2025-04-25",
+    "fwd_return_1d_bench": 0.0003812728,
+    "fwd_return_5d_bench": 0.029275049,
+    "fwd_return_21d_bench": 0.0735690076,
+    "fwd_return_63d_bench": 0.1601463629,
+    "alpha_1d": -0.0087166407,
+    "alpha_5d": -0.0164941199,
+    "alpha_21d": -0.0060214523,
+    "alpha_63d": 0.0303521974
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204425000062",
+    "form": "10-Q",
+    "filing_date": "2025-07-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/goog-20250630.htm",
+    "lm_sentiment_score": 0.0014245014,
+    "lm_uncertainty_score": 0.0185185185,
+    "lm_pos_words": 5,
+    "lm_neg_words": 4,
+    "lm_unc_words": 13,
+    "total_words": 702,
+    "fog_index": 22.653968254,
+    "flesch_reading_ease": 24.1473809524,
+    "risk_word_count": 561,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        3
+      ],
+      [
+        "respect",
+        1
+      ],
+      [
+        "opportunities",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "harm",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "unregistered",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "may",
+        5
+      ],
+      [
+        "or",
+        3
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        1
+      ],
+      [
+        "uncertainties",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0143904657,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.4347826087,
+    "uncertainty_change": -0.0171378834,
+    "readability_change": -2.2777284696,
+    "sentiment_yoy_change_z": 1.6092484598,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0668858905,
+    "uncertainty_change_z": -1.3686626868,
+    "readability_change_z": -0.8444844692,
+    "composite_signal": 1.9446407531,
+    "fwd_return_1d": 0.0052557574,
+    "fwd_return_5d": -0.0014050549,
+    "fwd_return_21d": 0.0724357768,
+    "fwd_return_63d": 0.3108971266,
+    "event_date": "2025-07-24",
+    "fwd_return_1d_bench": 0.0042243382,
+    "fwd_return_5d_bench": -0.0036883682,
+    "fwd_return_21d_bench": 0.0171652403,
+    "fwd_return_63d_bench": 0.0555332964,
+    "alpha_1d": 0.0010314193,
+    "alpha_5d": 0.0022833133,
+    "alpha_21d": 0.0552705365,
+    "alpha_63d": 0.2553638301
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204425000091",
+    "form": "10-Q",
+    "filing_date": "2025-10-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/goog-20250930.htm",
+    "lm_sentiment_score": -0.0014450867,
+    "lm_uncertainty_score": 0.0144508671,
+    "lm_pos_words": 5,
+    "lm_neg_words": 6,
+    "lm_unc_words": 10,
+    "total_words": 692,
+    "fog_index": 22.7883786073,
+    "flesch_reading_ease": 20.7047013224,
+    "risk_word_count": 532,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        2
+      ],
+      [
+        "respect",
+        1
+      ],
+      [
+        "opportunities",
+        1
+      ],
+      [
+        "profits",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "harm",
+        1
+      ],
+      [
+        "affect",
+        1
+      ],
+      [
+        "unregistered",
+        1
+      ],
+      [
+        "excluding",
+        1
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        4
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "risks",
+        1
+      ],
+      [
+        "uncertainties",
+        1
+      ],
+      [
+        "could",
+        1
+      ]
+    ],
+    "sentiment_yoy_change": 0.0328819232,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.3975084938,
+    "uncertainty_change": -0.0280062241,
+    "readability_change": -2.6612477006,
+    "sentiment_yoy_change_z": 3.5941735296,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1967397175,
+    "uncertainty_change_z": -2.1627658621,
+    "readability_change_z": -0.9647812451,
+    "composite_signal": 3.4592301771,
+    "fwd_return_1d": -0.0010303594,
+    "fwd_return_5d": 0.0116170439,
+    "fwd_return_21d": 0.1186940323,
+    "fwd_return_63d": 0.2218089439,
+    "event_date": "2025-10-30",
+    "fwd_return_1d_bench": 0.0032802221,
+    "fwd_return_5d_bench": -0.0140034958,
+    "fwd_return_21d_bench": 0.0006472455,
+    "fwd_return_63d_bench": 0.0259400607,
+    "alpha_1d": -0.0043105815,
+    "alpha_5d": 0.0256205398,
+    "alpha_21d": 0.1180467868,
+    "alpha_63d": 0.1958688832
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204426000018",
+    "form": "10-K",
+    "filing_date": "2026-02-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+    "lm_sentiment_score": -0.0131659604,
+    "lm_uncertainty_score": 0.0331281149,
+    "lm_pos_words": 426,
+    "lm_neg_words": 920,
+    "lm_unc_words": 1243,
+    "total_words": 37521,
+    "fog_index": 20.220927168,
+    "flesch_reading_ease": 20.5027575193,
+    "risk_word_count": 13584,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "value",
+        120
+      ],
+      [
+        "gains",
+        39
+      ],
+      [
+        "effective",
+        33
+      ],
+      [
+        "growth",
+        20
+      ],
+      [
+        "benefits",
+        14
+      ]
+    ],
+    "top_negative": [
+      [
+        "harm",
+        73
+      ],
+      [
+        "expenses",
+        62
+      ],
+      [
+        "claims",
+        41
+      ],
+      [
+        "affect",
+        40
+      ],
+      [
+        "effect",
+        39
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        453
+      ],
+      [
+        "may",
+        245
+      ],
+      [
+        "could",
+        156
+      ],
+      [
+        "if",
+        52
+      ],
+      [
+        "risks",
+        40
+      ]
+    ],
+    "sentiment_yoy_change": 0.0001398916,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0116414435,
+    "uncertainty_change": 9.82941e-05,
+    "readability_change": 0.4669246253,
+    "sentiment_yoy_change_z": 0.079551745,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1365368473,
+    "uncertainty_change_z": -0.1092889092,
+    "readability_change_z": 0.0164186922,
+    "composite_signal": 0.1544794047,
+    "fwd_return_1d": -0.0253283814,
+    "fwd_return_5d": -0.0671697897,
+    "fwd_return_21d": -0.0744886899,
+    "fwd_return_63d": 0.2023249378,
+    "event_date": "2026-02-05",
+    "fwd_return_1d_bench": 0.0191847865,
+    "fwd_return_5d_bench": 0.0053865472,
+    "fwd_return_21d_bench": 0.0009592122,
+    "fwd_return_63d_bench": 0.0825801711,
+    "alpha_1d": -0.0445131679,
+    "alpha_5d": -0.0725563369,
+    "alpha_21d": -0.075447902,
+    "alpha_63d": 0.1197447667
+  },
+  {
+    "ticker": "GOOGL",
+    "accession": "000165204426000048",
+    "form": "10-Q",
+    "filing_date": "2026-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/goog-20260331.htm",
+    "lm_sentiment_score": -0.0060514372,
+    "lm_uncertainty_score": 0.015953789,
+    "lm_pos_words": 60,
+    "lm_neg_words": 104,
+    "lm_unc_words": 116,
+    "total_words": 7271,
+    "fog_index": 19.3202577467,
+    "flesch_reading_ease": 26.2793863502,
+    "risk_word_count": 895,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        12
+      ],
+      [
+        "value",
+        6
+      ],
+      [
+        "effective",
+        5
+      ],
+      [
+        "gains",
+        5
+      ],
+      [
+        "improvements",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        35
+      ],
+      [
+        "expense",
+        9
+      ],
+      [
+        "affected",
+        8
+      ],
+      [
+        "depreciation",
+        8
+      ],
+      [
+        "effect",
+        6
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        35
+      ],
+      [
+        "may",
+        32
+      ],
+      [
+        "fluctuations",
+        9
+      ],
+      [
+        "risks",
+        8
+      ],
+      [
+        "could",
+        7
+      ]
+    ],
+    "sentiment_yoy_change": -0.0040829333,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 1.6796407186,
+    "uncertainty_change": -0.0017627464,
+    "readability_change": -3.6248357112,
+    "sentiment_yoy_change_z": -0.3737381598,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 0.1273365265,
+    "uncertainty_change_z": -0.2452671796,
+    "readability_change_z": -1.267025622,
+    "composite_signal": 0.5056090577,
+    "fwd_return_1d": 0.0023129604,
+    "fwd_return_5d": 0.0342775548,
+    "fwd_return_21d": -0.0219074579,
+    "fwd_return_63d": null,
+    "event_date": "2026-04-30",
+    "fwd_return_1d_bench": 0.0027690953,
+    "fwd_return_5d_bench": 0.0179779601,
+    "fwd_return_21d_bench": 0.0554921724,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": -0.0004561348,
+    "alpha_5d": 0.0162995946,
+    "alpha_21d": -0.0773996303,
+    "alpha_63d": null
+  }
+]

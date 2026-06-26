@@ -1,0 +1,2142 @@
+[
+  {
+    "ticker": "QCOM",
+    "accession": "000172894921000066",
+    "form": "10-Q",
+    "filing_date": "2021-07-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894921000066/qcom-20210627.htm",
+    "lm_sentiment_score": -0.0047254725,
+    "lm_uncertainty_score": 0.0207020702,
+    "lm_pos_words": 32,
+    "lm_neg_words": 53,
+    "lm_unc_words": 92,
+    "total_words": 4444,
+    "fog_index": 19.3657925884,
+    "flesch_reading_ease": 26.1571836852,
+    "risk_word_count": 403,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "benefits",
+        5
+      ],
+      [
+        "gains",
+        5
+      ],
+      [
+        "favorable",
+        4
+      ],
+      [
+        "effective",
+        4
+      ],
+      [
+        "growth",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        16
+      ],
+      [
+        "expense",
+        6
+      ],
+      [
+        "impairment",
+        3
+      ],
+      [
+        "disclosures",
+        2
+      ],
+      [
+        "excludes",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        43
+      ],
+      [
+        "may",
+        15
+      ],
+      [
+        "risk",
+        8
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "approximately",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0600257644,
+    "fwd_return_5d": 0.0405786067,
+    "fwd_return_21d": -0.0004214309,
+    "fwd_return_63d": -0.0694013033,
+    "event_date": "2021-07-28",
+    "fwd_return_1d_bench": 0.0041476693,
+    "fwd_return_5d_bench": 0.0003418258,
+    "fwd_return_21d_bench": 0.0169315357,
+    "fwd_return_63d_bench": 0.0423645175,
+    "alpha_1d": 0.0558780951,
+    "alpha_5d": 0.040236781,
+    "alpha_21d": -0.0173529666,
+    "alpha_63d": -0.1117658208
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000172894921000076",
+    "form": "10-K",
+    "filing_date": "2021-11-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894921000076/qcom-20210926.htm",
+    "lm_sentiment_score": -0.008671065,
+    "lm_uncertainty_score": 0.0513100848,
+    "lm_pos_words": 622,
+    "lm_neg_words": 1082,
+    "lm_unc_words": 2722,
+    "total_words": 53050,
+    "fog_index": 23.4012910987,
+    "flesch_reading_ease": 9.4414593627,
+    "risk_word_count": 30084,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        36
+      ],
+      [
+        "opportunities",
+        31
+      ],
+      [
+        "success",
+        25
+      ],
+      [
+        "benefits",
+        25
+      ],
+      [
+        "innovation",
+        24
+      ]
+    ],
+    "top_negative": [
+      [
+        "adverse",
+        56
+      ],
+      [
+        "adversely",
+        54
+      ],
+      [
+        "effect",
+        33
+      ],
+      [
+        "harm",
+        30
+      ],
+      [
+        "defects",
+        30
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        1360
+      ],
+      [
+        "may",
+        543
+      ],
+      [
+        "could",
+        298
+      ],
+      [
+        "if",
+        114
+      ],
+      [
+        "risks",
+        67
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.1273103915,
+    "fwd_return_5d": 0.1539571105,
+    "fwd_return_21d": 0.2794426471,
+    "fwd_return_63d": 0.2982168078,
+    "event_date": "2021-11-03",
+    "fwd_return_1d_bench": 0.0047125308,
+    "fwd_return_5d_bench": -0.0023671912,
+    "fwd_return_21d_bench": -0.0243157652,
+    "fwd_return_63d_bench": -0.0356151654,
+    "alpha_1d": 0.1225978607,
+    "alpha_5d": 0.1563243017,
+    "alpha_21d": 0.3037584123,
+    "alpha_63d": 0.3338319732
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000172894922000012",
+    "form": "10-Q",
+    "filing_date": "2022-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894922000012/qcom-20211226.htm",
+    "lm_sentiment_score": -0.0002656748,
+    "lm_uncertainty_score": 0.0239107333,
+    "lm_pos_words": 38,
+    "lm_neg_words": 39,
+    "lm_unc_words": 90,
+    "total_words": 3764,
+    "fog_index": 18.9486503856,
+    "flesch_reading_ease": 24.8322598008,
+    "risk_word_count": 423,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "benefits",
+        8
+      ],
+      [
+        "favorable",
+        7
+      ],
+      [
+        "gain",
+        3
+      ],
+      [
+        "effective",
+        3
+      ],
+      [
+        "gains",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        9
+      ],
+      [
+        "expense",
+        3
+      ],
+      [
+        "disclosures",
+        2
+      ],
+      [
+        "excludes",
+        2
+      ],
+      [
+        "unsecured",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        40
+      ],
+      [
+        "may",
+        14
+      ],
+      [
+        "risk",
+        8
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "believe",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": -0.0483527209,
+    "fwd_return_5d": -0.0225823841,
+    "fwd_return_21d": -0.1342355134,
+    "fwd_return_63d": -0.2047195851,
+    "event_date": "2022-02-02",
+    "fwd_return_1d_bench": -0.0235048737,
+    "fwd_return_5d_bench": 0.0004155015,
+    "fwd_return_21d_bench": -0.0550563211,
+    "fwd_return_63d_bench": -0.0589419938,
+    "alpha_1d": -0.0248478472,
+    "alpha_5d": -0.0229978856,
+    "alpha_21d": -0.0791791923,
+    "alpha_63d": -0.1457775913
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000172894922000026",
+    "form": "10-Q",
+    "filing_date": "2022-04-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894922000026/qcom-20220327.htm",
+    "lm_sentiment_score": -0.0014693535,
+    "lm_uncertainty_score": 0.0220403023,
+    "lm_pos_words": 52,
+    "lm_neg_words": 59,
+    "lm_unc_words": 105,
+    "total_words": 4764,
+    "fog_index": 18.8525525881,
+    "flesch_reading_ease": 25.9671873106,
+    "risk_word_count": 447,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "favorable",
+        11
+      ],
+      [
+        "benefits",
+        8
+      ],
+      [
+        "effective",
+        5
+      ],
+      [
+        "growth",
+        3
+      ],
+      [
+        "respect",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        17
+      ],
+      [
+        "expense",
+        4
+      ],
+      [
+        "adversely",
+        3
+      ],
+      [
+        "affected",
+        3
+      ],
+      [
+        "disclosures",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        41
+      ],
+      [
+        "may",
+        18
+      ],
+      [
+        "risk",
+        10
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "approximately",
+        5
+      ]
+    ],
+    "sentiment_yoy_change": 0.0,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.0,
+    "uncertainty_change": 0.0,
+    "readability_change": 0.0,
+    "sentiment_yoy_change_z": 0.0645353871,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1347205525,
+    "uncertainty_change_z": -0.1164708388,
+    "readability_change_z": -0.1300394838,
+    "composite_signal": 0.2228831311,
+    "fwd_return_1d": 0.0968911643,
+    "fwd_return_5d": 0.1032567371,
+    "fwd_return_21d": -0.0019244943,
+    "fwd_return_63d": 0.0897181227,
+    "event_date": "2022-04-27",
+    "fwd_return_1d_bench": 0.0252595649,
+    "fwd_return_5d_bench": 0.0282550125,
+    "fwd_return_21d_bench": -0.0286624436,
+    "fwd_return_63d_bench": -0.0226372988,
+    "alpha_1d": 0.0716315994,
+    "alpha_5d": 0.0750017246,
+    "alpha_21d": 0.0267379493,
+    "alpha_63d": 0.1123554215
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000172894922000040",
+    "form": "10-Q",
+    "filing_date": "2022-07-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894922000040/qcom-20220626.htm",
+    "lm_sentiment_score": -0.0073681787,
+    "lm_uncertainty_score": 0.0214137693,
+    "lm_pos_words": 40,
+    "lm_neg_words": 72,
+    "lm_unc_words": 93,
+    "total_words": 4343,
+    "fog_index": 18.7762668866,
+    "flesch_reading_ease": 27.1896270118,
+    "risk_word_count": 382,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "favorable",
+        8
+      ],
+      [
+        "benefits",
+        4
+      ],
+      [
+        "effective",
+        4
+      ],
+      [
+        "benefit",
+        3
+      ],
+      [
+        "growth",
+        3
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        17
+      ],
+      [
+        "expense",
+        9
+      ],
+      [
+        "fine",
+        6
+      ],
+      [
+        "adversely",
+        3
+      ],
+      [
+        "affected",
+        3
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        39
+      ],
+      [
+        "may",
+        16
+      ],
+      [
+        "risk",
+        8
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "if",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0026427062,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0521091811,
+    "uncertainty_change": 0.0007116991,
+    "readability_change": -0.5895257018,
+    "sentiment_yoy_change_z": -0.2191401311,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1428506125,
+    "uncertainty_change_z": -0.0644700292,
+    "readability_change_z": -0.3149533956,
+    "composite_signal": 0.1515669531,
+    "fwd_return_1d": -0.0454310616,
+    "fwd_return_5d": -0.0277670967,
+    "fwd_return_21d": -0.0467345897,
+    "fwd_return_63d": -0.2188849192,
+    "event_date": "2022-07-27",
+    "fwd_return_1d_bench": 0.012542313,
+    "fwd_return_5d_bench": 0.0334378459,
+    "fwd_return_21d_bench": 0.0460552179,
+    "fwd_return_63d_bench": -0.0362529184,
+    "alpha_1d": -0.0579733746,
+    "alpha_5d": -0.0612049427,
+    "alpha_21d": -0.0927898076,
+    "alpha_63d": -0.1826320008
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432822000021",
+    "form": "10-K",
+    "filing_date": "2022-11-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm",
+    "lm_sentiment_score": -0.0106751516,
+    "lm_uncertainty_score": 0.054486576,
+    "lm_pos_words": 578,
+    "lm_neg_words": 1145,
+    "lm_unc_words": 2894,
+    "total_words": 53114,
+    "fog_index": 23.5939365696,
+    "flesch_reading_ease": 8.5273200876,
+    "risk_word_count": 29707,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        34
+      ],
+      [
+        "leadership",
+        28
+      ],
+      [
+        "opportunities",
+        27
+      ],
+      [
+        "benefits",
+        23
+      ],
+      [
+        "enabling",
+        20
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        56
+      ],
+      [
+        "adverse",
+        54
+      ],
+      [
+        "harm",
+        34
+      ],
+      [
+        "decline",
+        32
+      ],
+      [
+        "effect",
+        31
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        1491
+      ],
+      [
+        "may",
+        576
+      ],
+      [
+        "could",
+        312
+      ],
+      [
+        "if",
+        116
+      ],
+      [
+        "risk",
+        67
+      ]
+    ],
+    "sentiment_yoy_change": -0.0020040866,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0125315782,
+    "uncertainty_change": 0.0031764912,
+    "readability_change": 0.1926454709,
+    "sentiment_yoy_change_z": -0.1505889066,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1366757259,
+    "uncertainty_change_z": 0.1156217886,
+    "readability_change_z": -0.0696132335,
+    "composite_signal": -0.0299608679,
+    "fwd_return_1d": -0.0766223975,
+    "fwd_return_5d": -0.0183999314,
+    "fwd_return_21d": 0.1240995044,
+    "fwd_return_63d": 0.2078300774,
+    "event_date": "2022-11-02",
+    "fwd_return_1d_bench": -0.0102969365,
+    "fwd_return_5d_bench": -0.0019741141,
+    "fwd_return_21d_bench": 0.0854696191,
+    "fwd_return_63d_bench": 0.1050323444,
+    "alpha_1d": -0.066325461,
+    "alpha_5d": -0.0164258173,
+    "alpha_21d": 0.0386298853,
+    "alpha_63d": 0.102797733
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432823000006",
+    "form": "10-Q",
+    "filing_date": "2023-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432823000006/qcom-20221225.htm",
+    "lm_sentiment_score": -0.0060389789,
+    "lm_uncertainty_score": 0.0255284107,
+    "lm_pos_words": 28,
+    "lm_neg_words": 50,
+    "lm_unc_words": 93,
+    "total_words": 3643,
+    "fog_index": 19.1317547887,
+    "flesch_reading_ease": 24.285164308,
+    "risk_word_count": 379,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "benefits",
+        5
+      ],
+      [
+        "effective",
+        5
+      ],
+      [
+        "favorable",
+        3
+      ],
+      [
+        "gains",
+        2
+      ],
+      [
+        "growth",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        6
+      ],
+      [
+        "charges",
+        4
+      ],
+      [
+        "unsecured",
+        4
+      ],
+      [
+        "expense",
+        3
+      ],
+      [
+        "uncertainties",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        43
+      ],
+      [
+        "may",
+        16
+      ],
+      [
+        "risk",
+        8
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "believe",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": -0.0057733041,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.1040189125,
+    "uncertainty_change": 0.0016176774,
+    "readability_change": 0.1831044031,
+    "sentiment_yoy_change_z": -0.555187317,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1509495544,
+    "uncertainty_change_z": 0.0017259307,
+    "readability_change_z": -0.0726059379,
+    "composite_signal": -0.1666788777,
+    "fwd_return_1d": -0.0061097595,
+    "fwd_return_5d": -0.0391608912,
+    "fwd_return_21d": -0.0934285168,
+    "fwd_return_63d": -0.2106659791,
+    "event_date": "2023-02-02",
+    "fwd_return_1d_bench": -0.0106290475,
+    "fwd_return_5d_bench": -0.0232498017,
+    "fwd_return_21d_bench": -0.0295359038,
+    "fwd_return_63d_bench": -0.0242425537,
+    "alpha_1d": 0.004519288,
+    "alpha_5d": -0.0159110895,
+    "alpha_21d": -0.0638926131,
+    "alpha_63d": -0.1864234254
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432823000023",
+    "form": "10-Q",
+    "filing_date": "2023-05-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432823000023/qcom-20230326.htm",
+    "lm_sentiment_score": -0.0070460705,
+    "lm_uncertainty_score": 0.020596206,
+    "lm_pos_words": 21,
+    "lm_neg_words": 47,
+    "lm_unc_words": 76,
+    "total_words": 3690,
+    "fog_index": 20.3001462523,
+    "flesch_reading_ease": 20.01614462,
+    "risk_word_count": 362,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        5
+      ],
+      [
+        "growth",
+        3
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "value",
+        2
+      ],
+      [
+        "enhanced",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        10
+      ],
+      [
+        "expense",
+        5
+      ],
+      [
+        "charges",
+        4
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        37
+      ],
+      [
+        "may",
+        11
+      ],
+      [
+        "risk",
+        6
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "believe",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": -0.005576717,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.1901565996,
+    "uncertainty_change": -0.0014440963,
+    "readability_change": 1.4475936642,
+    "sentiment_yoy_change_z": -0.5340851046,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1643887324,
+    "uncertainty_change_z": -0.2219847796,
+    "readability_change_z": 0.3240207995,
+    "composite_signal": -0.235866196,
+    "fwd_return_1d": -0.0553930337,
+    "fwd_return_5d": -0.0564566548,
+    "fwd_return_21d": 0.0318435928,
+    "fwd_return_63d": 0.0593308155,
+    "event_date": "2023-05-03",
+    "fwd_return_1d_bench": -0.0070829284,
+    "fwd_return_5d_bench": 0.0118377127,
+    "fwd_return_21d_bench": 0.0487721119,
+    "fwd_return_63d_bench": 0.1041303848,
+    "alpha_1d": -0.0483101053,
+    "alpha_5d": -0.0682943675,
+    "alpha_21d": -0.0169285191,
+    "alpha_63d": -0.0447995693
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432823000043",
+    "form": "10-Q",
+    "filing_date": "2023-08-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432823000043/qcom-20230625.htm",
+    "lm_sentiment_score": -0.0074742268,
+    "lm_uncertainty_score": 0.0198453608,
+    "lm_pos_words": 28,
+    "lm_neg_words": 57,
+    "lm_unc_words": 77,
+    "total_words": 3880,
+    "fog_index": 20.693004218,
+    "flesch_reading_ease": 19.192598027,
+    "risk_word_count": 237,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        5
+      ],
+      [
+        "effective",
+        4
+      ],
+      [
+        "value",
+        3
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "favorable",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        16
+      ],
+      [
+        "expense",
+        7
+      ],
+      [
+        "charges",
+        6
+      ],
+      [
+        "uncertainties",
+        2
+      ],
+      [
+        "disclosures",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        35
+      ],
+      [
+        "may",
+        11
+      ],
+      [
+        "risk",
+        6
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "anticipated",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": -0.0001060481,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.3795811518,
+    "uncertainty_change": -0.0015684085,
+    "readability_change": 1.9167373314,
+    "sentiment_yoy_change_z": 0.0531518857,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1939426985,
+    "uncertainty_change_z": -0.2310677404,
+    "readability_change_z": 0.4711750125,
+    "composite_signal": 0.003493656,
+    "fwd_return_1d": -0.0817670409,
+    "fwd_return_5d": -0.0982440647,
+    "fwd_return_21d": -0.1077513943,
+    "fwd_return_63d": -0.1509110385,
+    "event_date": "2023-08-02",
+    "fwd_return_1d_bench": -0.0028657999,
+    "fwd_return_5d_bench": -0.0097304756,
+    "fwd_return_21d_bench": 0.0004887405,
+    "fwd_return_63d_bench": -0.0676578752,
+    "alpha_1d": -0.0789012409,
+    "alpha_5d": -0.088513589,
+    "alpha_21d": -0.1082401348,
+    "alpha_63d": -0.0832531634
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432823000055",
+    "form": "10-K",
+    "filing_date": "2023-11-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432823000055/qcom-20230924.htm",
+    "lm_sentiment_score": -0.0103656942,
+    "lm_uncertainty_score": 0.0548541332,
+    "lm_pos_words": 578,
+    "lm_neg_words": 1133,
+    "lm_unc_words": 2937,
+    "total_words": 53542,
+    "fog_index": 23.6266887986,
+    "flesch_reading_ease": 8.3005615387,
+    "risk_word_count": 29917,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        34
+      ],
+      [
+        "opportunities",
+        27
+      ],
+      [
+        "leadership",
+        26
+      ],
+      [
+        "benefits",
+        25
+      ],
+      [
+        "success",
+        19
+      ]
+    ],
+    "top_negative": [
+      [
+        "adverse",
+        56
+      ],
+      [
+        "adversely",
+        50
+      ],
+      [
+        "harm",
+        36
+      ],
+      [
+        "decline",
+        34
+      ],
+      [
+        "effect",
+        32
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        1532
+      ],
+      [
+        "may",
+        571
+      ],
+      [
+        "could",
+        330
+      ],
+      [
+        "if",
+        116
+      ],
+      [
+        "risk",
+        68
+      ]
+    ],
+    "sentiment_yoy_change": 0.0003094574,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.007069041,
+    "uncertainty_change": 0.0003675572,
+    "readability_change": 0.032752229,
+    "sentiment_yoy_change_z": 0.097753415,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1336176427,
+    "uncertainty_change_z": -0.0896150061,
+    "readability_change_z": -0.1197662374,
+    "composite_signal": 0.2203761506,
+    "fwd_return_1d": 0.0583461867,
+    "fwd_return_5d": 0.0826945284,
+    "fwd_return_21d": 0.1767939566,
+    "fwd_return_63d": 0.2858792962,
+    "event_date": "2023-11-01",
+    "fwd_return_1d_bench": 0.019164189,
+    "fwd_return_5d_bench": 0.0345193792,
+    "fwd_return_21d_bench": 0.0862156989,
+    "fwd_return_63d_bench": 0.1743582275,
+    "alpha_1d": 0.0391819977,
+    "alpha_5d": 0.0481751492,
+    "alpha_21d": 0.0905782577,
+    "alpha_63d": 0.1115210687
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432824000017",
+    "form": "10-Q",
+    "filing_date": "2024-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000017/qcom-20231224.htm",
+    "lm_sentiment_score": -0.0028510335,
+    "lm_uncertainty_score": 0.0295794726,
+    "lm_pos_words": 21,
+    "lm_neg_words": 29,
+    "lm_unc_words": 83,
+    "total_words": 2806,
+    "fog_index": 19.6053767305,
+    "flesch_reading_ease": 21.517911949,
+    "risk_word_count": 322,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        5
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "growth",
+        2
+      ],
+      [
+        "enhanced",
+        1
+      ],
+      [
+        "wins",
+        1
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        4
+      ],
+      [
+        "expense",
+        3
+      ],
+      [
+        "charges",
+        2
+      ],
+      [
+        "disclosures",
+        2
+      ],
+      [
+        "discontinued",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        39
+      ],
+      [
+        "may",
+        13
+      ],
+      [
+        "risk",
+        8
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "anticipated",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0031879454,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.1503957784,
+    "uncertainty_change": 0.0040510619,
+    "readability_change": 0.4736219418,
+    "sentiment_yoy_change_z": 0.4067384149,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1581852601,
+    "uncertainty_change_z": 0.1795229295,
+    "readability_change_z": 0.0185194097,
+    "composite_signal": 0.1834406679,
+    "fwd_return_1d": -0.0498284654,
+    "fwd_return_5d": -0.0176421082,
+    "fwd_return_21d": 0.1037532896,
+    "fwd_return_63d": 0.1106563328,
+    "event_date": "2024-01-31",
+    "fwd_return_1d_bench": 0.0130882454,
+    "fwd_return_5d_bench": 0.0315193175,
+    "fwd_return_21d_bench": 0.0620651759,
+    "fwd_return_63d_bench": 0.0393982679,
+    "alpha_1d": -0.0629167108,
+    "alpha_5d": -0.0491614257,
+    "alpha_21d": 0.0416881137,
+    "alpha_63d": 0.0712580649
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432824000039",
+    "form": "10-Q",
+    "filing_date": "2024-05-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000039/qcom-20240324.htm",
+    "lm_sentiment_score": -0.0041876047,
+    "lm_uncertainty_score": 0.0231714126,
+    "lm_pos_words": 32,
+    "lm_neg_words": 47,
+    "lm_unc_words": 83,
+    "total_words": 3582,
+    "fog_index": 19.6429143933,
+    "flesch_reading_ease": 22.9938698276,
+    "risk_word_count": 472,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        6
+      ],
+      [
+        "gains",
+        3
+      ],
+      [
+        "growth",
+        3
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "opportunities",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        13
+      ],
+      [
+        "expense",
+        8
+      ],
+      [
+        "disclosures",
+        2
+      ],
+      [
+        "discontinued",
+        2
+      ],
+      [
+        "unfavorable",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        39
+      ],
+      [
+        "may",
+        13
+      ],
+      [
+        "risk",
+        8
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "believe",
+        3
+      ]
+    ],
+    "sentiment_yoy_change": 0.0028584658,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 0.3038674033,
+    "uncertainty_change": 0.0025752066,
+    "readability_change": -0.657231859,
+    "sentiment_yoy_change_z": 0.3713711477,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.0873112445,
+    "uncertainty_change_z": 0.0716884944,
+    "readability_change_z": -0.3361904856,
+    "composite_signal": 0.3615921918,
+    "fwd_return_1d": 0.0974346824,
+    "fwd_return_5d": 0.1001765496,
+    "fwd_return_21d": 0.2484686598,
+    "fwd_return_63d": 0.0034249958,
+    "event_date": "2024-05-01",
+    "fwd_return_1d_bench": 0.009353387,
+    "fwd_return_5d_bench": 0.0336562833,
+    "fwd_return_21d_bench": 0.0540023508,
+    "fwd_return_63d_bench": 0.0887611844,
+    "alpha_1d": 0.0880812954,
+    "alpha_5d": 0.0665202663,
+    "alpha_21d": 0.194466309,
+    "alpha_63d": -0.0853361885
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432824000056",
+    "form": "10-Q",
+    "filing_date": "2024-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000056/qcom-20240623.htm",
+    "lm_sentiment_score": -0.00626703,
+    "lm_uncertainty_score": 0.025613079,
+    "lm_pos_words": 27,
+    "lm_neg_words": 50,
+    "lm_unc_words": 94,
+    "total_words": 3670,
+    "fog_index": 19.3437610496,
+    "flesch_reading_ease": 24.9466190102,
+    "risk_word_count": 491,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "effective",
+        4
+      ],
+      [
+        "satisfy",
+        3
+      ],
+      [
+        "benefits",
+        2
+      ],
+      [
+        "growth",
+        2
+      ],
+      [
+        "gains",
+        2
+      ]
+    ],
+    "top_negative": [
+      [
+        "expenses",
+        10
+      ],
+      [
+        "expense",
+        5
+      ],
+      [
+        "disclosures",
+        2
+      ],
+      [
+        "excluded",
+        2
+      ],
+      [
+        "discontinued",
+        2
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        40
+      ],
+      [
+        "may",
+        18
+      ],
+      [
+        "risk",
+        8
+      ],
+      [
+        "risks",
+        5
+      ],
+      [
+        "could",
+        4
+      ]
+    ],
+    "sentiment_yoy_change": 0.0012071968,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 1.0717299578,
+    "uncertainty_change": 0.0057677182,
+    "readability_change": -1.3492431684,
+    "sentiment_yoy_change_z": 0.1941192878,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 0.0324904582,
+    "uncertainty_change_z": 0.3049516638,
+    "readability_change_z": -0.5532506034,
+    "composite_signal": 0.2049638845,
+    "fwd_return_1d": -0.0936722724,
+    "fwd_return_5d": -0.1372201454,
+    "fwd_return_21d": -0.0633323613,
+    "fwd_return_63d": -0.0223292327,
+    "event_date": "2024-07-31",
+    "fwd_return_1d_bench": -0.0141609833,
+    "fwd_return_5d_bench": -0.0583687396,
+    "fwd_return_21d_bench": 0.0136888749,
+    "fwd_return_63d_bench": 0.059447885,
+    "alpha_1d": -0.0795112891,
+    "alpha_5d": -0.0788514059,
+    "alpha_21d": -0.0770212362,
+    "alpha_63d": -0.0817771177
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432824000075",
+    "form": "10-K",
+    "filing_date": "2024-11-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000075/qcom-20240929.htm",
+    "lm_sentiment_score": -0.0109465431,
+    "lm_uncertainty_score": 0.0562859415,
+    "lm_pos_words": 581,
+    "lm_neg_words": 1173,
+    "lm_unc_words": 3044,
+    "total_words": 54081,
+    "fog_index": 23.9691023933,
+    "flesch_reading_ease": 6.9512384064,
+    "risk_word_count": 29504,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        33
+      ],
+      [
+        "leadership",
+        29
+      ],
+      [
+        "opportunities",
+        27
+      ],
+      [
+        "benefits",
+        24
+      ],
+      [
+        "success",
+        20
+      ]
+    ],
+    "top_negative": [
+      [
+        "adverse",
+        55
+      ],
+      [
+        "adversely",
+        50
+      ],
+      [
+        "harm",
+        37
+      ],
+      [
+        "defects",
+        33
+      ],
+      [
+        "decline",
+        31
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        1582
+      ],
+      [
+        "may",
+        582
+      ],
+      [
+        "could",
+        332
+      ],
+      [
+        "if",
+        120
+      ],
+      [
+        "risk",
+        86
+      ]
+    ],
+    "sentiment_yoy_change": -0.0005808489,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0138048601,
+    "uncertainty_change": 0.0014318083,
+    "readability_change": 0.3424135947,
+    "sentiment_yoy_change_z": 0.002185432,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.136874383,
+    "uncertainty_change_z": -0.0118547296,
+    "readability_change_z": -0.0226361305,
+    "composite_signal": 0.0867753375,
+    "fwd_return_1d": -0.0004625272,
+    "fwd_return_5d": -0.0726631894,
+    "fwd_return_21d": -0.0731002597,
+    "fwd_return_63d": -0.0042408548,
+    "event_date": "2024-11-06",
+    "fwd_return_1d_bench": 0.0077318496,
+    "fwd_return_5d_bench": 0.0104052474,
+    "fwd_return_21d_bench": 0.0283735114,
+    "fwd_return_63d_bench": 0.0268098577,
+    "alpha_1d": -0.0081943767,
+    "alpha_5d": -0.0830684367,
+    "alpha_21d": -0.1014737711,
+    "alpha_63d": -0.0310507125
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432825000011",
+    "form": "10-Q",
+    "filing_date": "2025-02-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000011/qcom-20241229.htm",
+    "lm_sentiment_score": -0.0200271703,
+    "lm_uncertainty_score": 0.0683640826,
+    "lm_pos_words": 172,
+    "lm_neg_words": 629,
+    "lm_unc_words": 1560,
+    "total_words": 22819,
+    "fog_index": 24.8090240118,
+    "flesch_reading_ease": 5.8399879778,
+    "risk_word_count": 20177,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        16
+      ],
+      [
+        "effective",
+        13
+      ],
+      [
+        "favorable",
+        10
+      ],
+      [
+        "success",
+        10
+      ],
+      [
+        "effectively",
+        8
+      ]
+    ],
+    "top_negative": [
+      [
+        "adverse",
+        29
+      ],
+      [
+        "adversely",
+        29
+      ],
+      [
+        "harm",
+        21
+      ],
+      [
+        "fail",
+        18
+      ],
+      [
+        "defects",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        804
+      ],
+      [
+        "may",
+        298
+      ],
+      [
+        "could",
+        177
+      ],
+      [
+        "if",
+        63
+      ],
+      [
+        "risks",
+        46
+      ]
+    ],
+    "sentiment_yoy_change": -0.0171761368,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 61.6614906832,
+    "uncertainty_change": 0.03878461,
+    "readability_change": 5.2036472813,
+    "sentiment_yoy_change_z": -1.7791994584,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 9.4856881204,
+    "uncertainty_change_z": 2.7173547474,
+    "readability_change_z": 1.5021654762,
+    "composite_signal": -7.7422039012,
+    "fwd_return_1d": -0.0371886741,
+    "fwd_return_5d": -0.0316730181,
+    "fwd_return_21d": -0.0783047877,
+    "fwd_return_63d": -0.1750365243,
+    "event_date": "2025-02-05",
+    "fwd_return_1d_bench": 0.0034756295,
+    "fwd_return_5d_bench": -0.0014232121,
+    "fwd_return_21d_bench": -0.0468371596,
+    "fwd_return_63d_bench": -0.0684881289,
+    "alpha_1d": -0.0406643036,
+    "alpha_5d": -0.030249806,
+    "alpha_21d": -0.0314676281,
+    "alpha_63d": -0.1065483954
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432825000031",
+    "form": "10-Q",
+    "filing_date": "2025-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000031/qcom-20250330.htm",
+    "lm_sentiment_score": -0.0203709205,
+    "lm_uncertainty_score": 0.0670967194,
+    "lm_pos_words": 175,
+    "lm_neg_words": 655,
+    "lm_unc_words": 1581,
+    "total_words": 23563,
+    "fog_index": 24.7071250495,
+    "flesch_reading_ease": 6.2410912306,
+    "risk_word_count": 20201,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        17
+      ],
+      [
+        "effective",
+        14
+      ],
+      [
+        "success",
+        9
+      ],
+      [
+        "favorable",
+        9
+      ],
+      [
+        "opportunities",
+        8
+      ]
+    ],
+    "top_negative": [
+      [
+        "adverse",
+        31
+      ],
+      [
+        "adversely",
+        29
+      ],
+      [
+        "harm",
+        21
+      ],
+      [
+        "fail",
+        18
+      ],
+      [
+        "defects",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        812
+      ],
+      [
+        "may",
+        302
+      ],
+      [
+        "could",
+        178
+      ],
+      [
+        "if",
+        63
+      ],
+      [
+        "risks",
+        46
+      ]
+    ],
+    "sentiment_yoy_change": -0.0161833158,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 41.7987288136,
+    "uncertainty_change": 0.0439253068,
+    "readability_change": 5.0642106562,
+    "sentiment_yoy_change_z": -1.6726272592,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 6.386705523,
+    "uncertainty_change_z": 3.0929634778,
+    "readability_change_z": 1.4584290085,
+    "composite_signal": -6.3053626342,
+    "fwd_return_1d": -0.0892494749,
+    "fwd_return_5d": -0.0280210335,
+    "fwd_return_21d": -0.0219587907,
+    "fwd_return_63d": -0.0055126079,
+    "event_date": "2025-04-30",
+    "fwd_return_1d_bench": 0.0070868689,
+    "fwd_return_5d_bench": 0.0119200476,
+    "fwd_return_21d_bench": 0.0628450517,
+    "fwd_return_63d_bench": 0.1431973872,
+    "alpha_1d": -0.0963363438,
+    "alpha_5d": -0.0399410811,
+    "alpha_21d": -0.0848038423,
+    "alpha_63d": -0.1487099951
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432825000045",
+    "form": "10-Q",
+    "filing_date": "2025-07-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000045/qcom-20250629.htm",
+    "lm_sentiment_score": -0.0196380279,
+    "lm_uncertainty_score": 0.0660287081,
+    "lm_pos_words": 188,
+    "lm_neg_words": 660,
+    "lm_unc_words": 1587,
+    "total_words": 24035,
+    "fog_index": 24.4643959179,
+    "flesch_reading_ease": 7.1207098916,
+    "risk_word_count": 20236,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        17
+      ],
+      [
+        "effective",
+        16
+      ],
+      [
+        "favorable",
+        12
+      ],
+      [
+        "effectively",
+        9
+      ],
+      [
+        "success",
+        9
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        33
+      ],
+      [
+        "adverse",
+        31
+      ],
+      [
+        "harm",
+        21
+      ],
+      [
+        "effect",
+        19
+      ],
+      [
+        "affect",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        805
+      ],
+      [
+        "may",
+        314
+      ],
+      [
+        "could",
+        178
+      ],
+      [
+        "if",
+        63
+      ],
+      [
+        "risks",
+        46
+      ]
+    ],
+    "sentiment_yoy_change": -0.0133709979,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": 40.2138492872,
+    "uncertainty_change": 0.0404156291,
+    "readability_change": 5.1206348683,
+    "sentiment_yoy_change_z": -1.3707451439,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": 6.1394330589,
+    "uncertainty_change_z": 2.8365263378,
+    "readability_change_z": 1.4761273408,
+    "composite_signal": -5.9114159407,
+    "fwd_return_1d": -0.0773292653,
+    "fwd_return_5d": -0.0831132902,
+    "fwd_return_21d": 0.0109392896,
+    "fwd_return_63d": 0.1446010136,
+    "event_date": "2025-07-30",
+    "fwd_return_1d_bench": -0.0037512611,
+    "fwd_return_5d_bench": -0.0026478746,
+    "fwd_return_21d_bench": 0.0227909997,
+    "fwd_return_63d_bench": 0.0859073506,
+    "alpha_1d": -0.0735780042,
+    "alpha_5d": -0.0804654156,
+    "alpha_21d": -0.0118517101,
+    "alpha_63d": 0.058693663
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432825000085",
+    "form": "10-K",
+    "filing_date": "2025-11-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm",
+    "lm_sentiment_score": -0.0141885399,
+    "lm_uncertainty_score": 0.0602400558,
+    "lm_pos_words": 521,
+    "lm_neg_words": 1274,
+    "lm_unc_words": 3197,
+    "total_words": 53071,
+    "fog_index": 24.4230763529,
+    "flesch_reading_ease": 5.4386046235,
+    "risk_word_count": 28800,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        31
+      ],
+      [
+        "opportunities",
+        29
+      ],
+      [
+        "benefits",
+        24
+      ],
+      [
+        "success",
+        22
+      ],
+      [
+        "leadership",
+        20
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        60
+      ],
+      [
+        "adverse",
+        59
+      ],
+      [
+        "harm",
+        39
+      ],
+      [
+        "defects",
+        37
+      ],
+      [
+        "affect",
+        34
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        1666
+      ],
+      [
+        "may",
+        596
+      ],
+      [
+        "could",
+        358
+      ],
+      [
+        "if",
+        120
+      ],
+      [
+        "risks",
+        101
+      ]
+    ],
+    "sentiment_yoy_change": -0.0032419968,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0238611714,
+    "uncertainty_change": 0.0039541143,
+    "readability_change": 0.4539739596,
+    "sentiment_yoy_change_z": -0.2834696701,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1384433659,
+    "uncertainty_change_z": 0.1724393829,
+    "readability_change_z": 0.0123565143,
+    "composite_signal": -0.1649111008,
+    "fwd_return_1d": -0.0362786537,
+    "fwd_return_5d": -0.0169708579,
+    "fwd_return_21d": -0.0223502974,
+    "fwd_return_63d": -0.2319065542,
+    "event_date": "2025-11-05",
+    "fwd_return_1d_bench": -0.0107294537,
+    "fwd_return_5d_bench": 0.0085597488,
+    "fwd_return_21d_bench": 0.0119689348,
+    "fwd_return_63d_bench": 0.0222566184,
+    "alpha_1d": -0.0255492,
+    "alpha_5d": -0.0255306067,
+    "alpha_21d": -0.0343192322,
+    "alpha_63d": -0.2541631727
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432826000017",
+    "form": "10-Q",
+    "filing_date": "2026-02-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000017/qcom-20251228.htm",
+    "lm_sentiment_score": -0.0207386241,
+    "lm_uncertainty_score": 0.0682339698,
+    "lm_pos_words": 175,
+    "lm_neg_words": 654,
+    "lm_unc_words": 1576,
+    "total_words": 23097,
+    "fog_index": 24.8426223891,
+    "flesch_reading_ease": 5.6316428527,
+    "risk_word_count": 20039,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        18
+      ],
+      [
+        "effective",
+        11
+      ],
+      [
+        "benefits",
+        10
+      ],
+      [
+        "favorable",
+        9
+      ],
+      [
+        "success",
+        9
+      ]
+    ],
+    "top_negative": [
+      [
+        "adversely",
+        30
+      ],
+      [
+        "adverse",
+        30
+      ],
+      [
+        "harm",
+        19
+      ],
+      [
+        "effect",
+        18
+      ],
+      [
+        "defects",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        817
+      ],
+      [
+        "may",
+        299
+      ],
+      [
+        "could",
+        176
+      ],
+      [
+        "if",
+        60
+      ],
+      [
+        "risks",
+        47
+      ]
+    ],
+    "sentiment_yoy_change": -0.0007114538,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0068394707,
+    "uncertainty_change": -0.0001301128,
+    "readability_change": 0.0335983773,
+    "sentiment_yoy_change_z": -0.0118340653,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1357876448,
+    "uncertainty_change_z": -0.1259776246,
+    "readability_change_z": -0.1195008299,
+    "composite_signal": 0.184716017,
+    "fwd_return_1d": -0.0845590062,
+    "fwd_return_5d": -0.0527235342,
+    "fwd_return_21d": -0.082804816,
+    "fwd_return_63d": 0.3016750575,
+    "event_date": "2026-02-04",
+    "fwd_return_1d_bench": -0.0124892841,
+    "fwd_return_5d_bench": 0.0084087544,
+    "fwd_return_21d_bench": -0.0201257128,
+    "fwd_return_63d_bench": 0.0723474255,
+    "alpha_1d": -0.0720697222,
+    "alpha_5d": -0.0611322886,
+    "alpha_21d": -0.0626791032,
+    "alpha_63d": 0.2293276321
+  },
+  {
+    "ticker": "QCOM",
+    "accession": "000080432826000061",
+    "form": "10-Q",
+    "filing_date": "2026-04-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000061/qcom-20260329.htm",
+    "lm_sentiment_score": -0.0199355028,
+    "lm_uncertainty_score": 0.0660468233,
+    "lm_pos_words": 186,
+    "lm_neg_words": 662,
+    "lm_unc_words": 1577,
+    "total_words": 23877,
+    "fog_index": 24.7137258016,
+    "flesch_reading_ease": 6.2376911463,
+    "risk_word_count": 20064,
+    "finbert_sentiment_score": 0.0,
+    "top_positive": [
+      [
+        "growth",
+        18
+      ],
+      [
+        "favorable",
+        15
+      ],
+      [
+        "effective",
+        10
+      ],
+      [
+        "value",
+        10
+      ],
+      [
+        "benefits",
+        9
+      ]
+    ],
+    "top_negative": [
+      [
+        "adverse",
+        30
+      ],
+      [
+        "adversely",
+        29
+      ],
+      [
+        "harm",
+        19
+      ],
+      [
+        "effect",
+        18
+      ],
+      [
+        "defects",
+        18
+      ]
+    ],
+    "top_uncertainty": [
+      [
+        "or",
+        817
+      ],
+      [
+        "may",
+        299
+      ],
+      [
+        "could",
+        176
+      ],
+      [
+        "if",
+        60
+      ],
+      [
+        "risks",
+        47
+      ]
+    ],
+    "sentiment_yoy_change": 0.0004354177,
+    "finbert_yoy_change": 0.0,
+    "risk_wordcount_yoy_pct": -0.0067818425,
+    "uncertainty_change": -0.0010498961,
+    "readability_change": 0.0066007521,
+    "sentiment_yoy_change_z": 0.1112743479,
+    "finbert_yoy_change_z": 0.0,
+    "risk_wordcount_yoy_pct_z": -0.1357786537,
+    "uncertainty_change_z": -0.1931822568,
+    "readability_change_z": -0.1279690552,
+    "composite_signal": 0.2841021568,
+    "fwd_return_1d": 0.1511539276,
+    "fwd_return_5d": 0.2344231697,
+    "fwd_return_21d": 0.6091026561,
+    "fwd_return_63d": null,
+    "event_date": "2026-04-29",
+    "fwd_return_1d_bench": 0.0099496335,
+    "fwd_return_5d_bench": 0.0312684218,
+    "fwd_return_21d_bench": 0.0630989935,
+    "fwd_return_63d_bench": null,
+    "alpha_1d": 0.1412042941,
+    "alpha_5d": 0.2031547479,
+    "alpha_21d": 0.5460036625,
+    "alpha_63d": null
+  }
+]
